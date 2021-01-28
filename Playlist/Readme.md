@@ -1,4 +1,4 @@
-# Englisch Section
+# English Section
 ## Free Internet Radio
 Free Internet Radios as m3u or m3u8 playlist
 
