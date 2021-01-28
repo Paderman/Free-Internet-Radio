@@ -1,7 +1,5 @@
 #NAME Radio Hochstift (Internet-Radio | mp3 | 128 kbps)
 #EXTM3U
-#EXTINF:-1,A
-http://
 #EXTINF:-1,Antenne AC
 https://stream.lokalradio.nrw/444z5bb
 #EXTINF:-1,Antenne Düsseldorf
