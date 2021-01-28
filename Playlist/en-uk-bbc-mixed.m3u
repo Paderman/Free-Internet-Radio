@@ -1,0 +1,34 @@
+#EXTM3U
+## These internet radio URLs replace the ones used in the former GarfNet Internet Radio player. They should all work directly in your browser and they should open in a new browser tab. Alternatively, you may copy them and use them in an internet radio application of your choice. ##
+#EXTINF:0,BBC Radio 1 FM
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+#EXTINF:0,BBC Radio 2 FM
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+#EXTINF:0,BBC Radio 3 FM
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+#EXTINF:0,BBC Radio 4 FM
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+#EXTINF:0,BBC Radio 4 LW 198 kHz
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4lw_mf_p
+#EXTINF:0,BBC Radio 4 Extra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
+#EXTINF:0,BBC Radio 5 Live
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+#EXTINF:0,BBC Radio 6 Music
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+#EXTINF:0,BBC 1Xtra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
+#EXTINF:0,BBC Asian Network
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p
+#EXTINF:0,BBC World Service English (backup)
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk_backup
+#EXTINF:0,BBC World Service English (UK Schedule)
+http://wsdownload.bbc.co.uk/worldservice/meta/live/shoutcast/mp3/eieuk.pls
+#EXTINF:0,(ILR) Classic FM
+http://media-ice.musicradio.com:80/ClassicFMMP3
+#EXTINF:0,(pirate) Radio Caroline
+http://sc3.radiocaroline.net:8030/listen.m3u
+#EXTINF:0,(pirate) Radio North Sea International (128kb/s AAC)
+http://109.169.54.86:8044/listen.pls
+#EXTINF:0,(pirate) Radio North Sea International (192 kb/s MP3)
+http://188.40.135.197:8388/listen.pls
