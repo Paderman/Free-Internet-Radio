@@ -1,0 +1,130 @@
+#NAME Radio Hochstift (Internet-Radio | mp3 | 128 kbps)
+#EXTM3U
+#EXTINF:-1,A
+http://
+#EXTINF:-1,Antenne AC
+https://stream.lokalradio.nrw/444z5bb
+#EXTINF:-1,Antenne Düsseldorf
+https://stream.lokalradio.nrw/444z5n3
+#EXTINF:-1,Antenne Münster
+https://mms.hoerradar.de/am128k
+#EXTINF:-1,Antenne Unna
+https://stream.lokalradio.nrw/4453yzk
+#EXTINF:-1,Hellweg Radio Ost
+https://stream.lokalradio.nrw/4453zkb
+#EXTINF:-1,Hellweg Radio West
+https://stream.lokalradio.nrw/4453zd3
+#EXTINF:-1,NE-WS 89.4
+https://stream.lokalradio.nrw/444z5zk
+#EXTINF:-1,Radio 90.1
+https://stream.lokalradio.nrw/444z6ft
+#EXTINF:-1,Radio 91.2 (Dortmund)
+https://stream.lokalradio.nrw/4453z6t
+#EXTINF:-1,Radio Berg
+https://stream.lokalradio.nrw/444z6tb
+#EXTINF:-1,Radio Bielefeld
+https://radiobielefeld-live.cast.addradio.de/radiobielefeld/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio Bochum
+https://stream.lokalradio.nrw/444zbrk
+#EXTINF:-1,Radio Bonn/Rhein-Sieg
+https://stream.lokalradio.nrw/444z6zk
+#EXTINF:-1,Radio Duisburg
+https://stream.lokalradio.nrw/444zbw3
+#EXTINF:-1,Radio Emscher Lippe
+https://stream.lokalradio.nrw/444zbzk
+#EXTINF:-1,Radio Ennepe Ruhr
+https://stream.lokalradio.nrw/444zc53
+#EXTINF:-1,Radio Erft
+https://stream.lokalradio.nrw/444z76t
+#EXTINF:-1,Radio Euskirchen
+https://stream.lokalradio.nrw/444z7d3
+#EXTINF:-1,Radio Gütersloh
+https://radioguetersloh-live.cast.addradio.de/radioguetersloh/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio Herford
+https://radioherford-live.cast.addradio.de/radioherford/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio Herne
+https://stream.lokalradio.nrw/444zchk
+#EXTINF:-1,Radio Hochstift
+https://radiohochstift-live.cast.addradio.de/radiohochstift/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio k.w.
+https://stream.lokalradio.nrw/444zcn3
+#EXTINF:-1,Radio Kiepenkerl Nord
+https://stream.lokalradio.nrw/4453zrk
+#EXTINF:-1,Radio Kiepenkerl Süd
+https://stream.lokalradio.nrw/4453zxt
+#EXTINF:-1,Radio Köln
+https://stream.lokalradio.nrw/444z7kb
+#EXTINF:-1,Radio Leverkusen
+https://stream.lokalradio.nrw/444z7rk
+#EXTINF:-1,Radio Lippe
+https://radiolippe-live.cast.addradio.de/radiolippe/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio Lippe Welle Hamm
+https://stream.lokalradio.nrw/4454253
+#EXTINF:-1,Radio MK Nord
+https://stream.lokalradio.nrw/44542bb
+#EXTINF:-1,Radio MK Süd
+https://stream.lokalradio.nrw/44542hk
+#EXTINF:-1,Radio Mülheim
+https://stream.lokalradio.nrw/444zcrk
+#EXTINF:-1,Radio Neandertal
+https://stream.lokalradio.nrw/444z66t
+#EXTINF:-1,Radio Niederrhein
+https://stream.lokalradio.nrw/444z5pt
+#EXTINF:-1,Radio Oberhausen
+https://stream.lokalradio.nrw/444zcw3
+#EXTINF:-1,Radio RSG
+https://stream.lokalradio.nrw/444zdd3
+#EXTINF:-1,Radio RST
+https://mms.hoerradar.de/rst128k
+#EXTINF:-1,Radio RUR
+https://stream.lokalradio.nrw/444z7xt
+#EXTINF:-1,Radio Sauerland
+https://stream.lokalradio.nrw/444zczk
+#EXTINF:-1,Radio Siegen
+https://stream.lokalradio.nrw/444z553
+#EXTINF:-1,Radio Vest
+https://stream.lokalradio.nrw/444zd53
+#EXTINF:-1,Radio WAF
+https://radiowaf-live.cast.addradio.de/radiowaf/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio Westfalica
+https://radiowestfalica-live.cast.addradio.de/radiowestfalica/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio WMW
+https://mms.hoerradar.de/wmw128k
+#EXTINF:-1,Welle Niederrhein
+https://stream.lokalradio.nrw/444z6rk
+#EXTINF:-1,Dein 80er Radio
+https://rnrw.cast.addradio.de/rnrw-017F/dein80er/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein 90er Radio
+https://rnrw.cast.addradio.de/rnrw-017F/dein90er/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein 2000er Radio
+https://stream.lokalradio.nrw/4456ym6
+#EXTINF:-1,Dein Dance Radio
+https://stream.lokalradio.nrw/4456mmj
+#EXTINF:-1,Dein Deutschpop Radio
+https://rnrw.cast.addradio.de/rnrw-017f/deindeutschpop/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein FM
+https://deinfmowl-live.cast.addradio.de/deinfmowl/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Dein HipHop Radio
+https://stream.lokalradio.nrw/4458dx4
+#EXTINF:-1,Dein Karnevals Radio
+https://rnrw.cast.addradio.de/rnrw-017f/deinkarnevalsradio/mp3/high/stream.mp3?ar-distributor=f0b7?sid=017f&kombi=owlplus
+#EXTINF:-1,Dein Lounge Radio
+https://rnrw.cast.addradio.de/rnrw-017F/deinlounge/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein Love Radio
+https://rnrw.cast.addradio.de/rnrw-017f/deinlove/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein New Country Radio
+https://stream.lokalradio.nrw/44582xg
+#EXTINF:-1,Dein Rock Classic Radio
+https://stream.lokalradio.nrw/4457bkt
+#EXTINF:-1,Dein Rock Radio
+https://rnrw.cast.addradio.de/rnrw-017F/deinrock/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein Schlager Radio
+https://rnrw.cast.addradio.de/rnrw-017f/deinschlager/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein Singer/Songwriter
+https://stream.lokalradio.nrw/44568mw
+#EXTINF:-1,Dein Top 40 Radio
+https://rnrw.cast.addradio.de/rnrw-017F/deintop40/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein Urban Radio
+https://rnrw.cast.addradio.de/rnrw-017F/deinurban/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein Weihnachts-Radio
+https://rnrw.cast.addradio.de/rnrw-017f/deinevent/high/stream.mp3?ar-distributor=f0b7?ar-purpose=web

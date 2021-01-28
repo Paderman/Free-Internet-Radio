@@ -1,0 +1,125 @@
+#NAME sunshine live (Internet-Radio | aac | 64 kbps)
+#EXTM3U
+#EXTINF:-1,SSL - Livestream
+https://stream.sunshine-live.de/live/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 80er
+https://stream.sunshine-live.de/80er/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 90er
+https://stream.sunshine-live.de/90er/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 90s Anthems
+https://stream.sunshine-live.de/sp5/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 2000er
+https://stream.sunshine-live.de/2000er/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Afterhour
+https://stream.sunshine-live.de/sp7/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Avicii
+https://stream.sunshine-live.de/avicii/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Best of 20 years
+https://stream.sunshine-live.de/twenty/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Bunker
+https://stream.sunshine-live.de/amsterdam/aac-64/stream.sunshine-live.de
+#EXTINF:-1,SSL - Charts
+https://stream.sunshine-live.de/sp6/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Chillout
+https://stream.sunshine-live.de/sp8/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Classic & Vocal House
+https://stream.sunshine-live.de/vocalhouse/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Classics
+https://stream.sunshine-live.de/classics/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Club
+https://stream.sunshine-live.de/club/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Clubsound Berlin
+https://stream.sunshine-live.de/playlist1/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Drum 'n' Bass
+https://stream.sunshine-live.de/dnb/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - EDM
+https://stream.sunshine-live.de/edm/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Eurodance
+https://stream.sunshine-live.de/eurodance/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Festival
+https://stream.sunshine-live.de/festival/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - focus
+https://stream.sunshine-live.de/focus/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Future Bass
+https://stream.sunshine-live.de/futurebass/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Gaming
+https://stream.sunshine-live.de/gaming/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - German Techno
+https://stream.sunshine-live.de/germante/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Hands Up
+https://stream.sunshine-live.de/handsup/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Hard
+https://stream.sunshine-live.de/hard/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - House
+https://stream.sunshine-live.de/house/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - I AM RAVING
+https://stream.sunshine-live.de/iamraving/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Ibiza
+https://stream.sunshine-live.de/ibiza/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Karotte
+https://stream.sunshine-live.de/karotte50/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Lounge
+https://stream.sunshine-live.de/lounge/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Mayday
+https://stream.sunshine-live.de/mayday/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Melodic Techno
+https://stream.sunshine-live.de/melodic-techno/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Mix Mission
+https://stream.sunshine-live.de/mixmission/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Nature One
+https://stream.sunshine-live.de/natureone/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - New Hits
+https://stream.sunshine-live.de/newhits/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Nighttime Chill
+https://stream.sunshine-live.de/prodigy/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Party
+https://stream.sunshine-live.de/party/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Peaceful Beats
+https://stream.sunshine-live.de/winterchill/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Pop
+https://stream.sunshine-live.de/pop/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Psytrance
+https://stream.sunshine-live.de/xmas/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Quarantäne
+https://stream.sunshine-live.de/quarantaene/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Relax
+https://stream.sunshine-live.de/relax/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Remix
+https://stream.sunshine-live.de/remix/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Summer Beats
+https://stream.sunshine-live.de/sp2/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Tech House
+https://stream.sunshine-live.de/sp4/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Techno
+https://stream.sunshine-live.de/techno/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Techno Queens
+https://stream.sunshine-live.de/technoqueens/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Time Warp
+https://stream.sunshine-live.de/timewarp/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Trance
+https://stream.sunshine-live.de/trance/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Tropical House
+https://stream.sunshine-live.de/tropicalhouse/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Vocal Trance
+https://stream.sunshine-live.de/vocaltrance/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Workout
+https://stream.sunshine-live.de/workout/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL and pride
+https://stream.sunshine-live.de/pride/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL Corona
+https://stream.sunshine-live.de/coronasos/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,Amsterdam Dance Event - Dance
+https://stream.sunshine-live.de/ade18dance/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,Gamescom FM
+https://stream.sunshine-live.de/gamescom/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,Kraftwerk
+https://stream.sunshine-live.de/kraftwerk/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,notband
+https://stream.sunshine-live.de/notband/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,Rave On Snow 2018
+https://stream.sunshine-live.de/raveonsnow/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,Sunshine Live Plus
+https://stream.sunshine-live.de/plus/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Livestream (Backup)
+https://stream.sunshine-live.de/live-backup/aac-64/stream.sunshine-live.de/
+

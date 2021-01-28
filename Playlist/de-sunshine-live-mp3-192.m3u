@@ -1,0 +1,125 @@
+#NAME sunshine live (Internet-Radio | mp3 | 128 kbps)
+#EXTM3U
+#EXTINF:-1,SSL - Livestream
+https://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 80er
+https://stream.sunshine-live.de/80er/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 90er
+https://stream.sunshine-live.de/90er/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 90s Anthems
+https://stream.sunshine-live.de/sp5/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 2000er
+https://stream.sunshine-live.de/2000er/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Afterhour
+https://stream.sunshine-live.de/sp7/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Avicii
+https://stream.sunshine-live.de/avicii/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Best of 20 years
+https://stream.sunshine-live.de/twenty/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Bunker
+https://stream.sunshine-live.de/amsterdam/mp3-192/stream.sunshine-live.de
+#EXTINF:-1,SSL - Charts
+https://stream.sunshine-live.de/sp6/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Chillout
+https://stream.sunshine-live.de/sp8/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Classic & Vocal House
+https://stream.sunshine-live.de/vocalhouse/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Classics
+https://stream.sunshine-live.de/classics/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Club
+https://stream.sunshine-live.de/club/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Clubsound Berlin
+https://stream.sunshine-live.de/playlist1/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Drum 'n' Bass
+https://stream.sunshine-live.de/dnb/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - EDM
+https://stream.sunshine-live.de/edm/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Eurodance
+https://stream.sunshine-live.de/eurodance/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Festival
+https://stream.sunshine-live.de/festival/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - focus
+https://stream.sunshine-live.de/focus/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Future Bass
+https://stream.sunshine-live.de/futurebass/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Gaming
+https://stream.sunshine-live.de/gaming/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - German Techno
+https://stream.sunshine-live.de/germante/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Hands Up
+https://stream.sunshine-live.de/handsup/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Hard
+https://stream.sunshine-live.de/hard/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - House
+https://stream.sunshine-live.de/house/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - I AM RAVING
+https://stream.sunshine-live.de/iamraving/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Ibiza
+https://stream.sunshine-live.de/ibiza/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Karotte
+https://stream.sunshine-live.de/karotte50/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Lounge
+https://stream.sunshine-live.de/lounge/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Mayday
+https://stream.sunshine-live.de/mayday/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Melodic Techno
+https://stream.sunshine-live.de/melodic-techno/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Mix Mission
+https://stream.sunshine-live.de/mixmission/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Nature One
+https://stream.sunshine-live.de/natureone/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - New Hits
+https://stream.sunshine-live.de/newhits/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Nighttime Chill
+https://stream.sunshine-live.de/prodigy/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Party
+https://stream.sunshine-live.de/party/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Peaceful Beats
+https://stream.sunshine-live.de/winterchill/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Pop
+https://stream.sunshine-live.de/pop/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Psytrance
+https://stream.sunshine-live.de/xmas/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Quarantäne
+https://stream.sunshine-live.de/quarantaene/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Relax
+https://stream.sunshine-live.de/relax/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Remix
+https://stream.sunshine-live.de/remix/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Summer Beats
+https://stream.sunshine-live.de/sp2/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Tech House
+https://stream.sunshine-live.de/sp4/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Techno
+https://stream.sunshine-live.de/techno/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Techno Queens
+https://stream.sunshine-live.de/technoqueens/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Time Warp
+https://stream.sunshine-live.de/timewarp/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Trance
+https://stream.sunshine-live.de/trance/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Tropical House
+https://stream.sunshine-live.de/tropicalhouse/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Vocal Trance
+https://stream.sunshine-live.de/vocaltrance/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Workout
+https://stream.sunshine-live.de/workout/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL and pride
+https://stream.sunshine-live.de/pride/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL Corona
+https://stream.sunshine-live.de/coronasos/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,Amsterdam Dance Event - Dance
+https://stream.sunshine-live.de/ade18dance/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,Gamescom FM
+https://stream.sunshine-live.de/gamescom/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,Kraftwerk
+https://stream.sunshine-live.de/kraftwerk/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,notband
+https://stream.sunshine-live.de/notband/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,Rave On Snow 2018
+https://stream.sunshine-live.de/raveonsnow/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,Sunshine Live Plus
+https://stream.sunshine-live.de/plus/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Livestream (Backup)
+https://stream.sunshine-live.de/live-backup/mp3-192/stream.sunshine-live.de/
+

@@ -1,0 +1,38 @@
+#NAME JAM FM (Internet-Radio | mp3 | 128 kbps)
+#EXTM3U
+#EXTINF:-1,logo="https://webradio.jam.fm/resources/10357518/img/110x110_Livestream_JAM.jpg",JAM FM Live
+https://stream.jam.fm/jamfm-live/mp3-128/konsole
+#EXTINF:-1,JAM FM 90er
+https://stream.jam.fm/90er/mp3-128/konsole
+#EXTINF:-1,JAM FM 2000er
+https://stream.jam.fm/2010er/mp3-128/konsole:
+#EXTINF:-1,JAM FM Black
+https://stream.jam.fm/jamfm-bl/mp3-128/konsole/
+#EXTINF:-1,JAM FM Charts
+https://stream.jam.fm/charts/mp3-128/konsole/
+#EXTINF:-1,JAM FM Chill
+https://stream.jam.fm/chill/mp3-128/konsole/
+#EXTINF:-1,JAM FM Chill the Virus
+https://rtlberlin.streamabc.net/rtlb-rtlbtjziyg32earbqo-mp3-128-8215052
+#EXTINF:-1,JAM FM DJ Cooper
+https://stream.jam.fm/djcooper/mp3-128/konsole/
+#EXTINF:-1,JAM FM Elektro
+https://stream.jam.fm/elektro/mp3-128/konsole/
+#EXTINF:-1,JAM FM Generation Deutschrap
+https://stream.jam.fm/deutschrap/mp3-128/konsole/
+#EXTINF:-1,JAM FM K-Pop
+https://rtlberlin.streamabc.net/rtlb-jamfmkpop-mp3-128-8582229
+#EXTINF:-1,JAM FM New Music Radio
+https://stream.jam.fm/jamfm-nmr/mp3-128/konsole/
+#EXTINF:-1,JAM FM Party
+https://stream.jam.fm/party/mp3-128/konsole/
+#EXTINF:-1,JAM FM Rap
+https://stream.jam.fm/rap/mp3-128/konsole/
+#EXTINF:-1,JAM FM Russkiye Khity (Русские Хити)
+https://stream.jam.fm/russkiye/mp3-128/konsole/
+#EXTINF:-1,JAM FM Study
+https://stream.jam.fm/study/mp3-128/konsole/
+#EXTINF:-1,JAM FM The Wave
+https://stream.thewaveradio.de/wave-live/mp3-128/konsole/
+#EXTINF:-1,JAM FM Workout
+https://stream.jam.fm/workout/mp3-128/konsole
