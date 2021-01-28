@@ -1,0 +1,54 @@
+#NAME AFN (Internet Radio | mp3)
+
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20873.live.streamtheworld.com/AFNE_AVN.mp3:AFN|Aviano
+#DESCRIPTION AFN|Aviano
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20423.live.streamtheworld.com/AFNE_BHN.mp3:AFN|Bahrain
+#DESCRIPTION AFN|Bahrain
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20133.live.streamtheworld.com/AFNE_BAV.mp3:AFN|Bavaria
+#DESCRIPTION AFN|Bavaria
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20133.live.streamtheworld.com/AFNE_BLX.mp3:AFN|Benelux
+#DESCRIPTION AFN|Benelux
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//17963.live.streamtheworld.com/AFN_CTY.mp3:AFN|Country
+#DESCRIPTION AFN|Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//17533.live.streamtheworld.com/AFN_FAN.mp3:AFN|Fans
+#DESCRIPTION AFN|Fans
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20813.live.streamtheworld.com/AFN_FRE.mp3:AFN|Freedom
+#DESCRIPTION AFN|Freedom
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/AFNE_GMO.mp3:AFN|GITMO
+#DESCRIPTION AFN|GITMO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//14103.live.streamtheworld.com/AFN_GRV.mp3:AFN|Gravity
+#DESCRIPTION AFN|Gravity
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23603.live.streamtheworld.com/AFN_SEA.mp3:AFN|Holiday
+#DESCRIPTION AFN|Holiday
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20813.live.streamtheworld.com/AFN_HOT.mp3:AFN|Hot AC
+#DESCRIPTION AFN|Hot AC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20423.live.streamtheworld.com/AFNE_ICK.mp3:AFN|Incirlik
+#DESCRIPTION AFN|Incirlik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//18443.live.streamtheworld.com/AFN_JOE.mp3:AFN|Joe Radio
+#DESCRIPTION AFN|Joe Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20133.live.streamtheworld.com/AFNE_KTN.mp3:AFN|Kaiserslautern
+#DESCRIPTION AFN|Kaiserslautern
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22613.live.streamtheworld.com/AFNE_LJS.mp3:AFN|Lajes
+#DESCRIPTION AFN|Lajes
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//14543.live.streamtheworld.com/AFN_LGY.mp3:AFN|Legacy
+#DESCRIPTION AFN|Legacy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20873.live.streamtheworld.com/AFNE_NAP.mp3:AFN|Naples
+#DESCRIPTION AFN|Naples
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20813.live.streamtheworld.com/AFN_PTK.mp3:AFN|PowerTalk
+#DESCRIPTION AFN|PowerTalk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20423.live.streamtheworld.com/AFNE_RTA.mp3:AFN|Rota
+#DESCRIPTION AFN|Rota
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20423.live.streamtheworld.com/AFNE_SIG.mp3:AFN|Sigonella
+#DESCRIPTION AFN|Sigonella
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22323.live.streamtheworld.com/AFNE_SDB.mp3:AFN|Souda Bay
+#DESCRIPTION AFN|Souda Bay
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/AFNE_SPG.mp3:AFN|Spangdahlem
+#DESCRIPTION AFN|Spangdahlem
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23603.live.streamtheworld.com/AFNE_STU.mp3:AFN|Stuttgart
+#DESCRIPTION AFN|Stuttgart
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23113.live.streamtheworld.com/AFN_VCE.mp3:AFN|The Voice
+#DESCRIPTION AFN|The Voice
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23603.live.streamtheworld.com/AFNE_VIC.mp3:AFN|Vicenza
+#DESCRIPTION AFN|Vicenza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20873.live.streamtheworld.com/AFNE_WBN.mp3:AFN|Wiesbaden
+#DESCRIPTION AFN|Wiesbaden

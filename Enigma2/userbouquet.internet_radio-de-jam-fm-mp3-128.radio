@@ -1,0 +1,37 @@
+#NAME JAM FM (Internet-Radio | mp3 | 128 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/jamfm-live/mp3-128/konsole/:JAM FM Live
+#DESCRIPTION JAM FM Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/90er/mp3-128/konsole/:JAM FM 90er
+#DESCRIPTION JAM FM 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/2010er/mp3-128/konsole/:JAM FM 2000er
+#DESCRIPTION JAM FM 2000er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/jamfm-bl/mp3-128/konsole/:JAM FM Black
+#DESCRIPTION JAM FM Black
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/charts/mp3-128/konsole/:JAM FM Charts
+#DESCRIPTION JAM FM Charts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/chill/mp3-128/konsole/:JAM FM Chill
+#DESCRIPTION JAM FM Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlbtjziyg32earbqo-mp3-128-8215052:JAM FM Chill the Virus
+#DESCRIPTION JAM FM Chill the Virus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/djcooper/mp3-128/konsole/:JAM FM DJ Cooper
+#DESCRIPTION JAM FM DJ Cooper
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/elektro/mp3-128/konsole/:JAM FM Elektro
+#DESCRIPTION JAM FM Elektro
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/deutschrap/mp3-128/konsole/:JAM FM Generation Deutschrap
+#DESCRIPTION JAM FM Generation Deutschrap
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-jamfmkpop-mp3-128-8582229:JAM FM K-Pop
+#DESCRIPTION JAM FM K-Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/jamfm-nmr/mp3-128/konsole/:JAM FM New Music Radio
+#DESCRIPTION JAM FM New Music Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/party/mp3-128/konsole/:JAM FM Party
+#DESCRIPTION JAM FM Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/rap/mp3-128/konsole/:JAM FM Rap
+#DESCRIPTION JAM FM Rap
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/russkiye/mp3-128/konsole/:JAM FM Russkiye Khity (Русские Хити)
+#DESCRIPTION JAM FM Russkiye Khity (Русские Хити)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/study/mp3-128/konsole/:JAM FM Study
+#DESCRIPTION JAM FM Study
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.thewaveradio.de/wave-live/mp3-128/konsole/:JAM FM The Wave
+#DESCRIPTION JAM FM The Wave
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/workout/mp3-128/konsole/:JAM FM Workout
+#DESCRIPTION JAM FM Workout

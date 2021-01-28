@@ -1,0 +1,141 @@
+#NAME RADIO NRW (Internet Radio)
+#SERVICE 1:64:1:0:0:0:0:0:0:0::LOKAL
+#DESCRIPTION LOKAL
+#SERVICE 1:64:2:0:0:0:0:0:0:0::A
+#DESCRIPTION A
+#SERVICE 4097:0:2:1:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z5bb:Antenne AC
+#DESCRIPTION Antenne AC
+#SERVICE 4097:0:2:5:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z5n3:Antenne Düsseldorf
+#DESCRIPTION Antenne Düsseldorf
+#SERVICE 4097:0:2:9:0:0:0:0:0:0:https%3a//mms.hoerradar.de/am128k:Antenne Münster
+#DESCRIPTION Antenne Münster
+#SERVICE 4097:0:2:13:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4453yzk:Antenne Unna
+#DESCRIPTION Antenne Unna
+#SERVICE 1:64:3:0:0:0:0:0:0:0::H
+#DESCRIPTION H
+#SERVICE 4097:0:2:17:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4453zkb:Hellweg Radio Ost
+#DESCRIPTION Hellweg Radio Ost
+#SERVICE 4097:0:2:21:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4453zd3:Hellweg Radio West
+#DESCRIPTION Hellweg Radio West
+#SERVICE 1:64:4:0:0:0:0:0:0:0::N
+#DESCRIPTION N
+#SERVICE 4097:0:2:25:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z5zk:NE-WS 89.4
+#DESCRIPTION NE-WS 89.4
+#SERVICE 1:64:5:0:0:0:0:0:0:0::R
+#DESCRIPTION R
+#SERVICE 4097:0:2:29:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z6ft:Radio 90.1
+#DESCRIPTION Radio 90.1
+#SERVICE 4097:0:2:33:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4453z6t:Radio 91.2 (Dortmund)
+#DESCRIPTION Radio 91.2 (Dortmund)
+#SERVICE 4097:0:2:37:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z6tb:Radio Berg
+#DESCRIPTION Radio Berg
+#SERVICE 4097:0:2:41:0:0:0:0:0:0:https%3a//radiobielefeld-live.cast.addradio.de/radiobielefeld/live/mp3/high?ar-distributor=f0b7:Radio Bielefeld
+#DESCRIPTION Radio Bielefeld
+#SERVICE 4097:0:2:45:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zbrk:Radio Bochum
+#DESCRIPTION Radio Bochum
+#SERVICE 4097:0:2:49:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z6zk:Radio Bonn/Rhein-Sieg
+#DESCRIPTION Radio Bonn/Rhein-Sieg
+#SERVICE 4097:0:2:53:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zbw3:Radio Duisburg
+#DESCRIPTION Radio Duisburg
+#SERVICE 4097:0:2:57:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zbzk:Radio Emscher Lippe
+#DESCRIPTION Radio Emscher Lippe
+#SERVICE 4097:0:2:61:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zc53:Radio Ennepe Ruhr
+#DESCRIPTION Radio Ennepe Ruhr
+#SERVICE 4097:0:2:65:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z76t:Radio Erft
+#DESCRIPTION Radio Erft
+#SERVICE 4097:0:2:69:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z7d3:Radio Euskirchen
+#DESCRIPTION Radio Euskirchen
+#SERVICE 4097:0:2:73:0:0:0:0:0:0:https%3a//radioguetersloh-live.cast.addradio.de/radioguetersloh/live/mp3/high?ar-distributor=f0b7:Radio Gütersloh
+#DESCRIPTION Radio Gütersloh
+#SERVICE 4097:0:2:77:0:0:0:0:0:0:https%3a//radioherford-live.cast.addradio.de/radioherford/live/mp3/high?ar-distributor=f0b7:Radio Herford
+#DESCRIPTION Radio Herford
+#SERVICE 4097:0:2:81:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zchk:Radio Herne
+#DESCRIPTION Radio Herne
+#SERVICE 4097:0:2:85:0:0:0:0:0:0:https%3a//radiohochstift-live.cast.addradio.de/radiohochstift/live/mp3/high?ar-distributor=f0b7:Radio Hochstift
+#DESCRIPTION Radio Hochstift
+#SERVICE 4097:0:2:88:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zcn3:Radio k.w.
+#DESCRIPTION Radio k.w.
+#SERVICE 4097:0:2:92:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4453zrk:Radio Kiepenkerl Nord
+#DESCRIPTION Radio Kiepenkerl Nord
+#SERVICE 4097:0:2:96:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4453zxt:Radio Kiepenkerl Süd
+#DESCRIPTION Radio Kiepenkerl Süd
+#SERVICE 4097:0:2:100:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z7kb:Radio Köln
+#DESCRIPTION Radio Köln
+#SERVICE 4097:0:2:104:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z7rk:Radio Leverkusen
+#DESCRIPTION Radio Leverkusen
+#SERVICE 4097:0:2:108:0:0:0:0:0:0:https%3a//radiolippe-live.cast.addradio.de/radiolippe/live/mp3/high?ar-distributor=f0b7:Radio Lippe
+#DESCRIPTION Radio Lippe
+#SERVICE 4097:0:2:112:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4454253:Radio Lippe Welle Hamm
+#DESCRIPTION Radio Lippe Welle Hamm
+#SERVICE 4097:0:2:116:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/44542bb:Radio MK Nord
+#DESCRIPTION Radio MK Nord
+#SERVICE 4097:0:2:120:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/44542hk:Radio MK Süd
+#DESCRIPTION Radio MK Süd
+#SERVICE 4097:0:2:124:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zcrk:Radio Mülheim
+#DESCRIPTION Radio Mülheim
+#SERVICE 4097:0:2:128:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z66t:Radio Neandertal
+#DESCRIPTION Radio Neandertal
+#SERVICE 4097:0:2:132:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z5pt:Radio Niederrhein
+#DESCRIPTION Radio Niederrhein
+#SERVICE 4097:0:2:136:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zcw3:Radio Oberhausen
+#DESCRIPTION Radio Oberhausen
+#SERVICE 4097:0:2:140:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zdd3:Radio RSG
+#DESCRIPTION Radio RSG
+#SERVICE 4097:0:2:144:0:0:0:0:0:0:https%3a//mms.hoerradar.de/rst128k:Radio RST
+#DESCRIPTION Radio RST
+#SERVICE 4097:0:2:148:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z7xt:Radio RUR
+#DESCRIPTION Radio RUR
+#SERVICE 4097:0:2:152:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zczk:Radio Sauerland
+#DESCRIPTION Radio Sauerland
+#SERVICE 4097:0:2:156:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z553:Radio Siegen
+#DESCRIPTION Radio Siegen
+#SERVICE 4097:0:2:160:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zd53:Radio Vest
+#DESCRIPTION Radio Vest
+#SERVICE 4097:0:2:164:0:0:0:0:0:0:https%3a//radiowaf-live.cast.addradio.de/radiowaf/live/mp3/high?ar-distributor=f0b7:Radio WAF
+#DESCRIPTION Radio WAF
+#SERVICE 4097:0:2:168:0:0:0:0:0:0:https%3a//radiowestfalica-live.cast.addradio.de/radiowestfalica/live/mp3/high?ar-distributor=f0b7:Radio Westfalica
+#DESCRIPTION Radio Westfalica
+#SERVICE 4097:0:2:172:0:0:0:0:0:0:https%3a//mms.hoerradar.de/wmw128k:Radio WMW
+#DESCRIPTION Radio WMW
+#SERVICE 1:64:6:0:0:0:0:0:0:0::W
+#DESCRIPTION W
+#SERVICE 4097:0:2:175:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z6rk:Welle Niederrhein
+#DESCRIPTION Welle Niederrhein
+#SERVICE 1:64:7:0:0:0:0:0:0:0::EXTRA
+#DESCRIPTION EXTRA
+#SERVICE 4097:0:2:4:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017F/dein80er/high/stream.mp3?ar-distributor=f0b7:Dein 80er Radio
+#DESCRIPTION Dein 80er Radio
+#SERVICE 4097:0:2:6:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017F/dein90er/high/stream.mp3?ar-distributor=f0b7:Dein 90er Radio
+#DESCRIPTION Dein 90er Radio
+#SERVICE 4097:0:2:8:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4456ym6:Dein 2000er Radio
+#DESCRIPTION Dein 2000er Radio
+#SERVICE 4097:0:2:10:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4456mmj:Dein Dance Radio
+#DESCRIPTION Dein Dance Radio
+#SERVICE 4097:0:2:12:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017f/deindeutschpop/high/stream.mp3?ar-distributor=f0b7:Dein Deutschpop Radio
+#DESCRIPTION Dein Deutschpop Radio
+#SERVICE 4097:0:2:14:0:0:0:0:0:0:https%3a//deinfmowl-live.cast.addradio.de/deinfmowl/live/mp3/high?ar-distributor=f0b7:Dein FM
+#DESCRIPTION Dein FM
+#SERVICE 4097:0:2:16:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4458dx4:Dein HipHop Radio
+#DESCRIPTION Dein HipHop Radio
+#SERVICE 4097:0:2:18:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017f/deinkarnevalsradio/mp3/high/stream.mp3?ar-distributor=f0b7?sid=017f&amp;kombi=owlplus:Dein Karnevals Radio
+#DESCRIPTION Dein Karnevals Radio
+#SERVICE 4097:0:2:20:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017F/deinlounge/high/stream.mp3?ar-distributor=f0b7:Dein Lounge Radio
+#DESCRIPTION Dein Lounge Radio
+#SERVICE 4097:0:2:22:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017f/deinlove/high/stream.mp3?ar-distributor=f0b7:Dein Love Radio
+#DESCRIPTION Dein Love Radio
+#SERVICE 4097:0:2:24:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/44582xg:Dein New Country Radio
+#DESCRIPTION Dein New Country Radio
+#SERVICE 4097:0:2:26:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4457bkt:Dein Rock Classic Radio
+#DESCRIPTION Dein Rock Classic Radio
+#SERVICE 4097:0:2:28:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017F/deinrock/high/stream.mp3?ar-distributor=f0b7:Dein Rock Radio
+#DESCRIPTION Dein Rock Radio
+#SERVICE 4097:0:2:30:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017f/deinschlager/high/stream.mp3?ar-distributor=f0b7:Dein Schlager Radio
+#DESCRIPTION Dein Schlager Radio
+#SERVICE 4097:0:2:32:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/44568mw:Dein Singer/Songwriter
+#DESCRIPTION Dein Singer/Songwriter
+#SERVICE 4097:0:2:34:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017F/deintop40/high/stream.mp3?ar-distributor=f0b7:Dein Top 40 Radio
+#DESCRIPTION Dein Top 40 Radio
+#SERVICE 4097:0:2:36:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017F/deinurban/high/stream.mp3?ar-distributor=f0b7:Dein Urban Radio
+#DESCRIPTION Dein Urban Radio
+#SERVICE 4097:0:2:38:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017f/deinevent/high/stream.mp3?ar-distributor=f0b7?ar-purpose=web:Dein Weihnachts-Radio
+#DESCRIPTION Dein Weihnachts-Radio

@@ -1,0 +1,123 @@
+#NAME sunshine live (Internet-Radio | mp3 | 128 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/live/mp3-128/stream.sunshine-live.de/:SSL - Livestream
+#DESCRIPTION SSL - Livestream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/80er/mp3-128/stream.sunshine-live.de/:SSL - 80er
+#DESCRIPTION SSL - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/90er/mp3-128/stream.sunshine-live.de/:SSL - 90er
+#DESCRIPTION SSL - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp5/mp3-128/stream.sunshine-live.de/:SSL - 90s Anthems
+#DESCRIPTION SSL - 90s Anthems
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/2000er/mp3-128/stream.sunshine-live.de/:SSL - 2000er
+#DESCRIPTION SSL - 2000er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp7/mp3-128/stream.sunshine-live.de/:SSL - Afterhour
+#DESCRIPTION SSL - Afterhour
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/avicii/mp3-128/stream.sunshine-live.de/:SSL - Avicii
+#DESCRIPTION SSL - Avicii
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/twenty/mp3-128/stream.sunshine-live.de/:SSL - Best of 20 years
+#DESCRIPTION SSL - Best of 20 years
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/amsterdam/mp3-128/stream.sunshine-live.de/:SSL - Bunker
+#DESCRIPTION SSL - Bunker
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp6/mp3-128/stream.sunshine-live.de/:SSL - Charts
+#DESCRIPTION SSL - Charts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp8/mp3-128/stream.sunshine-live.de/:SSL - Chillout
+#DESCRIPTION SSL - Chillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/vocalhouse/mp3-128/stream.sunshine-live.de/:SSL - Classic & Vocal House
+#DESCRIPTION SSL - Classic & Vocal House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/classics/mp3-128/stream.sunshine-live.de/:SSL - Classics
+#DESCRIPTION SSL - Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/club/mp3-128/stream.sunshine-live.de/:SSL - Club
+#DESCRIPTION SSL - Club
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/playlist1/mp3-128/stream.sunshine-live.de/:SSL - Clubsound Berlin
+#DESCRIPTION SSL - Clubsound Berlin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/dnb/mp3-128/stream.sunshine-live.de/:SSL - Drum 'n' Bass
+#DESCRIPTION SSL - Drum 'n' Bass
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/edm/mp3-128/stream.sunshine-live.de/:SSL - EDM
+#DESCRIPTION SSL - EDM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/eurodance/mp3-128/stream.sunshine-live.de/:SSL - Eurodance
+#DESCRIPTION SSL - Eurodance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/festival/mp3-128/stream.sunshine-live.de/:SSL - Festival
+#DESCRIPTION SSL - Festival
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/focus/mp3-128/stream.sunshine-live.de/:SSL - focus
+#DESCRIPTION SSL - focus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/futurebass/mp3-128/stream.sunshine-live.de/:SSL - Future Bass
+#DESCRIPTION SSL - Future Bass
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/gaming/mp3-128/stream.sunshine-live.de/:SSL - Gaming
+#DESCRIPTION SSL - Gaming
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/germante/mp3-128/stream.sunshine-live.de/:SSL - German Techno
+#DESCRIPTION SSL - German Techno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/handsup/mp3-128/stream.sunshine-live.de/:SSL - Hands Up
+#DESCRIPTION SSL - Hands Up
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/hard/mp3-128/stream.sunshine-live.de/:SSL - Hard
+#DESCRIPTION SSL - Hard
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/house/mp3-128/stream.sunshine-live.de/:SSL - House
+#DESCRIPTION SSL - House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/iamraving/mp3-128/stream.sunshine-live.de/:SSL - I AM RAVING
+#DESCRIPTION SSL - I AM RAVING
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/ibiza/mp3-128/stream.sunshine-live.de/:SSL - Ibiza
+#DESCRIPTION SSL - Ibiza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/karotte50/mp3-128/stream.sunshine-live.de/:SSL - Karotte
+#DESCRIPTION SSL - Karotte
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/lounge/mp3-128/stream.sunshine-live.de/:SSL - Lounge
+#DESCRIPTION SSL - Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/mayday/mp3-128/stream.sunshine-live.de/:SSL - Mayday
+#DESCRIPTION SSL - Mayday
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/melodic-techno/mp3-128/stream.sunshine-live.de/:SSL - Melodic Techno
+#DESCRIPTION SSL - Melodic Techno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/mixmission/mp3-128/stream.sunshine-live.de/:SSL - Mix Mission
+#DESCRIPTION SSL - Mix Mission
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/natureone/mp3-128/stream.sunshine-live.de/:SSL - Nature One
+#DESCRIPTION SSL - Nature One
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/newhits/mp3-128/stream.sunshine-live.de/:SSL - New Hits
+#DESCRIPTION SSL - New Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/prodigy/mp3-128/stream.sunshine-live.de/:SSL - Nighttime Chill
+#DESCRIPTION SSL - Nighttime Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/party/mp3-128/stream.sunshine-live.de/:SSL - Party
+#DESCRIPTION SSL - Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/winterchill/mp3-128/stream.sunshine-live.de/:SSL - Peaceful Beats
+#DESCRIPTION SSL - Peaceful Beats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/pop/mp3-128/stream.sunshine-live.de/:SSL - Pop
+#DESCRIPTION SSL - Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/xmas/mp3-128/stream.sunshine-live.de/:SSL - Psytrance
+#DESCRIPTION SSL - Psytrance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/quarantaene/mp3-128/stream.sunshine-live.de/:SSL - Quarantäne
+#DESCRIPTION SSL - Quarantäne
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/relax/mp3-128/stream.sunshine-live.de/:SSL - Relax
+#DESCRIPTION SSL - Relax
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/remix/mp3-128/stream.sunshine-live.de/:SSL - Remix
+#DESCRIPTION SSL - Remix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp2/mp3-128/stream.sunshine-live.de/:SSL - Summer Beats
+#DESCRIPTION SSL - Summer Beats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp4/mp3-128/stream.sunshine-live.de/:SSL - Tech House
+#DESCRIPTION SSL - Tech House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/techno/mp3-128/stream.sunshine-live.de/:SSL - Techno
+#DESCRIPTION SSL - Techno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/technoqueens/mp3-128/stream.sunshine-live.de/:SSL - Techno Queens
+#DESCRIPTION SSL - Techno Queens
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/timewarp/mp3-128/stream.sunshine-live.de/:SSL - Time Warp
+#DESCRIPTION SSL - Time Warp
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/trance/mp3-128/stream.sunshine-live.de/:SSL - Trance
+#DESCRIPTION SSL - Trance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/tropicalhouse/mp3-128/stream.sunshine-live.de/:SSL - Tropical House
+#DESCRIPTION SSL - Tropical House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/vocaltrance/mp3-128/stream.sunshine-live.de/:SSL - Vocal Trance
+#DESCRIPTION SSL - Vocal Trance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/workout/mp3-128/stream.sunshine-live.de/:SSL - Workout
+#DESCRIPTION SSL - Workout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/pride/mp3-128/stream.sunshine-live.de/:SSL and pride
+#DESCRIPTION SSL and pride
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/coronasos/mp3-128/stream.sunshine-live.de/:SSL Corona
+#DESCRIPTION SSL Corona
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/ade18dance/mp3-128/stream.sunshine-live.de/:Amsterdam Dance Event - Dance
+#DESCRIPTION Amsterdam Dance Event - Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/gamescom/mp3-128/stream.sunshine-live.de/:Gamescom FM
+#DESCRIPTION Gamescom FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/kraftwerk/mp3-128/stream.sunshine-live.de/:Kraftwerk
+#DESCRIPTION Kraftwerk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/notband/mp3-128/stream.sunshine-live.de/:notband
+#DESCRIPTION notband
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/raveonsnow/mp3-128/stream.sunshine-live.de/:Rave On Snow 2018
+#DESCRIPTION Rave On Snow 2018
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/plus/mp3-128/stream.sunshine-live.de/:Sunshine Live Plus
+#DESCRIPTION Sunshine Live Plus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/live-backup/mp3-128/stream.sunshine-live.de/:SSL - Livestream (Backup)
+#DESCRIPTION SSL - Livestream (Backup)
