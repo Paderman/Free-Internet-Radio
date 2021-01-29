@@ -1,23 +1,33 @@
-#NAME BFBS (Internet Radio | aac)
-#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8:BBC Radio 1
-#DESCRIPTION BBC Radio 1
-#SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_1xtra.m3u8:BBC Radio 1Xtra
-#DESCRIPTION BBC Radio 1Xtra
-#SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8:BBC Radio 2
-#DESCRIPTION BBC Radio 2
-#SERVICE 4097:0:1:9:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8:BBC Radio 3
-#DESCRIPTION BBC Radio 3
-#SERVICE 4097:0:1:11:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8:BBC Radio 4
-#DESCRIPTION BBC Radio 4
-#SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourlw.m3u8:BBC Radio 4LW
-#DESCRIPTION BBC Radio 4LW
-#SERVICE 4097:0:1:15:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_four_extra.m3u8:BBC Radio 4 Extra
+#NAME BBC (Internet Radio | mixed)
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p:BBC Radio 1 FM
+#DESCRIPTION BBC Radio 1 FM
+#SERVICE 4097:0:1:5:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p:BBC Radio 2 FM
+#DESCRIPTION BBC Radio 2 FM
+#SERVICE 4097:0:1:7:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p:BBC Radio 3 FM
+#DESCRIPTION BBC Radio 3 FM
+#SERVICE 4097:0:1:9:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p:BBC Radio 4 FM
+#DESCRIPTION BBC Radio 4 FM
+#SERVICE 4097:0:1:11:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4lw_mf_p:BBC Radio 4 LW 198 kHz
+#DESCRIPTION BBC Radio 4 LW 198 kHz
+#SERVICE 4097:0:1:13:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p:BBC Radio 4 Extra
 #DESCRIPTION BBC Radio 4 Extra
-#SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live.m3u8:BBC Radio 5 Live
+#SERVICE 4097:0:1:15:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p:BBC Radio 5 Live
 #DESCRIPTION BBC Radio 5 Live
-#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_spo.m3u8_extra.m3u8:BBC Radio 5 Live Sports Extra
-#DESCRIPTION BBC Radio 5 Live Sports Extra
-#SERVICE 4097:0:1:21:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8:BBC Radio 6 Music
+#SERVICE 4097:0:1:17:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p:BBC Radio 6 Music
 #DESCRIPTION BBC Radio 6 Music
-#SERVICE 4097:0:1:23:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_asian_network.m3u8:BBC Asian Network
+#SERVICE 4097:0:1:19:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p:BBC 1Xtra
+#DESCRIPTION BBC 1Xtra
+#SERVICE 4097:0:1:21:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p:BBC Asian Network
 #DESCRIPTION BBC Asian Network
+#SERVICE 4097:0:1:23:0:0:0:0:0:0:http%3a//bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk_backup:BBC World Service English (backup)
+#DESCRIPTION BBC World Service English (backup)
+#SERVICE 4097:0:1:25:0:0:0:0:0:0:http%3a//wsdownload.bbc.co.uk/worldservice/meta/live/shoutcast/mp3/eieuk.pls:BBC World Service English (UK Schedule)
+#DESCRIPTION BBC World Service English (UK Schedule)
+#SERVICE 4097:0:1:27:0:0:0:0:0:0:http%3a//media-ice.musicradio.com%3a80/ClassicFMMP3:(ILR) Classic FM
+#DESCRIPTION (ILR) Classic FM
+#SERVICE 4097:0:1:29:0:0:0:0:0:0:http%3a//sc3.radiocaroline.net%3a8030/listen.m3u:(pirate) Radio Caroline
+#DESCRIPTION (pirate) Radio Caroline
+#SERVICE 4097:0:1:31:0:0:0:0:0:0:http%3a//109.169.54.86%3a8044/listen.pls:(pirate) Radio North Sea International (128kb/s AAC)
+#DESCRIPTION (pirate) Radio North Sea International (128kb/s AAC)
+#SERVICE 4097:0:1:33:0:0:0:0:0:0:http%3a//188.40.135.197%3a8388/listen.pls:(pirate) Radio North Sea International (192 kb/s MP3)
+#DESCRIPTION (pirate) Radio North Sea International (192 kb/s MP3)
