@@ -1,0 +1,44 @@
+#EXTM3U
+# 1LIVE Streams des WDR-Radios
+#EXTINF:0,1LIVE (AAC; 96 kbps)
+https://1liveuni-lh.akamaihd.net/i/1LIVE_HDS@179577/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,1LIVE DIGGI (AAC; 96 kbps)
+https://1livediggiuni-lh.akamaihd.net/i/1LIVEdiggi_HDS@179579/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR 2 Streams des WDR-Radios
+#EXTINF:0,WDR 2 (AAchen und Region) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_aachen@384666/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Bergisches Land) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_bergischesl@384667/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Münsterland) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_muenster@384671/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Ostwestaflen-Lippe) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_ostwestf@384690/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Rhein und Ruhr) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_rheinruhr@384691/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Rheinland) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_rheinland@349349/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Ruhrgebiet) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_ruhrgebiet@384692/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Südwestfalen) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_suedwestf@384693/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR 3 Streams des WDR-Radios
+#EXTINF:0,WDR 3 (AAC; 256 kbps)
+https://wdr3-lh.akamaihd.net/i/wdr_wdr3@384694/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR 4 Streams des WDR-Radios
+#EXTINF:0,WDR 4 (AAC; 96 kbps)
+https://wdr4-lh.akamaihd.net/i/wdr_wdr4@384697/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR 5 Streams des WDR-Radios
+#EXTINF:0,WDR 5 (AAC; 96 kbps)
+https://wdr5-lh.akamaihd.net/i/wdr_wdr5@384698/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR COSMO Streams des WDR-Radios
+#EXTINF:0,WDR COSMO (AAC; 96 kbps)
+https://fhe-lh.akamaihd.net/i/wdr_fhe@384699/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR EVENT Streams des WDR-Radios
+#EXTINF:0,WDR EVENT (AAC; 96 kbps)
+https://radioevent-lh.akamaihd.net/i/wdr_radioevent@384708/index_1_a-b.m3u8?sd=10&rebase=on
+# Die Maus Streams des WDR-Radios
+#EXTINF:0,WDR MAUS (AAC; 96 kbps)
+https://wdrdiemaus-lh.akamaihd.net/i/wdr_diemaus@374300/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR VERA (Verkehrsinfos)
+#EXTINF:0,WDR VERA (Verkehrsinfos) (AAC; 96 kbps)
+https://vera-lh.akamaihd.net/i/wdr_vera@384709/index_1_a-b.m3u8?sd=10&rebase=on

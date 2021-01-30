@@ -1,0 +1,88 @@
+#EXTM3U
+# 1LIVE Streams des WDR-Radios
+#EXTINF:0,1LIVE (mp3 / 128 kBit/s)
+https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+#EXTINF:0,1LIVE DIGGI (mp3 / 128 kBit/s)
+https://wdr-1live-diggi.icecastssl.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
+#EXTINF:0,1LIVE Fiehe (Loop) (mp3 / 128 kBit/s)
+https://wdr-1live-fiehe.icecastssl.wdr.de/wdr/1live/fiehe/mp3/128/stream.mp3
+#EXTINF:0,1LIVE HipHop (Loop) (mp3 / 128 kBit/s)
+https://wdr-1live-hiphop.icecastssl.wdr.de/wdr/1live/hiphop/mp3/128/stream.mp3
+#EXTINF:0,1LIVE Plan B (Loop) (mp3 / 128 kBit/s)
+https://wdr-1live-planb.icecastssl.wdr.de/wdr/1live/planb/mp3/128/stream.mp3
+#EXTINF:0,1LIVE Plan DJ Session (Loop) (mp3 / 128 kBit/s)
+https://wdr-1live-djsession.icecastssl.wdr.de/wdr/1live/djsession/mp3/128/stream.mp3
+#EXTINF:0,1LIVE Special (Loop) (mp3 / 128 kBit/s)
+https://wdr-1live-specials.icecastssl.wdr.de/wdr/1live/specials/mp3/128/stream.mp3
+# WDR 2 Streams des WDR-Radios
+#EXTINF:0,WDR 2 (Bergisches Land) (mp3 / 128 kBit/s)
+https://wdr-wdr2-bergischesland.icecastssl.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3
+#EXTINF:0,WDR 2 (Münsterland) (mp3 / 128 kBit/s)
+https://wdr-wdr2-muensterland.icecastssl.wdr.de/wdr/wdr2/muensterland/mp3/128/stream.mp3
+#EXTINF:0,WDR 2 (Ostwestaflen-Lippe) (mp3 / 128 kBit/s)
+https://wdr-wdr2-ostwestfalenlippe.icecastssl.wdr.de/wdr/wdr2/ostwestfalenlippe/mp3/128/stream.mp3
+#EXTINF:0,WDR 2 (Rhein und Ruhr) (mp3 / 128 kBit/s)
+https://wdr-wdr2-rheinruhr.icecastssl.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3
+#EXTINF:0,WDR 2 (Rheinland) (mp3 / 128 kBit/s)
+https://wdr-wdr2-rheinland.icecastssl.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
+#EXTINF:0,WDR 2 (Ruhrgebiet) (mp3 / 128 kBit/s)
+https://wdr-wdr2-ruhrgebiet.icecastssl.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3
+# WDR 3 Streams des WDR-Radios
+#EXTINF:0,WDR 3 (mp3 / 128 kBit/s)
+https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
+#EXTINF:0,WDR 3 (mp3 / 256 kBit/s)
+https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3
+# WDR 4 Streams des WDR-Radios
+#EXTINF:0,WDR 4 (mp3 / 128 kBit/s)
+https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
+# WDR 5 Streams des WDR-Radios
+#EXTINF:0,WDR 5 (mp3 / 128 kBit/s)
+https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
+# WDR COSMO Streams des WDR-Radios
+#EXTINF:0,WDR COSMO (mp3 / 128 kBit/s)
+https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Al-Saut Al-Arabi [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-alsautalarabi.icecastssl.wdr.de/wdr/cosmo/alsautalarabi/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Bernama Kurdi [So 18-19 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-bernamakurdikoelnradyosu.icecastssl.wdr.de/wdr/cosmo/bernamakurdikoelnradyosu/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Elliniko Randevou [So 18-19 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-ellinikorandevouradioforum.icecastssl.wdr.de/wdr/cosmo/ellinikorandevouradioforum/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Estación Sur [So 18-19 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-estacionsurradiocolonia.icecastssl.wdr.de/wdr/cosmo/estacionsurradiocolonia/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Köln Radyosu [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-bernamakurdikoelnradyosu.icecastssl.wdr.de/wdr/cosmo/bernamakurdikoelnradyosu/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Radio Colonia [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-estacionsurradiocolonia.icecastssl.wdr.de/wdr/cosmo/estacionsurradiocolonia/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Radio Forum [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-ellinikorandevouradioforum.icecastssl.wdr.de/wdr/cosmo/ellinikorandevouradioforum/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Radio po polsku [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-popolskuevent.icecastssl.wdr.de/wdr/cosmo/popolskuevent/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Radio po-russki [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-porusskievent.icecastssl.wdr.de/wdr/cosmo/porusskievent/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Afrobeats (mp3 / 128 kBit/s)
+https://wdr-cosmo-afrobeat.icecastssl.wdr.de/wdr/cosmo/afrobeat/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Chill (mp3 / 128 kBit/s)
+https://wdr-cosmo-chillout.icecastssl.wdr.de/wdr/cosmo/chillout/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Dance (mp3 / 128 kBit/s)
+https://wdr-cosmo-dance.icecastssl.wdr.de/wdr/cosmo/dance/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Konzerte (mp3 / 128 kBit/s)
+https://wdr-cosmo-coslive.icecastssl.wdr.de/wdr/cosmo/coslive/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Selektor (mp3 / 128 kBit/s)
+https://wdr-cosmo-selektor.icecastssl.wdr.de/wdr/cosmo/selektor/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Trap (mp3 / 128 kBit/s)
+https://wdr-cosmo-trap.icecastssl.wdr.de/wdr/cosmo/trap/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Vintage (mp3 / 128 kBit/s)
+https://wdr-cosmo-special.icecastssl.wdr.de/wdr/cosmo/special/mp3/128/stream.mp3
+#EXTINF:0,WDR Neu in COSMO (mp3 / 128 kBit/s)
+https://wdr-cosmo-neuincosmo.icecastssl.wdr.de/wdr/cosmo/neuincosmo/mp3/128/stream.mp3
+# WDR EVENT Streams des WDR-Radios
+#EXTINF:0,WDR EVENT (mp3 / 128 kBit/s)
+https://wdr-wdr-event.icecastssl.wdr.de/wdr/wdr/event/mp3/128/stream.mp3
+# Die Maus Streams des WDR-Radios
+#EXTINF:0,WDR MAUS (mp3 / 56 kBit/s)
+https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/56/stream.mp3
+#EXTINF:0,WDR MAUS (mp3 / 128 kBit/s)
+https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3
+# WDR VERA (Verkehrsinfos)
+#EXTINF:0,WDR VERA (Verkehrsinfos) (mp3 / 128 kBit/s)
+https://wdr-vera-live.icecastssl.wdr.de/wdr/vera/live/mp3/128/stream.mp3
