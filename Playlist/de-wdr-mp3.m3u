@@ -10,7 +10,7 @@ https://wdr-1live-fiehe.icecastssl.wdr.de/wdr/1live/fiehe/mp3/128/stream.mp3
 https://wdr-1live-hiphop.icecastssl.wdr.de/wdr/1live/hiphop/mp3/128/stream.mp3
 #EXTINF:0,1LIVE Plan B (Loop) (mp3 / 128 kBit/s)
 https://wdr-1live-planb.icecastssl.wdr.de/wdr/1live/planb/mp3/128/stream.mp3
-#EXTINF:0,1LIVE Plan DJ Session (Loop) (mp3 / 128 kBit/s)
+#EXTINF:0,1LIVE DJ Session (Loop) (mp3 / 128 kBit/s)
 https://wdr-1live-djsession.icecastssl.wdr.de/wdr/1live/djsession/mp3/128/stream.mp3
 #EXTINF:0,1LIVE Special (Loop) (mp3 / 128 kBit/s)
 https://wdr-1live-specials.icecastssl.wdr.de/wdr/1live/specials/mp3/128/stream.mp3
