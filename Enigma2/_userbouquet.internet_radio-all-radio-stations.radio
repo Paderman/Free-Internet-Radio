@@ -1,0 +1,912 @@
+#NAME Absolut relax (Internet-Radio | mp3; aac)
+# absolutradio.de
+#SERVICE 4097:0:1:2:0:0:0:0:0:0:https%3a//stream.absolutradio.de/relax/mp3-160/:Absolut relax [MP3; 160 kbps]
+#DESCRIPTION Absolut relax [MP3; 160 kbps]
+#SERVICE 4097:0:1:4:0:0:0:0:0:0:https%3a//absolutradio.stream24.net/absolut-bella.mp3:Absolut Bella [MP3; 128 kbps]
+#DESCRIPTION Absolut Bella [MP3; 128 kbps]
+#SERVICE 4097:0:1:6:0:0:0:0:0:0:https%3a//stream.absolutradio.de/hot/mp3-128/:Absolut HOT [MP3; 128 kbps]
+#DESCRIPTION Absolut HOT [MP3; 128 kbps]
+#SERVICE 4097:0:1:8:0:0:0:0:0:0:https%3a//stream.absolutradio.de/lq/mp3/:Absolut musicXL [MP3; 128 kbps]
+#DESCRIPTION Absolut musicXL [MP3; 128 kbps]
+#SERVICE 4097:0:1:10:0:0:0:0:0:0:https%3a//absolutradio.stream24.net/absolut-oldie-classics.mp3:Absolut Oldie Classics [MP3; 128 kbps]
+#DESCRIPTION Absolut Oldie Classics [MP3; 128 kbps]
+#SERVICE 4097:0:1:12:0:0:0:0:0:0:https%3a//edge04.streamonkey.net/absolut-top?aggregator=radioplayer:Absolut TOP [AAC; SBR; 32 kbps]
+#DESCRIPTION Absolut TOP [AAC; SBR]
+#NAME JAM FM (Internet-Radio | mp3 | 128 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/jamfm-live/mp3-128/konsole/:JAM FM Live
+#DESCRIPTION JAM FM Live
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/90er/mp3-128/konsole/:JAM FM 90er
+#DESCRIPTION JAM FM 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/2010er/mp3-128/konsole/:JAM FM 2000er
+#DESCRIPTION JAM FM 2000er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/jamfm-bl/mp3-128/konsole/:JAM FM Black
+#DESCRIPTION JAM FM Black
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/charts/mp3-128/konsole/:JAM FM Charts
+#DESCRIPTION JAM FM Charts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/chill/mp3-128/konsole/:JAM FM Chill
+#DESCRIPTION JAM FM Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-rtlbtjziyg32earbqo-mp3-128-8215052:JAM FM Chill the Virus
+#DESCRIPTION JAM FM Chill the Virus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/djcooper/mp3-128/konsole/:JAM FM DJ Cooper
+#DESCRIPTION JAM FM DJ Cooper
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/elektro/mp3-128/konsole/:JAM FM Elektro
+#DESCRIPTION JAM FM Elektro
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/deutschrap/mp3-128/konsole/:JAM FM Generation Deutschrap
+#DESCRIPTION JAM FM Generation Deutschrap
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//rtlberlin.streamabc.net/rtlb-jamfmkpop-mp3-128-8582229:JAM FM K-Pop
+#DESCRIPTION JAM FM K-Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/jamfm-nmr/mp3-128/konsole/:JAM FM New Music Radio
+#DESCRIPTION JAM FM New Music Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/party/mp3-128/konsole/:JAM FM Party
+#DESCRIPTION JAM FM Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/rap/mp3-128/konsole/:JAM FM Rap
+#DESCRIPTION JAM FM Rap
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/russkiye/mp3-128/konsole/:JAM FM Russkiye Khity (Русские Хити)
+#DESCRIPTION JAM FM Russkiye Khity (Русские Хити)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/study/mp3-128/konsole/:JAM FM Study
+#DESCRIPTION JAM FM Study
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.thewaveradio.de/wave-live/mp3-128/konsole/:JAM FM The Wave
+#DESCRIPTION JAM FM The Wave
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.jam.fm/workout/mp3-128/konsole/:JAM FM Workout
+#DESCRIPTION JAM FM Workout
+#NAME RADIO NRW (Internet Radio)
+#SERVICE 1:64:1:0:0:0:0:0:0:0::LOKAL
+#DESCRIPTION LOKAL
+#SERVICE 4097:0:2:1:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z5bb:Antenne AC
+#DESCRIPTION Antenne AC
+#SERVICE 4097:0:2:5:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z5n3:Antenne Düsseldorf
+#DESCRIPTION Antenne Düsseldorf
+#SERVICE 4097:0:2:9:0:0:0:0:0:0:https%3a//mms.hoerradar.de/am128k:Antenne Münster
+#DESCRIPTION Antenne Münster
+#SERVICE 4097:0:2:13:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4453yzk:Antenne Unna
+#DESCRIPTION Antenne Unna
+#SERVICE 1:64:3:0:0:0:0:0:0:0::H
+#DESCRIPTION H
+#SERVICE 4097:0:2:17:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4453zkb:Hellweg Radio Ost
+#DESCRIPTION Hellweg Radio Ost
+#SERVICE 4097:0:2:21:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4453zd3:Hellweg Radio West
+#DESCRIPTION Hellweg Radio West
+#SERVICE 1:64:4:0:0:0:0:0:0:0::N
+#DESCRIPTION N
+#SERVICE 4097:0:2:25:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z5zk:NE-WS 89.4
+#DESCRIPTION NE-WS 89.4
+#SERVICE 1:64:5:0:0:0:0:0:0:0::R
+#DESCRIPTION R
+#SERVICE 4097:0:2:29:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z6ft:Radio 90.1
+#DESCRIPTION Radio 90.1
+#SERVICE 4097:0:2:33:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4453z6t:Radio 91.2 (Dortmund)
+#DESCRIPTION Radio 91.2 (Dortmund)
+#SERVICE 4097:0:2:37:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z6tb:Radio Berg
+#DESCRIPTION Radio Berg
+#SERVICE 4097:0:2:41:0:0:0:0:0:0:https%3a//radiobielefeld-live.cast.addradio.de/radiobielefeld/live/mp3/high?ar-distributor=f0b7:Radio Bielefeld
+#DESCRIPTION Radio Bielefeld
+#SERVICE 4097:0:2:45:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zbrk:Radio Bochum
+#DESCRIPTION Radio Bochum
+#SERVICE 4097:0:2:49:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z6zk:Radio Bonn/Rhein-Sieg
+#DESCRIPTION Radio Bonn/Rhein-Sieg
+#SERVICE 4097:0:2:53:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zbw3:Radio Duisburg
+#DESCRIPTION Radio Duisburg
+#SERVICE 4097:0:2:57:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zbzk:Radio Emscher Lippe
+#DESCRIPTION Radio Emscher Lippe
+#SERVICE 4097:0:2:61:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zc53:Radio Ennepe Ruhr
+#DESCRIPTION Radio Ennepe Ruhr
+#SERVICE 4097:0:2:65:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z76t:Radio Erft
+#DESCRIPTION Radio Erft
+#SERVICE 4097:0:2:69:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z7d3:Radio Euskirchen
+#DESCRIPTION Radio Euskirchen
+#SERVICE 4097:0:2:73:0:0:0:0:0:0:https%3a//radioguetersloh-live.cast.addradio.de/radioguetersloh/live/mp3/high?ar-distributor=f0b7:Radio Gütersloh
+#DESCRIPTION Radio Gütersloh
+#SERVICE 4097:0:2:77:0:0:0:0:0:0:https%3a//radioherford-live.cast.addradio.de/radioherford/live/mp3/high?ar-distributor=f0b7:Radio Herford
+#DESCRIPTION Radio Herford
+#SERVICE 4097:0:2:81:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zchk:Radio Herne
+#DESCRIPTION Radio Herne
+#SERVICE 4097:0:2:85:0:0:0:0:0:0:https%3a//radiohochstift-live.cast.addradio.de/radiohochstift/live/mp3/high?ar-distributor=f0b7:Radio Hochstift
+#DESCRIPTION Radio Hochstift
+#SERVICE 4097:0:2:88:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zcn3:Radio k.w.
+#DESCRIPTION Radio k.w.
+#SERVICE 4097:0:2:92:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4453zrk:Radio Kiepenkerl Nord
+#DESCRIPTION Radio Kiepenkerl Nord
+#SERVICE 4097:0:2:96:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4453zxt:Radio Kiepenkerl Süd
+#DESCRIPTION Radio Kiepenkerl Süd
+#SERVICE 4097:0:2:100:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z7kb:Radio Köln
+#DESCRIPTION Radio Köln
+#SERVICE 4097:0:2:104:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z7rk:Radio Leverkusen
+#DESCRIPTION Radio Leverkusen
+#SERVICE 4097:0:2:108:0:0:0:0:0:0:https%3a//radiolippe-live.cast.addradio.de/radiolippe/live/mp3/high?ar-distributor=f0b7:Radio Lippe
+#DESCRIPTION Radio Lippe
+#SERVICE 4097:0:2:112:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4454253:Radio Lippe Welle Hamm
+#DESCRIPTION Radio Lippe Welle Hamm
+#SERVICE 4097:0:2:116:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/44542bb:Radio MK Nord
+#DESCRIPTION Radio MK Nord
+#SERVICE 4097:0:2:120:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/44542hk:Radio MK Süd
+#DESCRIPTION Radio MK Süd
+#SERVICE 4097:0:2:124:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zcrk:Radio Mülheim
+#DESCRIPTION Radio Mülheim
+#SERVICE 4097:0:2:128:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z66t:Radio Neandertal
+#DESCRIPTION Radio Neandertal
+#SERVICE 4097:0:2:132:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z5pt:Radio Niederrhein
+#DESCRIPTION Radio Niederrhein
+#SERVICE 4097:0:2:136:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zcw3:Radio Oberhausen
+#DESCRIPTION Radio Oberhausen
+#SERVICE 4097:0:2:140:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zdd3:Radio RSG
+#DESCRIPTION Radio RSG
+#SERVICE 4097:0:2:144:0:0:0:0:0:0:https%3a//mms.hoerradar.de/rst128k:Radio RST
+#DESCRIPTION Radio RST
+#SERVICE 4097:0:2:148:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z7xt:Radio RUR
+#DESCRIPTION Radio RUR
+#SERVICE 4097:0:2:152:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zczk:Radio Sauerland
+#DESCRIPTION Radio Sauerland
+#SERVICE 4097:0:2:156:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z553:Radio Siegen
+#DESCRIPTION Radio Siegen
+#SERVICE 4097:0:2:160:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444zd53:Radio Vest
+#DESCRIPTION Radio Vest
+#SERVICE 4097:0:2:164:0:0:0:0:0:0:https%3a//radiowaf-live.cast.addradio.de/radiowaf/live/mp3/high?ar-distributor=f0b7:Radio WAF
+#DESCRIPTION Radio WAF
+#SERVICE 4097:0:2:168:0:0:0:0:0:0:https%3a//radiowestfalica-live.cast.addradio.de/radiowestfalica/live/mp3/high?ar-distributor=f0b7:Radio Westfalica
+#DESCRIPTION Radio Westfalica
+#SERVICE 4097:0:2:172:0:0:0:0:0:0:https%3a//mms.hoerradar.de/wmw128k:Radio WMW
+#DESCRIPTION Radio WMW
+#SERVICE 1:64:6:0:0:0:0:0:0:0::W
+#DESCRIPTION W
+#SERVICE 4097:0:2:175:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/444z6rk:Welle Niederrhein
+#DESCRIPTION Welle Niederrhein
+#SERVICE 1:64:7:0:0:0:0:0:0:0::EXTRA
+#DESCRIPTION EXTRA
+#SERVICE 4097:0:2:4:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017F/dein80er/high/stream.mp3?ar-distributor=f0b7:Dein 80er Radio
+#DESCRIPTION Dein 80er Radio
+#SERVICE 4097:0:2:6:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017F/dein90er/high/stream.mp3?ar-distributor=f0b7:Dein 90er Radio
+#DESCRIPTION Dein 90er Radio
+#SERVICE 4097:0:2:8:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4456ym6:Dein 2000er Radio
+#DESCRIPTION Dein 2000er Radio
+#SERVICE 4097:0:2:10:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4456mmj:Dein Dance Radio
+#DESCRIPTION Dein Dance Radio
+#SERVICE 4097:0:2:12:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017f/deindeutschpop/high/stream.mp3?ar-distributor=f0b7:Dein Deutschpop Radio
+#DESCRIPTION Dein Deutschpop Radio
+#SERVICE 4097:0:2:14:0:0:0:0:0:0:https%3a//deinfmowl-live.cast.addradio.de/deinfmowl/live/mp3/high?ar-distributor=f0b7:Dein FM
+#DESCRIPTION Dein FM
+#SERVICE 4097:0:2:16:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4458dx4:Dein HipHop Radio
+#DESCRIPTION Dein HipHop Radio
+#SERVICE 4097:0:2:18:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017f/deinkarnevalsradio/mp3/high/stream.mp3?ar-distributor=f0b7?sid=017f&amp;kombi=owlplus:Dein Karnevals Radio
+#DESCRIPTION Dein Karnevals Radio
+#SERVICE 4097:0:2:20:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017F/deinlounge/high/stream.mp3?ar-distributor=f0b7:Dein Lounge Radio
+#DESCRIPTION Dein Lounge Radio
+#SERVICE 4097:0:2:22:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017f/deinlove/high/stream.mp3?ar-distributor=f0b7:Dein Love Radio
+#DESCRIPTION Dein Love Radio
+#SERVICE 4097:0:2:24:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/44582xg:Dein New Country Radio
+#DESCRIPTION Dein New Country Radio
+#SERVICE 4097:0:2:26:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/4457bkt:Dein Rock Classic Radio
+#DESCRIPTION Dein Rock Classic Radio
+#SERVICE 4097:0:2:28:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017F/deinrock/high/stream.mp3?ar-distributor=f0b7:Dein Rock Radio
+#DESCRIPTION Dein Rock Radio
+#SERVICE 4097:0:2:30:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017f/deinschlager/high/stream.mp3?ar-distributor=f0b7:Dein Schlager Radio
+#DESCRIPTION Dein Schlager Radio
+#SERVICE 4097:0:2:32:0:0:0:0:0:0:https%3a//stream.lokalradio.nrw/44568mw:Dein Singer/Songwriter
+#DESCRIPTION Dein Singer/Songwriter
+#SERVICE 4097:0:2:34:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017F/deintop40/high/stream.mp3?ar-distributor=f0b7:Dein Top 40 Radio
+#DESCRIPTION Dein Top 40 Radio
+#SERVICE 4097:0:2:36:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017F/deinurban/high/stream.mp3?ar-distributor=f0b7:Dein Urban Radio
+#DESCRIPTION Dein Urban Radio
+#SERVICE 4097:0:2:38:0:0:0:0:0:0:https%3a//rnrw.cast.addradio.de/rnrw-017f/deinevent/high/stream.mp3?ar-distributor=f0b7?ar-purpose=web:Dein Weihnachts-Radio
+#DESCRIPTION Dein Weihnachts-Radio
+#NAME sunshine live (Internet-Radio | aac | 64 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/live/aac-64/stream.sunshine-live.de/:SSL - Livestream
+#DESCRIPTION SSL - Livestream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/80er/aac-64/stream.sunshine-live.de/:SSL - 80er
+#DESCRIPTION SSL - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/90er/aac-64/stream.sunshine-live.de/:SSL - 90er
+#DESCRIPTION SSL - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp5/aac-64/stream.sunshine-live.de/:SSL - 90s Anthems
+#DESCRIPTION SSL - 90s Anthems
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/2000er/aac-64/stream.sunshine-live.de/:SSL - 2000er
+#DESCRIPTION SSL - 2000er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp7/aac-64/stream.sunshine-live.de/:SSL - Afterhour
+#DESCRIPTION SSL - Afterhour
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/avicii/aac-64/stream.sunshine-live.de/:SSL - Avicii
+#DESCRIPTION SSL - Avicii
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/twenty/aac-64/stream.sunshine-live.de/:SSL - Best of 20 years
+#DESCRIPTION SSL - Best of 20 years
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/amsterdam/aac-64/stream.sunshine-live.de/:SSL - Bunker
+#DESCRIPTION SSL - Bunker
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp6/aac-64/stream.sunshine-live.de/:SSL - Charts
+#DESCRIPTION SSL - Charts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp8/aac-64/stream.sunshine-live.de/:SSL - Chillout
+#DESCRIPTION SSL - Chillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/vocalhouse/aac-64/stream.sunshine-live.de/:SSL - Classic & Vocal House
+#DESCRIPTION SSL - Classic & Vocal House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/classics/aac-64/stream.sunshine-live.de/:SSL - Classics
+#DESCRIPTION SSL - Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/club/aac-64/stream.sunshine-live.de/:SSL - Club
+#DESCRIPTION SSL - Club
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/playlist1/aac-64/stream.sunshine-live.de/:SSL - Clubsound Berlin
+#DESCRIPTION SSL - Clubsound Berlin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/dnb/aac-64/stream.sunshine-live.de/:SSL - Drum 'n' Bass
+#DESCRIPTION SSL - Drum 'n' Bass
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/edm/aac-64/stream.sunshine-live.de/:SSL - EDM
+#DESCRIPTION SSL - EDM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/eurodance/aac-64/stream.sunshine-live.de/:SSL - Eurodance
+#DESCRIPTION SSL - Eurodance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/festival/aac-64/stream.sunshine-live.de/:SSL - Festival
+#DESCRIPTION SSL - Festival
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/focus/aac-64/stream.sunshine-live.de/:SSL - focus
+#DESCRIPTION SSL - focus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/futurebass/aac-64/stream.sunshine-live.de/:SSL - Future Bass
+#DESCRIPTION SSL - Future Bass
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/gaming/aac-64/stream.sunshine-live.de/:SSL - Gaming
+#DESCRIPTION SSL - Gaming
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/germante/aac-64/stream.sunshine-live.de/:SSL - German Techno
+#DESCRIPTION SSL - German Techno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/handsup/aac-64/stream.sunshine-live.de/:SSL - Hands Up
+#DESCRIPTION SSL - Hands Up
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/hard/aac-64/stream.sunshine-live.de/:SSL - Hard
+#DESCRIPTION SSL - Hard
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/house/aac-64/stream.sunshine-live.de/:SSL - House
+#DESCRIPTION SSL - House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/iamraving/aac-64/stream.sunshine-live.de/:SSL - I AM RAVING
+#DESCRIPTION SSL - I AM RAVING
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/ibiza/aac-64/stream.sunshine-live.de/:SSL - Ibiza
+#DESCRIPTION SSL - Ibiza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/karotte50/aac-64/stream.sunshine-live.de/:SSL - Karotte
+#DESCRIPTION SSL - Karotte
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/lounge/aac-64/stream.sunshine-live.de/:SSL - Lounge
+#DESCRIPTION SSL - Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/mayday/aac-64/stream.sunshine-live.de/:SSL - Mayday
+#DESCRIPTION SSL - Mayday
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/melodic-techno/aac-64/stream.sunshine-live.de/:SSL - Melodic Techno
+#DESCRIPTION SSL - Melodic Techno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/mixmission/aac-64/stream.sunshine-live.de/:SSL - Mix Mission
+#DESCRIPTION SSL - Mix Mission
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/natureone/aac-64/stream.sunshine-live.de/:SSL - Nature One
+#DESCRIPTION SSL - Nature One
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/newhits/aac-64/stream.sunshine-live.de/:SSL - New Hits
+#DESCRIPTION SSL - New Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/prodigy/aac-64/stream.sunshine-live.de/:SSL - Nighttime Chill
+#DESCRIPTION SSL - Nighttime Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/party/aac-64/stream.sunshine-live.de/:SSL - Party
+#DESCRIPTION SSL - Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/winterchill/aac-64/stream.sunshine-live.de/:SSL - Peaceful Beats
+#DESCRIPTION SSL - Peaceful Beats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/pop/aac-64/stream.sunshine-live.de/:SSL - Pop
+#DESCRIPTION SSL - Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/xmas/aac-64/stream.sunshine-live.de/:SSL - Psytrance
+#DESCRIPTION SSL - Psytrance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/quarantaene/aac-64/stream.sunshine-live.de/:SSL - Quarantäne
+#DESCRIPTION SSL - Quarantäne
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/relax/aac-64/stream.sunshine-live.de/:SSL - Relax
+#DESCRIPTION SSL - Relax
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/remix/aac-64/stream.sunshine-live.de/:SSL - Remix
+#DESCRIPTION SSL - Remix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp2/aac-64/stream.sunshine-live.de/:SSL - Summer Beats
+#DESCRIPTION SSL - Summer Beats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp4/aac-64/stream.sunshine-live.de/:SSL - Tech House
+#DESCRIPTION SSL - Tech House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/techno/aac-64/stream.sunshine-live.de/:SSL - Techno
+#DESCRIPTION SSL - Techno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/technoqueens/aac-64/stream.sunshine-live.de/:SSL - Techno Queens
+#DESCRIPTION SSL - Techno Queens
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/timewarp/aac-64/stream.sunshine-live.de/:SSL - Time Warp
+#DESCRIPTION SSL - Time Warp
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/trance/aac-64/stream.sunshine-live.de/:SSL - Trance
+#DESCRIPTION SSL - Trance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/tropicalhouse/aac-64/stream.sunshine-live.de/:SSL - Tropical House
+#DESCRIPTION SSL - Tropical House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/vocaltrance/aac-64/stream.sunshine-live.de/:SSL - Vocal Trance
+#DESCRIPTION SSL - Vocal Trance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/workout/aac-64/stream.sunshine-live.de/:SSL - Workout
+#DESCRIPTION SSL - Workout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/pride/aac-64/stream.sunshine-live.de/:SSL and pride
+#DESCRIPTION SSL and pride
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/coronasos/aac-64/stream.sunshine-live.de/:SSL Corona
+#DESCRIPTION SSL Corona
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/ade18dance/aac-64/stream.sunshine-live.de/:Amsterdam Dance Event - Dance
+#DESCRIPTION Amsterdam Dance Event - Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/gamescom/aac-64/stream.sunshine-live.de/:Gamescom FM
+#DESCRIPTION Gamescom FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/kraftwerk/aac-64/stream.sunshine-live.de/:Kraftwerk
+#DESCRIPTION Kraftwerk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/notband/aac-64/stream.sunshine-live.de/:notband
+#DESCRIPTION notband
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/raveonsnow/aac-64/stream.sunshine-live.de/:Rave On Snow 2018
+#DESCRIPTION Rave On Snow 2018
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/plus/aac-64/stream.sunshine-live.de/:Sunshine Live Plus
+#DESCRIPTION Sunshine Live Plus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/live-backup/aac-64/stream.sunshine-live.de/:SSL - Livestream (Backup)
+#DESCRIPTION SSL - Livestream (Backup)
+#NAME sunshine live (Internet-Radio | mp3 | 192 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/:SSL - Livestream
+#DESCRIPTION SSL - Livestream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/80er/mp3-192/stream.sunshine-live.de/:SSL - 80er
+#DESCRIPTION SSL - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/90er/mp3-192/stream.sunshine-live.de/:SSL - 90er
+#DESCRIPTION SSL - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp5/mp3-192/stream.sunshine-live.de/:SSL - 90s Anthems
+#DESCRIPTION SSL - 90s Anthems
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/2000er/mp3-192/stream.sunshine-live.de/:SSL - 2000er
+#DESCRIPTION SSL - 2000er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp7/mp3-192/stream.sunshine-live.de/:SSL - Afterhour
+#DESCRIPTION SSL - Afterhour
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/avicii/mp3-192/stream.sunshine-live.de/:SSL - Avicii
+#DESCRIPTION SSL - Avicii
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/twenty/mp3-192/stream.sunshine-live.de/:SSL - Best of 20 years
+#DESCRIPTION SSL - Best of 20 years
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/amsterdam/mp3-192/stream.sunshine-live.de/:SSL - Bunker
+#DESCRIPTION SSL - Bunker
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp6/mp3-192/stream.sunshine-live.de/:SSL - Charts
+#DESCRIPTION SSL - Charts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp8/mp3-192/stream.sunshine-live.de/:SSL - Chillout
+#DESCRIPTION SSL - Chillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/vocalhouse/mp3-192/stream.sunshine-live.de/:SSL - Classic & Vocal House
+#DESCRIPTION SSL - Classic & Vocal House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/classics/mp3-192/stream.sunshine-live.de/:SSL - Classics
+#DESCRIPTION SSL - Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/club/mp3-192/stream.sunshine-live.de/:SSL - Club
+#DESCRIPTION SSL - Club
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/playlist1/mp3-192/stream.sunshine-live.de/:SSL - Clubsound Berlin
+#DESCRIPTION SSL - Clubsound Berlin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/dnb/mp3-192/stream.sunshine-live.de/:SSL - Drum 'n' Bass
+#DESCRIPTION SSL - Drum 'n' Bass
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/edm/mp3-192/stream.sunshine-live.de/:SSL - EDM
+#DESCRIPTION SSL - EDM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/eurodance/mp3-192/stream.sunshine-live.de/:SSL - Eurodance
+#DESCRIPTION SSL - Eurodance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/festival/mp3-192/stream.sunshine-live.de/:SSL - Festival
+#DESCRIPTION SSL - Festival
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/focus/mp3-192/stream.sunshine-live.de/:SSL - focus
+#DESCRIPTION SSL - focus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/futurebass/mp3-192/stream.sunshine-live.de/:SSL - Future Bass
+#DESCRIPTION SSL - Future Bass
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/gaming/mp3-192/stream.sunshine-live.de/:SSL - Gaming
+#DESCRIPTION SSL - Gaming
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/germante/mp3-192/stream.sunshine-live.de/:SSL - German Techno
+#DESCRIPTION SSL - German Techno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/handsup/mp3-192/stream.sunshine-live.de/:SSL - Hands Up
+#DESCRIPTION SSL - Hands Up
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/hard/mp3-192/stream.sunshine-live.de/:SSL - Hard
+#DESCRIPTION SSL - Hard
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/house/mp3-192/stream.sunshine-live.de/:SSL - House
+#DESCRIPTION SSL - House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/iamraving/mp3-192/stream.sunshine-live.de/:SSL - I AM RAVING
+#DESCRIPTION SSL - I AM RAVING
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/ibiza/mp3-192/stream.sunshine-live.de/:SSL - Ibiza
+#DESCRIPTION SSL - Ibiza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/karotte50/mp3-192/stream.sunshine-live.de/:SSL - Karotte
+#DESCRIPTION SSL - Karotte
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/lounge/mp3-192/stream.sunshine-live.de/:SSL - Lounge
+#DESCRIPTION SSL - Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/mayday/mp3-192/stream.sunshine-live.de/:SSL - Mayday
+#DESCRIPTION SSL - Mayday
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/melodic-techno/mp3-192/stream.sunshine-live.de/:SSL - Melodic Techno
+#DESCRIPTION SSL - Melodic Techno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/mixmission/mp3-192/stream.sunshine-live.de/:SSL - Mix Mission
+#DESCRIPTION SSL - Mix Mission
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/natureone/mp3-192/stream.sunshine-live.de/:SSL - Nature One
+#DESCRIPTION SSL - Nature One
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/newhits/mp3-192/stream.sunshine-live.de/:SSL - New Hits
+#DESCRIPTION SSL - New Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/prodigy/mp3-192/stream.sunshine-live.de/:SSL - Nighttime Chill
+#DESCRIPTION SSL - Nighttime Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/party/mp3-192/stream.sunshine-live.de/:SSL - Party
+#DESCRIPTION SSL - Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/winterchill/mp3-192/stream.sunshine-live.de/:SSL - Peaceful Beats
+#DESCRIPTION SSL - Peaceful Beats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/pop/mp3-192/stream.sunshine-live.de/:SSL - Pop
+#DESCRIPTION SSL - Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/xmas/mp3-192/stream.sunshine-live.de/:SSL - Psytrance
+#DESCRIPTION SSL - Psytrance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/quarantaene/mp3-192/stream.sunshine-live.de/:SSL - Quarantäne
+#DESCRIPTION SSL - Quarantäne
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/relax/mp3-192/stream.sunshine-live.de/:SSL - Relax
+#DESCRIPTION SSL - Relax
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/remix/mp3-192/stream.sunshine-live.de/:SSL - Remix
+#DESCRIPTION SSL - Remix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp2/mp3-192/stream.sunshine-live.de/:SSL - Summer Beats
+#DESCRIPTION SSL - Summer Beats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp4/mp3-192/stream.sunshine-live.de/:SSL - Tech House
+#DESCRIPTION SSL - Tech House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/techno/mp3-192/stream.sunshine-live.de/:SSL - Techno
+#DESCRIPTION SSL - Techno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/technoqueens/mp3-192/stream.sunshine-live.de/:SSL - Techno Queens
+#DESCRIPTION SSL - Techno Queens
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/timewarp/mp3-192/stream.sunshine-live.de/:SSL - Time Warp
+#DESCRIPTION SSL - Time Warp
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/trance/mp3-192/stream.sunshine-live.de/:SSL - Trance
+#DESCRIPTION SSL - Trance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/tropicalhouse/mp3-192/stream.sunshine-live.de/:SSL - Tropical House
+#DESCRIPTION SSL - Tropical House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/vocaltrance/mp3-192/stream.sunshine-live.de/:SSL - Vocal Trance
+#DESCRIPTION SSL - Vocal Trance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/workout/mp3-192/stream.sunshine-live.de/:SSL - Workout
+#DESCRIPTION SSL - Workout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/pride/mp3-192/stream.sunshine-live.de/:SSL and pride
+#DESCRIPTION SSL and pride
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/coronasos/mp3-192/stream.sunshine-live.de/:SSL Corona
+#DESCRIPTION SSL Corona
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/ade18dance/mp3-192/stream.sunshine-live.de/:Amsterdam Dance Event - Dance
+#DESCRIPTION Amsterdam Dance Event - Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/gamescom/mp3-192/stream.sunshine-live.de/:Gamescom FM
+#DESCRIPTION Gamescom FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/kraftwerk/mp3-192/stream.sunshine-live.de/:Kraftwerk
+#DESCRIPTION Kraftwerk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/notband/mp3-192/stream.sunshine-live.de/:notband
+#DESCRIPTION notband
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/raveonsnow/mp3-192/stream.sunshine-live.de/:Rave On Snow 2018
+#DESCRIPTION Rave On Snow 2018
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/plus/mp3-192/stream.sunshine-live.de/:Sunshine Live Plus
+#DESCRIPTION Sunshine Live Plus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/live-backup/mp3-192/stream.sunshine-live.de/:SSL - Livestream (Backup)
+#DESCRIPTION SSL - Livestream (Backup)
+#NAME sunshine live (Internet-Radio | mp3 | 128 kbps)
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/live/mp3-128/stream.sunshine-live.de/:SSL - Livestream
+#DESCRIPTION SSL - Livestream
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/80er/mp3-128/stream.sunshine-live.de/:SSL - 80er
+#DESCRIPTION SSL - 80er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/90er/mp3-128/stream.sunshine-live.de/:SSL - 90er
+#DESCRIPTION SSL - 90er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp5/mp3-128/stream.sunshine-live.de/:SSL - 90s Anthems
+#DESCRIPTION SSL - 90s Anthems
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/2000er/mp3-128/stream.sunshine-live.de/:SSL - 2000er
+#DESCRIPTION SSL - 2000er
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp7/mp3-128/stream.sunshine-live.de/:SSL - Afterhour
+#DESCRIPTION SSL - Afterhour
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/avicii/mp3-128/stream.sunshine-live.de/:SSL - Avicii
+#DESCRIPTION SSL - Avicii
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/twenty/mp3-128/stream.sunshine-live.de/:SSL - Best of 20 years
+#DESCRIPTION SSL - Best of 20 years
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/amsterdam/mp3-128/stream.sunshine-live.de/:SSL - Bunker
+#DESCRIPTION SSL - Bunker
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp6/mp3-128/stream.sunshine-live.de/:SSL - Charts
+#DESCRIPTION SSL - Charts
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp8/mp3-128/stream.sunshine-live.de/:SSL - Chillout
+#DESCRIPTION SSL - Chillout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/vocalhouse/mp3-128/stream.sunshine-live.de/:SSL - Classic & Vocal House
+#DESCRIPTION SSL - Classic & Vocal House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/classics/mp3-128/stream.sunshine-live.de/:SSL - Classics
+#DESCRIPTION SSL - Classics
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/club/mp3-128/stream.sunshine-live.de/:SSL - Club
+#DESCRIPTION SSL - Club
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/playlist1/mp3-128/stream.sunshine-live.de/:SSL - Clubsound Berlin
+#DESCRIPTION SSL - Clubsound Berlin
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/dnb/mp3-128/stream.sunshine-live.de/:SSL - Drum 'n' Bass
+#DESCRIPTION SSL - Drum 'n' Bass
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/edm/mp3-128/stream.sunshine-live.de/:SSL - EDM
+#DESCRIPTION SSL - EDM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/eurodance/mp3-128/stream.sunshine-live.de/:SSL - Eurodance
+#DESCRIPTION SSL - Eurodance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/festival/mp3-128/stream.sunshine-live.de/:SSL - Festival
+#DESCRIPTION SSL - Festival
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/focus/mp3-128/stream.sunshine-live.de/:SSL - focus
+#DESCRIPTION SSL - focus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/futurebass/mp3-128/stream.sunshine-live.de/:SSL - Future Bass
+#DESCRIPTION SSL - Future Bass
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/gaming/mp3-128/stream.sunshine-live.de/:SSL - Gaming
+#DESCRIPTION SSL - Gaming
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/germante/mp3-128/stream.sunshine-live.de/:SSL - German Techno
+#DESCRIPTION SSL - German Techno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/handsup/mp3-128/stream.sunshine-live.de/:SSL - Hands Up
+#DESCRIPTION SSL - Hands Up
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/hard/mp3-128/stream.sunshine-live.de/:SSL - Hard
+#DESCRIPTION SSL - Hard
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/house/mp3-128/stream.sunshine-live.de/:SSL - House
+#DESCRIPTION SSL - House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/iamraving/mp3-128/stream.sunshine-live.de/:SSL - I AM RAVING
+#DESCRIPTION SSL - I AM RAVING
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/ibiza/mp3-128/stream.sunshine-live.de/:SSL - Ibiza
+#DESCRIPTION SSL - Ibiza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/karotte50/mp3-128/stream.sunshine-live.de/:SSL - Karotte
+#DESCRIPTION SSL - Karotte
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/lounge/mp3-128/stream.sunshine-live.de/:SSL - Lounge
+#DESCRIPTION SSL - Lounge
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/mayday/mp3-128/stream.sunshine-live.de/:SSL - Mayday
+#DESCRIPTION SSL - Mayday
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/melodic-techno/mp3-128/stream.sunshine-live.de/:SSL - Melodic Techno
+#DESCRIPTION SSL - Melodic Techno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/mixmission/mp3-128/stream.sunshine-live.de/:SSL - Mix Mission
+#DESCRIPTION SSL - Mix Mission
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/natureone/mp3-128/stream.sunshine-live.de/:SSL - Nature One
+#DESCRIPTION SSL - Nature One
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/newhits/mp3-128/stream.sunshine-live.de/:SSL - New Hits
+#DESCRIPTION SSL - New Hits
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/prodigy/mp3-128/stream.sunshine-live.de/:SSL - Nighttime Chill
+#DESCRIPTION SSL - Nighttime Chill
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/party/mp3-128/stream.sunshine-live.de/:SSL - Party
+#DESCRIPTION SSL - Party
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/winterchill/mp3-128/stream.sunshine-live.de/:SSL - Peaceful Beats
+#DESCRIPTION SSL - Peaceful Beats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/pop/mp3-128/stream.sunshine-live.de/:SSL - Pop
+#DESCRIPTION SSL - Pop
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/xmas/mp3-128/stream.sunshine-live.de/:SSL - Psytrance
+#DESCRIPTION SSL - Psytrance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/quarantaene/mp3-128/stream.sunshine-live.de/:SSL - Quarantäne
+#DESCRIPTION SSL - Quarantäne
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/relax/mp3-128/stream.sunshine-live.de/:SSL - Relax
+#DESCRIPTION SSL - Relax
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/remix/mp3-128/stream.sunshine-live.de/:SSL - Remix
+#DESCRIPTION SSL - Remix
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp2/mp3-128/stream.sunshine-live.de/:SSL - Summer Beats
+#DESCRIPTION SSL - Summer Beats
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/sp4/mp3-128/stream.sunshine-live.de/:SSL - Tech House
+#DESCRIPTION SSL - Tech House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/techno/mp3-128/stream.sunshine-live.de/:SSL - Techno
+#DESCRIPTION SSL - Techno
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/technoqueens/mp3-128/stream.sunshine-live.de/:SSL - Techno Queens
+#DESCRIPTION SSL - Techno Queens
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/timewarp/mp3-128/stream.sunshine-live.de/:SSL - Time Warp
+#DESCRIPTION SSL - Time Warp
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/trance/mp3-128/stream.sunshine-live.de/:SSL - Trance
+#DESCRIPTION SSL - Trance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/tropicalhouse/mp3-128/stream.sunshine-live.de/:SSL - Tropical House
+#DESCRIPTION SSL - Tropical House
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/vocaltrance/mp3-128/stream.sunshine-live.de/:SSL - Vocal Trance
+#DESCRIPTION SSL - Vocal Trance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/workout/mp3-128/stream.sunshine-live.de/:SSL - Workout
+#DESCRIPTION SSL - Workout
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/pride/mp3-128/stream.sunshine-live.de/:SSL and pride
+#DESCRIPTION SSL and pride
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/coronasos/mp3-128/stream.sunshine-live.de/:SSL Corona
+#DESCRIPTION SSL Corona
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/ade18dance/mp3-128/stream.sunshine-live.de/:Amsterdam Dance Event - Dance
+#DESCRIPTION Amsterdam Dance Event - Dance
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/gamescom/mp3-128/stream.sunshine-live.de/:Gamescom FM
+#DESCRIPTION Gamescom FM
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/kraftwerk/mp3-128/stream.sunshine-live.de/:Kraftwerk
+#DESCRIPTION Kraftwerk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/notband/mp3-128/stream.sunshine-live.de/:notband
+#DESCRIPTION notband
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/raveonsnow/mp3-128/stream.sunshine-live.de/:Rave On Snow 2018
+#DESCRIPTION Rave On Snow 2018
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/plus/mp3-128/stream.sunshine-live.de/:Sunshine Live Plus
+#DESCRIPTION Sunshine Live Plus
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//stream.sunshine-live.de/live-backup/mp3-128/stream.sunshine-live.de/:SSL - Livestream (Backup)
+#DESCRIPTION SSL - Livestream (Backup)
+#NAME WDR (Internet Radio) (AAC; ADR)
+#SERVICE 4097:0:2:2:0:0:0:0:0:0:https%3a//1liveuni-lh.akamaihd.net/i/1LIVE_HDS@179577/master.m3u8:1LIVE (AAC; 48 ― 96 kbps)
+#DESCRIPTION 1LIVE (AAC; 48 ― 96 kbps)
+#SERVICE 4097:0:2:4:0:0:0:0:0:0:https%3a//1livediggiuni-lh.akamaihd.net/i/1LIVEdiggi_HDS@179579/master.m3u8:1LIVE DIGGI (AAC; 48 ― 96 kbps)
+#DESCRIPTION 1LIVE DIGGI (AAC; 48 ― 96 kbps)
+#SERVICE 4097:0:2:6:0:0:0:0:0:0:https%3a//wdr2-lh.akamaihd.net/i/wdr2_aachen@384666/master.m3u8:WDR 2 (AAchen und Region) (AAC; 48 ― 96 kbps)
+#DESCRIPTION WDR 2 (AAchen und Region) (AAC; 48 ― 96 kbps)
+#SERVICE 4097:0:2:8:0:0:0:0:0:0:https%3a//wdr2-lh.akamaihd.net/i/wdr2_bergischesl@384667/master.m3u8:WDR 2 (Bergisches Land) (AAC; 48 ― 96 kbps)
+#DESCRIPTION WDR 2 (Bergisches Land) (AAC; 48 ― 96 kbps)
+#SERVICE 4097:0:2:10:0:0:0:0:0:0:https%3a//wdr2-lh.akamaihd.net/i/wdr2_muenster@384671/master.m3u8:WDR 2 (Münsterland) (AAC; 48 ― 96 kbps)
+#DESCRIPTION WDR 2 (Münsterland) (AAC; 48 ― 96 kbps)
+#SERVICE 4097:0:2:12:0:0:0:0:0:0:https%3a//wdr2-lh.akamaihd.net/i/wdr2_ostwestf@384690/master.m3u8:WDR 2 (Ostwestaflen-Lippe) (AAC; 48 ― 96 kbps)
+#DESCRIPTION WDR 2 (Ostwestaflen-Lippe) (AAC; 48 ― 96 kbps)
+#SERVICE 4097:0:2:14:0:0:0:0:0:0:https%3a//wdr2-lh.akamaihd.net/i/wdr2_rheinruhr@384691/master.m3u8:WDR 2 (Rhein und Ruhr) (AAC; 48 ― 96 kbps)
+#DESCRIPTION WDR 2 (Rhein und Ruhr) (AAC; 48 ― 96 kbps)
+#SERVICE 4097:0:2:16:0:0:0:0:0:0:https%3a//wdr2-lh.akamaihd.net/i/wdr2_rheinland@349349/master.m3u8:WDR 2 (Rheinland) (AAC; 48 ― 96 kbps)
+#DESCRIPTION WDR 2 (Rheinland) (AAC; 48 ― 96 kbps)
+#SERVICE 4097:0:2:18:0:0:0:0:0:0:https%3a//wdr2-lh.akamaihd.net/i/wdr2_ruhrgebiet@384692/master.m3u8:WDR 2 (Ruhrgebiet) (AAC; 48 ― 96 kbps)
+#DESCRIPTION WDR 2 (Ruhrgebiet) (AAC; 48 ― 96 kbps)
+#SERVICE 4097:0:2:20:0:0:0:0:0:0:https%3a//wdr2-lh.akamaihd.net/i/wdr2_suedwestf@384693/master.m3u8:WDR 2 (Südwestfalen) (AAC; 48 ― 96 kbps)
+#DESCRIPTION WDR 2 (Südwestfalen) (AAC; 48 ― 96 kbps)
+#SERVICE 4097:0:2:22:0:0:0:0:0:0:https%3a//wdr3-lh.akamaihd.net/i/wdr_wdr3@384694/master.m3u8:WDR 3 (AAC; 48 ― 256 kbps)
+#DESCRIPTION WDR 3 (AAC; 48 ― 256 kbps)
+#SERVICE 4097:0:2:24:0:0:0:0:0:0:https%3a//wdr4-lh.akamaihd.net/i/wdr_wdr4@384697/master.m3u8:WDR 4 (AAC; 48 ― 96 kbps)
+#DESCRIPTION WDR 4 (AAC; 48 ― 96 kbps)
+#SERVICE 4097:0:2:26:0:0:0:0:0:0:https%3a//wdr5-lh.akamaihd.net/i/wdr_wdr5@384698/master.m3u8:WDR 5 (AAC; 48 ― 96 kbps)
+#DESCRIPTION WDR 5 (AAC; 48 ― 96 kbps)
+#SERVICE 4097:0:2:28:0:0:0:0:0:0:https%3a//fhe-lh.akamaihd.net/i/wdr_fhe@384699/master.m3u8:WDR COSMO (AAC; 48 ― 96 kbps)
+#DESCRIPTION WDR COSMO (AAC; 48 ― 96 kbps)
+#SERVICE 4097:0:2:30:0:0:0:0:0:0:https%3a//radioevent-lh.akamaihd.net/i/wdr_radioevent@384708/master.m3u8:WDR EVENT (AAC; 48 ― 96 kbps)
+#DESCRIPTION WDR EVENT (AAC; 48 ― 96 kbps)
+#SERVICE 4097:0:2:32:0:0:0:0:0:0:https%3a//wdrdiemaus-lh.akamaihd.net/i/wdr_diemaus@374300/master.m3u8:WDR MAUS (AAC; 48 ― 96 kbps)
+#DESCRIPTION WDR MAUS (AAC; 48 ― 96 kbps)
+#SERVICE 4097:0:2:34:0:0:0:0:0:0:https%3a//vera-lh.akamaihd.net/i/wdr_vera@384709/master.m3u8:WDR VERA (Verkehrsinfos)(AAC; 48 ― 96 kbps)
+#DESCRIPTION WDR VERA (Verkehrsinfos)(AAC; 48 ― 96 kbps)
+#NAME WDR (Internet Radio) (AAC; highest)
+#SERVICE 4097:0:2:3:0:0:0:0:0:0:https%3a//1liveuni-lh.akamaihd.net/i/1LIVE_HDS@179577/index_1_a-b.m3u8?sd=10&amp;rebase=on:1LIVE (AAC; 96 kbps)
+#DESCRIPTION 1LIVE (AAC; 96 kbps)
+#SERVICE 4097:0:2:5:0:0:0:0:0:0:https%3a//1livediggiuni-lh.akamaihd.net/i/1LIVEdiggi_HDS@179579/index_1_a-b.m3u8?sd=10&amp;rebase=on:1LIVE DIGGI (AAC; 96 kbps)
+#DESCRIPTION 1LIVE DIGGI (AAC; 96 kbps)
+#SERVICE 4097:0:2:8:0:0:0:0:0:0:https%3a//wdr2-lh.akamaihd.net/i/wdr2_aachen@384666/index_1_a-b.m3u8?sd=10&amp;rebase=on:WDR 2 (AAchen und Region) (AAC; 96 kbps)
+#DESCRIPTION WDR 2 (AAchen und Region) (AAC; 96 kbps)
+#SERVICE 4097:0:2:10:0:0:0:0:0:0:https%3a//wdr2-lh.akamaihd.net/i/wdr2_bergischesl@384667/index_1_a-b.m3u8?sd=10&amp;rebase=on:WDR 2 (Bergisches Land) (AAC; 96 kbps)
+#DESCRIPTION WDR 2 (Bergisches Land) (AAC; 96 kbps)
+#SERVICE 4097:0:2:12:0:0:0:0:0:0:https%3a//wdr2-lh.akamaihd.net/i/wdr2_muenster@384671/index_1_a-b.m3u8?sd=10&amp;rebase=on:WDR 2 (Münsterland) (AAC; 96 kbps)
+#DESCRIPTION WDR 2 (Münsterland) (AAC; 96 kbps)
+#SERVICE 4097:0:2:14:0:0:0:0:0:0:https%3a//wdr2-lh.akamaihd.net/i/wdr2_ostwestf@384690/index_1_a-b.m3u8?sd=10&amp;rebase=on:WDR 2 (Ostwestaflen-Lippe) (AAC; 96 kbps)
+#DESCRIPTION WDR 2 (Ostwestaflen-Lippe) (AAC; 96 kbps)
+#SERVICE 4097:0:2:16:0:0:0:0:0:0:https%3a//wdr2-lh.akamaihd.net/i/wdr2_rheinruhr@384691/index_1_a-b.m3u8?sd=10&amp;rebase=on:WDR 2 (Rhein und Ruhr) (AAC; 96 kbps)
+#DESCRIPTION WDR 2 (Rhein und Ruhr) (AAC; 96 kbps)
+#SERVICE 4097:0:2:18:0:0:0:0:0:0:https%3a//wdr2-lh.akamaihd.net/i/wdr2_rheinland@349349/index_1_a-b.m3u8?sd=10&amp;rebase=on:WDR 2 (Rheinland) (AAC; 96 kbps)
+#DESCRIPTION WDR 2 (Rheinland) (AAC; 96 kbps)
+#SERVICE 4097:0:2:20:0:0:0:0:0:0:https%3a//wdr2-lh.akamaihd.net/i/wdr2_ruhrgebiet@384692/index_1_a-b.m3u8?sd=10&amp;rebase=on:WDR 2 (Ruhrgebiet) (AAC; 96 kbps)
+#DESCRIPTION WDR 2 (Ruhrgebiet) (AAC; 96 kbps)
+#SERVICE 4097:0:2:22:0:0:0:0:0:0:https%3a//wdr2-lh.akamaihd.net/i/wdr2_suedwestf@384693/index_1_a-b.m3u8?sd=10&amp;rebase=on:WDR 2 (Südwestfalen) (AAC; 96 kbps)
+#DESCRIPTION WDR 2 (Südwestfalen) (AAC; 96 kbps)
+#SERVICE 4097:0:2:25:0:0:0:0:0:0:https%3a//wdr3-lh.akamaihd.net/i/wdr_wdr3@384694/index_1_a-b.m3u8?sd=10&amp;rebase=on:WDR 3 (AAC; 256 kbps)
+#DESCRIPTION WDR 3 (AAC; 256 kbps)
+#SERVICE 4097:0:2:28:0:0:0:0:0:0:https%3a//wdr4-lh.akamaihd.net/i/wdr_wdr4@384697/index_1_a-b.m3u8?sd=10&amp;rebase=on:WDR 4 (AAC; 96 kbps)
+#DESCRIPTION WDR 4 (AAC; 96 kbps)
+#SERVICE 4097:0:2:31:0:0:0:0:0:0:https%3a//wdr5-lh.akamaihd.net/i/wdr_wdr5@384698/index_1_a-b.m3u8?sd=10&amp;rebase=on:WDR 5 (AAC; 96 kbps)
+#DESCRIPTION WDR 5 (AAC; 96 kbps)
+#SERVICE 4097:0:2:34:0:0:0:0:0:0:https%3a//fhe-lh.akamaihd.net/i/wdr_fhe@384699/index_1_a-b.m3u8?sd=10&amp;rebase=on:WDR COSMO (AAC; 96 kbps)
+#DESCRIPTION WDR COSMO (AAC; 96 kbps)
+#SERVICE 4097:0:2:37:0:0:0:0:0:0:https%3a//radioevent-lh.akamaihd.net/i/wdr_radioevent@384708/index_1_a-b.m3u8?sd=10&amp;rebase=on:WDR EVENT (AAC; 96 kbps)
+#DESCRIPTION WDR EVENT (AAC; 96 kbps)
+#SERVICE 4097:0:2:40:0:0:0:0:0:0:https%3a//wdrdiemaus-lh.akamaihd.net/i/wdr_diemaus@374300/index_1_a-b.m3u8?sd=10&amp;rebase=on:WDR MAUS (AAC; 96 kbps)
+#DESCRIPTION WDR MAUS (AAC; 96 kbps)
+#SERVICE 4097:0:2:43:0:0:0:0:0:0:https%3a//vera-lh.akamaihd.net/i/wdr_vera@384709/index_1_a-b.m3u8?sd=10&amp;rebase=on:WDR VERA (Verkehrsinfos) (AAC; 96 kbps)
+#DESCRIPTION WDR VERA (Verkehrsinfos) (AAC; 96 kbps)
+#NAME WDR (Internet Radio) (mp3)
+#SERVICE 4097:0:2:2:0:0:0:0:0:0:https%3a//wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3:1LIVE (mp3 / 128 kBit/s)
+#DESCRIPTION 1LIVE (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:4:0:0:0:0:0:0:https%3a//wdr-1live-diggi.icecastssl.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3:1LIVE DIGGI (mp3 / 128 kBit/s)
+#DESCRIPTION 1LIVE DIGGI (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:6:0:0:0:0:0:0:https%3a//wdr-1live-fiehe.icecastssl.wdr.de/wdr/1live/fiehe/mp3/128/stream.mp3:1LIVE Fiehe (Loop) (mp3 / 128 kBit/s)
+#DESCRIPTION 1LIVE Fiehe (Loop) (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:8:0:0:0:0:0:0:https%3a//wdr-1live-hiphop.icecastssl.wdr.de/wdr/1live/hiphop/mp3/128/stream.mp3:1LIVE HipHop (Loop) (mp3 / 128 kBit/s)
+#DESCRIPTION 1LIVE HipHop (Loop) (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:10:0:0:0:0:0:0:https%3a//wdr-1live-planb.icecastssl.wdr.de/wdr/1live/planb/mp3/128/stream.mp3:1LIVE Plan B (Loop) (mp3 / 128 kBit/s)
+#DESCRIPTION 1LIVE Plan B (Loop) (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:12:0:0:0:0:0:0:https%3a//wdr-1live-djsession.icecastssl.wdr.de/wdr/1live/djsession/mp3/128/stream.mp3:1LIVE Plan DJ Session (Loop) (mp3 / 128 kBit/s)
+#DESCRIPTION 1LIVE DJ Session (Loop) (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:14:0:0:0:0:0:0:https%3a//wdr-1live-specials.icecastssl.wdr.de/wdr/1live/specials/mp3/128/stream.mp3:1LIVE Special (Loop) (mp3 / 128 kBit/s)
+#DESCRIPTION 1LIVE Special (Loop) (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:16:0:0:0:0:0:0:https%3a//wdr-wdr2-bergischesland.icecastssl.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3:WDR 2 (Bergisches Land) (mp3 / 128 kBit/s)
+#DESCRIPTION WDR 2 (Bergisches Land) (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:18:0:0:0:0:0:0:https%3a//wdr-wdr2-muensterland.icecastssl.wdr.de/wdr/wdr2/muensterland/mp3/128/stream.mp3:WDR 2 (Münsterland) (mp3 / 128 kBit/s)
+#DESCRIPTION WDR 2 (Münsterland) (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:20:0:0:0:0:0:0:https%3a//wdr-wdr2-ostwestfalenlippe.icecastssl.wdr.de/wdr/wdr2/ostwestfalenlippe/mp3/128/stream.mp3:WDR 2 (Ostwestaflen-Lippe) (mp3 / 128 kBit/s)
+#DESCRIPTION WDR 2 (Ostwestaflen-Lippe) (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:22:0:0:0:0:0:0:https%3a//wdr-wdr2-rheinruhr.icecastssl.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3:WDR 2 (Rhein und Ruhr) (mp3 / 128 kBit/s)
+#DESCRIPTION WDR 2 (Rhein und Ruhr) (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:24:0:0:0:0:0:0:https%3a//wdr-wdr2-rheinland.icecastssl.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3:WDR 2 (Rheinland) (mp3 / 128 kBit/s)
+#DESCRIPTION WDR 2 (Rheinland) (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:26:0:0:0:0:0:0:https%3a//wdr-wdr2-ruhrgebiet.icecastssl.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3:WDR 2 (Ruhrgebiet) (mp3 / 128 kBit/s)
+#DESCRIPTION WDR 2 (Ruhrgebiet) (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:28:0:0:0:0:0:0:https%3a//wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3:WDR 3 (mp3 / 128 kBit/s)
+#DESCRIPTION WDR 3 (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:30:0:0:0:0:0:0:https%3a//wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3:WDR 3 (mp3 / 256 kBit/s)
+#DESCRIPTION WDR 3 (mp3 / 256 kBit/s)
+#SERVICE 4097:0:2:32:0:0:0:0:0:0:https%3a//wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3:WDR 4 (mp3 / 128 kBit/s)
+#DESCRIPTION WDR 4 (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:34:0:0:0:0:0:0:https%3a//wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3:WDR 5 (mp3 / 128 kBit/s)
+#DESCRIPTION WDR 5 (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:36:0:0:0:0:0:0:https%3a//wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3:WDR COSMO (mp3 / 128 kBit/s)
+#DESCRIPTION WDR COSMO (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:38:0:0:0:0:0:0:https%3a//wdr-cosmo-alsautalarabi.icecastssl.wdr.de/wdr/cosmo/alsautalarabi/mp3/128/stream.mp3:WDR COSMO Al-Saut Al-Arabi [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+#DESCRIPTION WDR COSMO Al-Saut Al-Arabi [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:40:0:0:0:0:0:0:https%3a//wdr-cosmo-bernamakurdikoelnradyosu.icecastssl.wdr.de/wdr/cosmo/bernamakurdikoelnradyosu/mp3/128/stream.mp3:WDR COSMO Bernama Kurdi [So 18-19 Uhr] (mp3 / 128 kBit/s)
+#DESCRIPTION WDR COSMO Bernama Kurdi [So 18-19 Uhr] (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:42:0:0:0:0:0:0:https%3a//wdr-cosmo-ellinikorandevouradioforum.icecastssl.wdr.de/wdr/cosmo/ellinikorandevouradioforum/mp3/128/stream.mp3:WDR COSMO Elliniko Randevou [So 18-19 Uhr] (mp3 / 128 kBit/s)
+#DESCRIPTION WDR COSMO Elliniko Randevou [So 18-19 Uhr] (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:44:0:0:0:0:0:0:https%3a//wdr-cosmo-estacionsurradiocolonia.icecastssl.wdr.de/wdr/cosmo/estacionsurradiocolonia/mp3/128/stream.mp3:WDR COSMO Estación Sur [So 18-19 Uhr] (mp3 / 128 kBit/s)
+#DESCRIPTION WDR COSMO Estación Sur [So 18-19 Uhr] (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:46:0:0:0:0:0:0:https%3a//wdr-cosmo-bernamakurdikoelnradyosu.icecastssl.wdr.de/wdr/cosmo/bernamakurdikoelnradyosu/mp3/128/stream.mp3:WDR COSMO Köln Radyosu [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+#DESCRIPTION WDR COSMO Köln Radyosu [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:48:0:0:0:0:0:0:https%3a//wdr-cosmo-estacionsurradiocolonia.icecastssl.wdr.de/wdr/cosmo/estacionsurradiocolonia/mp3/128/stream.mp3:WDR COSMO Radio Colonia [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+#DESCRIPTION WDR COSMO Radio Colonia [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:50:0:0:0:0:0:0:https%3a//wdr-cosmo-ellinikorandevouradioforum.icecastssl.wdr.de/wdr/cosmo/ellinikorandevouradioforum/mp3/128/stream.mp3:WDR COSMO Radio Forum [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+#DESCRIPTION WDR COSMO Radio Forum [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:52:0:0:0:0:0:0:https%3a//wdr-cosmo-popolskuevent.icecastssl.wdr.de/wdr/cosmo/popolskuevent/mp3/128/stream.mp3:WDR COSMO Radio po polsku [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+#DESCRIPTION WDR COSMO Radio po polsku [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:54:0:0:0:0:0:0:https%3a//wdr-cosmo-porusskievent.icecastssl.wdr.de/wdr/cosmo/porusskievent/mp3/128/stream.mp3:WDR COSMO Radio po-russki [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+#DESCRIPTION WDR COSMO Radio po-russki [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:56:0:0:0:0:0:0:https%3a//wdr-cosmo-afrobeat.icecastssl.wdr.de/wdr/cosmo/afrobeat/mp3/128/stream.mp3:WDR COSMO ― Afrobeats (mp3 / 128 kBit/s)
+#DESCRIPTION WDR COSMO ― Afrobeats (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:58:0:0:0:0:0:0:https%3a//wdr-cosmo-chillout.icecastssl.wdr.de/wdr/cosmo/chillout/mp3/128/stream.mp3:WDR COSMO ― Chill (mp3 / 128 kBit/s)
+#DESCRIPTION WDR COSMO ― Chill (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:60:0:0:0:0:0:0:https%3a//wdr-cosmo-dance.icecastssl.wdr.de/wdr/cosmo/dance/mp3/128/stream.mp3:WDR COSMO ― Dance (mp3 / 128 kBit/s)
+#DESCRIPTION WDR COSMO ― Dance (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:62:0:0:0:0:0:0:https%3a//wdr-cosmo-coslive.icecastssl.wdr.de/wdr/cosmo/coslive/mp3/128/stream.mp3:WDR COSMO ― Konzerte (mp3 / 128 kBit/s)
+#DESCRIPTION WDR COSMO ― Konzerte (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:64:0:0:0:0:0:0:https%3a//wdr-cosmo-selektor.icecastssl.wdr.de/wdr/cosmo/selektor/mp3/128/stream.mp3:WDR COSMO ― Selektor (mp3 / 128 kBit/s)
+#DESCRIPTION WDR COSMO ― Selektor (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:66:0:0:0:0:0:0:https%3a//wdr-cosmo-trap.icecastssl.wdr.de/wdr/cosmo/trap/mp3/128/stream.mp3:WDR COSMO ― Trap (mp3 / 128 kBit/s)
+#DESCRIPTION WDR COSMO ― Trap (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:68:0:0:0:0:0:0:https%3a//wdr-cosmo-special.icecastssl.wdr.de/wdr/cosmo/special/mp3/128/stream.mp3:WDR COSMO ― Vintage (mp3 / 128 kBit/s)
+#DESCRIPTION WDR COSMO ― Vintage (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:70:0:0:0:0:0:0:https%3a//wdr-cosmo-neuincosmo.icecastssl.wdr.de/wdr/cosmo/neuincosmo/mp3/128/stream.mp3:WDR Neu in COSMO (mp3 / 128 kBit/s)
+#DESCRIPTION WDR Neu in COSMO (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:72:0:0:0:0:0:0:https%3a//wdr-wdr-event.icecastssl.wdr.de/wdr/wdr/event/mp3/128/stream.mp3:WDR EVENT (mp3 / 128 kBit/s)
+#DESCRIPTION WDR EVENT (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:74:0:0:0:0:0:0:https%3a//wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/56/stream.mp3:WDR MAUS (mp3 / 56 kBit/s)
+#DESCRIPTION WDR MAUS (mp3 / 56 kBit/s)
+#SERVICE 4097:0:2:76:0:0:0:0:0:0:https%3a//wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3:WDR MAUS (mp3 / 128 kBit/s)
+#DESCRIPTION WDR MAUS (mp3 / 128 kBit/s)
+#SERVICE 4097:0:2:78:0:0:0:0:0:0:https%3a//wdr-vera-live.icecastssl.wdr.de/wdr/vera/live/mp3/128/stream.mp3:WDR VERA (Verkehrsinfos) (mp3 / 128 kBit/s)
+#DESCRIPTION WDR VERA (Verkehrsinfos) (mp3 / 128 kBit/s)
+#NAME BBC (Internet Radio | aac (UK IP))
+#SERVICE 4097:0:2:3:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8:BBC Radio 1
+#DESCRIPTION BBC Radio 1
+#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_1xtra.m3u8:BBC Radio 1Xtra
+#DESCRIPTION BBC Radio 1Xtra
+#SERVICE 4097:0:2:7:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8:BBC Radio 2
+#DESCRIPTION BBC Radio 2
+#SERVICE 4097:0:2:9:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8:BBC Radio 3
+#DESCRIPTION BBC Radio 3
+#SERVICE 4097:0:2:11:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8:BBC Radio 4
+#DESCRIPTION BBC Radio 4
+#SERVICE 4097:0:2:13:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourlw.m3u8:BBC Radio 4LW
+#DESCRIPTION BBC Radio 4LW
+#SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_four_extra.m3u8:BBC Radio 4 Extra
+#DESCRIPTION BBC Radio 4 Extra
+#SERVICE 4097:0:2:17:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live.m3u8:BBC Radio 5 Live
+#DESCRIPTION BBC Radio 5 Live
+#SERVICE 4097:0:2:19:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_spo.m3u8_extra.m3u8:BBC Radio 5 Live Sports Extra
+#DESCRIPTION BBC Radio 5 Live Sports Extra
+#SERVICE 4097:0:2:21:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8:BBC Radio 6 Music
+#DESCRIPTION BBC Radio 6 Music
+#SERVICE 4097:0:2:23:0:0:0:0:0:0:http%3a//a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_asian_network.m3u8:BBC Asian Network
+#DESCRIPTION BBC Asian Network
+#NAME BBC (Internet Radio | mixed)
+#SERVICE 4097:0:2:3:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p:BBC Radio 1 FM
+#DESCRIPTION BBC Radio 1 FM
+#SERVICE 4097:0:2:5:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p:BBC Radio 2 FM
+#DESCRIPTION BBC Radio 2 FM
+#SERVICE 4097:0:2:7:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p:BBC Radio 3 FM
+#DESCRIPTION BBC Radio 3 FM
+#SERVICE 4097:0:2:9:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p:BBC Radio 4 FM
+#DESCRIPTION BBC Radio 4 FM
+#SERVICE 4097:0:2:11:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4lw_mf_p:BBC Radio 4 LW 198 kHz
+#DESCRIPTION BBC Radio 4 LW 198 kHz
+#SERVICE 4097:0:2:13:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p:BBC Radio 4 Extra
+#DESCRIPTION BBC Radio 4 Extra
+#SERVICE 4097:0:2:15:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p:BBC Radio 5 Live
+#DESCRIPTION BBC Radio 5 Live
+#SERVICE 4097:0:2:17:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p:BBC Radio 6 Music
+#DESCRIPTION BBC Radio 6 Music
+#SERVICE 4097:0:2:19:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p:BBC 1Xtra
+#DESCRIPTION BBC 1Xtra
+#SERVICE 4097:0:2:21:0:0:0:0:0:0:http%3a//bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p:BBC Asian Network
+#DESCRIPTION BBC Asian Network
+#SERVICE 4097:0:2:23:0:0:0:0:0:0:http%3a//bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk_backup:BBC World Service English (backup)
+#DESCRIPTION BBC World Service English (backup)
+#SERVICE 4097:0:2:25:0:0:0:0:0:0:http%3a//wsdownload.bbc.co.uk/worldservice/meta/live/shoutcast/mp3/eieuk.pls:BBC World Service English (UK Schedule)
+#DESCRIPTION BBC World Service English (UK Schedule)
+#SERVICE 4097:0:2:27:0:0:0:0:0:0:http%3a//media-ice.musicradio.com%3a80/ClassicFMMP3:(ILR) Classic FM
+#DESCRIPTION (ILR) Classic FM
+#SERVICE 4097:0:2:29:0:0:0:0:0:0:http%3a//sc3.radiocaroline.net%3a8030/listen.m3u:(pirate) Radio Caroline
+#DESCRIPTION (pirate) Radio Caroline
+#SERVICE 4097:0:2:31:0:0:0:0:0:0:http%3a//109.169.54.86%3a8044/listen.pls:(pirate) Radio North Sea International (128kb/s AAC)
+#DESCRIPTION (pirate) Radio North Sea International (128kb/s AAC)
+#SERVICE 4097:0:2:33:0:0:0:0:0:0:http%3a//188.40.135.197%3a8388/listen.pls:(pirate) Radio North Sea International (192 kb/s MP3)
+#DESCRIPTION (pirate) Radio North Sea International (192 kb/s MP3)
+#NAME BFBS (Internet Radio | AAC)
+#SERVICE 4097:0:1:2:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs13.aac:BFBS Aldershot 📻
+#DESCRIPTION BFBS Aldershot 📻
+#SERVICE 4097:0:1:4:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs20.aac:BFBS Beats 📻
+#DESCRIPTION BFBS Beats 📻
+#SERVICE 4097:0:1:6:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs14.aac:BFBS Blandford 📻
+#DESCRIPTION BFBS Blandford 📻
+#SERVICE 4097:0:1:8:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs25.aac:BFBS Brize Norton 📻
+#DESCRIPTION BFBS Brize Norton 📻
+#SERVICE 4097:0:1:10:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs10.aac:BFBS Brunei 🇧🇳
+#DESCRIPTION BFBS Brunei 🇧🇳
+#SERVICE 4097:0:1:12:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs12.aac:BFBS Canada 🇨🇦
+#DESCRIPTION BFBS Canada 🇨🇦
+#SERVICE 4097:0:1:14:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs15.aac:BFBS Catterick 📻
+#DESCRIPTION BFBS Catterick 📻
+#SERVICE 4097:0:1:16:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs16.aac:BFBS Colchester 📻
+#DESCRIPTION BFBS Colchester 📻
+#SERVICE 4097:0:1:18:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.aac:BFBS Cyprus 🇨🇾
+#DESCRIPTION BFBS Cyprus 🇨🇾
+#SERVICE 4097:0:1:20:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs22.aac:BFBS Dirt 📻
+#DESCRIPTION BFBS Dirt 📻
+#SERVICE 4097:0:1:22:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac:BFBS Falklands 🇫🇰
+#DESCRIPTION BFBS Falklands 🇫🇰
+#SERVICE 4097:0:1:24:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs5.aac:BFBS Germany 🇩🇪
+#DESCRIPTION BFBS Germany 🇩🇪
+#SERVICE 4097:0:1:26:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs7.aac:BFBS Gibraltar 🇬🇮
+#DESCRIPTION BFBS Gibraltar 🇬🇮
+#SERVICE 4097:0:1:28:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac:BFBS Gurkha Network 📻
+#DESCRIPTION BFBS Gurkha Network 📻
+#SERVICE 4097:0:1:30:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs4.aac:BFBS Northern Ireland 🇮🇪
+#DESCRIPTION BFBS Northern Ireland 🇮🇪
+#SERVICE 4097:0:1:32:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.aac:BFBS OPS 📻
+#DESCRIPTION BFBS OPS 📻
+#SERVICE 4097:0:1:34:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs2.aac:BFBS Radio 2 📻
+#DESCRIPTION BFBS Radio 2 📻
+#SERVICE 4097:0:1:36:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs21.aac:BFBS Rewind 📻
+#DESCRIPTION BFBS Rewind 📻
+#SERVICE 4097:0:1:38:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs17.aac:BFBS Salisbury Plain 📻
+#DESCRIPTION BFBS Salisbury Plain 📻
+#SERVICE 4097:0:1:40:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs23.aac:BFBS Samishran 📻
+#DESCRIPTION BFBS Samishran 📻
+#SERVICE 4097:0:1:42:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs18.aac:BFBS Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+#DESCRIPTION BFBS Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+#SERVICE 4097:0:1:44:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac:BFBS UK 🇬🇧
+#DESCRIPTION BFBS UK 🇬🇧
+#SERVICE 4097:0:1:46:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs24.aac:BFBS Unwind 📻
+#DESCRIPTION BFBS Unwind 📻
+#NAME BFBS (Internet Radio | aac)
+#SERVICE 4097:0:2:2:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs13.aac:BFBS Aldershot
+#DESCRIPTION BFBS Aldershot
+#SERVICE 4097:0:2:4:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs20.aac:BFBS Beats
+#DESCRIPTION BFBS Beats
+#SERVICE 4097:0:2:6:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs14.aac:BFBS Blandford
+#DESCRIPTION BFBS Blandford
+#SERVICE 4097:0:2:8:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs25.aac:BFBS Brize Norton
+#DESCRIPTION BFBS Brize Norton
+#SERVICE 4097:0:2:10:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs10.aac:BFBS Brunei
+#DESCRIPTION BFBS Brunei
+#SERVICE 4097:0:2:12:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs12.aac:BFBS Canada
+#DESCRIPTION BFBS Canada
+#SERVICE 4097:0:2:14:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs15.aac:BFBS Catterick
+#DESCRIPTION BFBS Catterick
+#SERVICE 4097:0:2:16:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs16.aac:BFBS Colchester
+#DESCRIPTION BFBS Colchester
+#SERVICE 4097:0:2:18:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.aac:BFBS Cyprus
+#DESCRIPTION BFBS Cyprus
+#SERVICE 4097:0:2:20:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs22.aac:BFBS Dirt
+#DESCRIPTION BFBS Dirt
+#SERVICE 4097:0:2:22:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac:BFBS Falklands
+#DESCRIPTION BFBS Falklands
+#SERVICE 4097:0:2:24:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs5.aac:BFBS Germany
+#DESCRIPTION BFBS Germany
+#SERVICE 4097:0:2:26:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs7.aac:BFBS Gibraltar
+#DESCRIPTION BFBS Gibraltar
+#SERVICE 4097:0:2:28:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac:BFBS Gurkha Network
+#DESCRIPTION BFBS Gurkha Network
+#SERVICE 4097:0:2:30:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs4.aac:BFBS Northern Ireland
+#DESCRIPTION BFBS Northern Ireland
+#SERVICE 4097:0:2:32:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.aac:BFBS OPS
+#DESCRIPTION BFBS OPS
+#SERVICE 4097:0:2:34:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs2.aac:BFBS Radio 2
+#DESCRIPTION BFBS Radio 2
+#SERVICE 4097:0:2:36:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs21.aac:BFBS Rewind
+#DESCRIPTION BFBS Rewind
+#SERVICE 4097:0:2:38:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs17.aac:BFBS Salisbury Plain
+#DESCRIPTION BFBS Salisbury Plain
+#SERVICE 4097:0:2:40:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs23.aac:BFBS Samishran
+#DESCRIPTION BFBS Samishran
+#SERVICE 4097:0:2:42:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs18.aac:BFBS Scotland
+#DESCRIPTION BFBS Scotland
+#SERVICE 4097:0:2:44:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac:BFBS UK
+#DESCRIPTION BFBS UK
+#SERVICE 4097:0:2:46:0:0:0:0:0:0:https%3a//listen-ssvcbfbs.sharp-stream.com/ssvcbfbs24.aac:BFBS Unwind
+#DESCRIPTION BFBS Unwind
+#NAME AFN (Internet Radio | mp3)
+
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20873.live.streamtheworld.com/AFNE_AVN.mp3:AFN|Aviano
+#DESCRIPTION AFN|Aviano
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20423.live.streamtheworld.com/AFNE_BHN.mp3:AFN|Bahrain
+#DESCRIPTION AFN|Bahrain
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20133.live.streamtheworld.com/AFNE_BAV.mp3:AFN|Bavaria
+#DESCRIPTION AFN|Bavaria
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20133.live.streamtheworld.com/AFNE_BLX.mp3:AFN|Benelux
+#DESCRIPTION AFN|Benelux
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//17963.live.streamtheworld.com/AFN_CTY.mp3:AFN|Country
+#DESCRIPTION AFN|Country
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//17533.live.streamtheworld.com/AFN_FAN.mp3:AFN|Fans
+#DESCRIPTION AFN|Fans
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20813.live.streamtheworld.com/AFN_FRE.mp3:AFN|Freedom
+#DESCRIPTION AFN|Freedom
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/AFNE_GMO.mp3:AFN|GITMO
+#DESCRIPTION AFN|GITMO
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//14103.live.streamtheworld.com/AFN_GRV.mp3:AFN|Gravity
+#DESCRIPTION AFN|Gravity
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23603.live.streamtheworld.com/AFN_SEA.mp3:AFN|Holiday
+#DESCRIPTION AFN|Holiday
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20813.live.streamtheworld.com/AFN_HOT.mp3:AFN|Hot AC
+#DESCRIPTION AFN|Hot AC
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20423.live.streamtheworld.com/AFNE_ICK.mp3:AFN|Incirlik
+#DESCRIPTION AFN|Incirlik
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//18443.live.streamtheworld.com/AFN_JOE.mp3:AFN|Joe Radio
+#DESCRIPTION AFN|Joe Radio
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20133.live.streamtheworld.com/AFNE_KTN.mp3:AFN|Kaiserslautern
+#DESCRIPTION AFN|Kaiserslautern
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22613.live.streamtheworld.com/AFNE_LJS.mp3:AFN|Lajes
+#DESCRIPTION AFN|Lajes
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//14543.live.streamtheworld.com/AFN_LGY.mp3:AFN|Legacy
+#DESCRIPTION AFN|Legacy
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20873.live.streamtheworld.com/AFNE_NAP.mp3:AFN|Naples
+#DESCRIPTION AFN|Naples
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20813.live.streamtheworld.com/AFN_PTK.mp3:AFN|PowerTalk
+#DESCRIPTION AFN|PowerTalk
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20423.live.streamtheworld.com/AFNE_RTA.mp3:AFN|Rota
+#DESCRIPTION AFN|Rota
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20423.live.streamtheworld.com/AFNE_SIG.mp3:AFN|Sigonella
+#DESCRIPTION AFN|Sigonella
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22323.live.streamtheworld.com/AFNE_SDB.mp3:AFN|Souda Bay
+#DESCRIPTION AFN|Souda Bay
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//22713.live.streamtheworld.com/AFNE_SPG.mp3:AFN|Spangdahlem
+#DESCRIPTION AFN|Spangdahlem
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23603.live.streamtheworld.com/AFNE_STU.mp3:AFN|Stuttgart
+#DESCRIPTION AFN|Stuttgart
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23113.live.streamtheworld.com/AFN_VCE.mp3:AFN|The Voice
+#DESCRIPTION AFN|The Voice
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//23603.live.streamtheworld.com/AFNE_VIC.mp3:AFN|Vicenza
+#DESCRIPTION AFN|Vicenza
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//20873.live.streamtheworld.com/AFNE_WBN.mp3:AFN|Wiesbaden
+#DESCRIPTION AFN|Wiesbaden
