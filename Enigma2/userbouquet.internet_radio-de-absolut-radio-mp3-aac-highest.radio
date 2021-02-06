@@ -1,0 +1,14 @@
+#NAME Absolut relax (Internet-Radio | mp3; aac)
+# absolutradio.de
+#SERVICE 4097:0:1:2:0:0:0:0:0:0:https%3a//stream.absolutradio.de/relax/mp3-160/:Absolut relax [MP3; 160 kbps]
+#DESCRIPTION Absolut relax [MP3; 160 kbps]
+#SERVICE 4097:0:1:4:0:0:0:0:0:0:https%3a//absolutradio.stream24.net/absolut-bella.mp3:Absolut Bella [MP3; 128 kbps]
+#DESCRIPTION Absolut Bella [MP3; 128 kbps]
+#SERVICE 4097:0:1:6:0:0:0:0:0:0:https%3a//stream.absolutradio.de/hot/mp3-128/:Absolut HOT [MP3; 128 kbps]
+#DESCRIPTION Absolut HOT [MP3; 128 kbps]
+#SERVICE 4097:0:1:8:0:0:0:0:0:0:https%3a//stream.absolutradio.de/lq/mp3/:Absolut musicXL [MP3; 128 kbps]
+#DESCRIPTION Absolut musicXL [MP3; 128 kbps]
+#SERVICE 4097:0:1:10:0:0:0:0:0:0:https%3a//absolutradio.stream24.net/absolut-oldie-classics.mp3:Absolut Oldie Classics [MP3; 128 kbps]
+#DESCRIPTION Absolut Oldie Classics [MP3; 128 kbps]
+#SERVICE 4097:0:1:12:0:0:0:0:0:0:https%3a//edge04.streamonkey.net/absolut-top?aggregator=radioplayer:Absolut TOP [AAC; SBR; 32 kbps]
+#DESCRIPTION Absolut TOP [AAC; SBR]
