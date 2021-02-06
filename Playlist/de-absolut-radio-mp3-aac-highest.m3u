@@ -1,0 +1,15 @@
+#NAME Absolut relax (Internet-Radio | mp3; aac)
+# absolutradio.de
+#EXTM3U
+#EXTINF:0,Absolut relax [MP3; 160 kbps]
+https://stream.absolutradio.de/relax/mp3-160/
+#EXTINF:0,Absolut Bella [MP3; 128 kbps]
+https://absolutradio.stream24.net/absolut-bella.mp3
+#EXTINF:0,Absolut HOT [MP3; 128 kbps]
+https://stream.absolutradio.de/hot/mp3-128/
+#EXTINF:0,Absolut musicXL [MP3; 128 kbps]
+https://stream.absolutradio.de/lq/mp3/
+#EXTINF:0,Absolut Oldie Classics [MP3; 128 kbps]
+https://absolutradio.stream24.net/absolut-oldie-classics.mp3
+#EXTINF:0,Absolut TOP [AAC; SBR]
+https://edge04.streamonkey.net/absolut-top?aggregator=radioplayer
