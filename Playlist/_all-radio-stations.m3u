@@ -1,0 +1,1831 @@
+#NAME Absolut relax (Internet-Radio | mp3; aac)
+# absolutradio.de
+#EXTM3U
+#EXTINF:0,Absolut relax [MP3; 160 kbps]
+https://stream.absolutradio.de/relax/mp3-160/
+#EXTINF:0,Absolut Bella [MP3; 128 kbps]
+https://absolutradio.stream24.net/absolut-bella.mp3
+#EXTINF:0,Absolut HOT [MP3; 128 kbps]
+https://stream.absolutradio.de/hot/mp3-128/
+#EXTINF:0,Absolut musicXL [MP3; 128 kbps]
+https://stream.absolutradio.de/lq/mp3/
+#EXTINF:0,Absolut Oldie Classics [MP3; 128 kbps]
+https://absolutradio.stream24.net/absolut-oldie-classics.mp3
+#EXTINF:0,Absolut TOP [AAC; SBR]
+https://edge04.streamonkey.net/absolut-top?aggregator=radioplayer
+#NAME JAM FM (Internet-Radio | mp3 | 128 kbps)
+#EXTM3U
+#EXTINF:-1,logo="https://webradio.jam.fm/resources/10357518/img/110x110_Livestream_JAM.jpg",JAM FM Live
+https://stream.jam.fm/jamfm-live/mp3-128/konsole
+#EXTINF:-1,JAM FM 90er
+https://stream.jam.fm/90er/mp3-128/konsole/
+#EXTINF:-1,JAM FM 2000er
+https://stream.jam.fm/2000er/mp3-128/konsole/
+#EXTINF:-1,JAM FM 2010er
+https://stream.jam.fm/2010er/mp3-128/konsole
+#EXTINF:-1,JAM FM Black Label
+https://stream.jam.fm/jamfm-bl/mp3-128/konsole/
+#EXTINF:-1,JAM FM Charts
+https://stream.jam.fm/charts/mp3-128/konsole/
+#EXTINF:-1,JAM FM Chill
+https://stream.jam.fm/chill/mp3-128/konsole/
+#EXTINF:-1,JAM FM Chill the Virus
+https://stream.jam.fm/chill-the-virus/mp3-128/konsole/
+#EXTINF:-1,JAM FM DJ Cooper
+https://stream.jam.fm/djcooper/mp3-128/konsole
+#EXTINF:-1,JAM FM Elektro
+https://stream.jam.fm/elektro/mp3-128/konsole/
+#EXTINF:-1,JAM FM Generation Deutschrap
+https://stream.jam.fm/deutschrap/mp3-128/konsole/
+#EXTINF:-1,JAM FM K-Pop
+https://rtlberlin.streamabc.net/rtlb-jamfmkpop-mp3-128-8582229
+#EXTINF:-1,JAM FM New Music Radio
+https://stream.jam.fm/jamfm-nmr/mp3-128/konsole/
+#EXTINF:-1,JAM FM Party
+https://stream.jam.fm/party/mp3-128/konsole/
+#EXTINF:-1,JAM FM Rap
+https://stream.jam.fm/rap/mp3-128/konsole/
+#EXTINF:-1,JAM FM Russkiye Khity (Русские Хити)
+https://stream.jam.fm/russkiye/mp3-128/konsole/
+#EXTINF:-1,JAM FM Study
+https://stream.jam.fm/study/mp3-128/konsole/
+#EXTINF:-1,JAM FM The Wave
+https://stream.thewaveradio.de/wave-live/mp3-128/konsole/
+#EXTINF:-1,JAM FM Workout
+https://stream.jam.fm/workout/mp3-128/konsole
+#NAME Radio Hochstift (Internet-Radio | mp3 | 128 kbps)
+#EXTM3U
+#EXTINF:-1,Antenne AC
+https://stream.lokalradio.nrw/444z5bb
+#EXTINF:-1,Antenne Düsseldorf
+https://stream.lokalradio.nrw/444z5n3
+#EXTINF:-1,Antenne Münster
+https://mms.hoerradar.de/am128k
+#EXTINF:-1,Antenne Unna
+https://stream.lokalradio.nrw/4453yzk
+#EXTINF:-1,Hellweg Radio Ost
+https://stream.lokalradio.nrw/4453zkb
+#EXTINF:-1,Hellweg Radio West
+https://stream.lokalradio.nrw/4453zd3
+#EXTINF:-1,NE-WS 89.4
+https://stream.lokalradio.nrw/444z5zk
+#EXTINF:-1,Radio 90.1
+https://stream.lokalradio.nrw/444z6ft
+#EXTINF:-1,Radio 91.2 (Dortmund)
+https://stream.lokalradio.nrw/4453z6t
+#EXTINF:-1,Radio Berg
+https://stream.lokalradio.nrw/444z6tb
+#EXTINF:-1,Radio Bielefeld
+https://radiobielefeld-live.cast.addradio.de/radiobielefeld/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio Bochum
+https://stream.lokalradio.nrw/444zbrk
+#EXTINF:-1,Radio Bonn/Rhein-Sieg
+https://stream.lokalradio.nrw/444z6zk
+#EXTINF:-1,Radio Duisburg
+https://stream.lokalradio.nrw/444zbw3
+#EXTINF:-1,Radio Emscher Lippe
+https://stream.lokalradio.nrw/444zbzk
+#EXTINF:-1,Radio Ennepe Ruhr
+https://stream.lokalradio.nrw/444zc53
+#EXTINF:-1,Radio Erft
+https://stream.lokalradio.nrw/444z76t
+#EXTINF:-1,Radio Euskirchen
+https://stream.lokalradio.nrw/444z7d3
+#EXTINF:-1,Radio Gütersloh
+https://radioguetersloh-live.cast.addradio.de/radioguetersloh/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio Herford
+https://radioherford-live.cast.addradio.de/radioherford/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio Herne
+https://stream.lokalradio.nrw/444zchk
+#EXTINF:-1,Radio Hochstift
+https://radiohochstift-live.cast.addradio.de/radiohochstift/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio k.w.
+https://stream.lokalradio.nrw/444zcn3
+#EXTINF:-1,Radio Kiepenkerl Nord
+https://stream.lokalradio.nrw/4453zrk
+#EXTINF:-1,Radio Kiepenkerl Süd
+https://stream.lokalradio.nrw/4453zxt
+#EXTINF:-1,Radio Köln
+https://stream.lokalradio.nrw/444z7kb
+#EXTINF:-1,Radio Leverkusen
+https://stream.lokalradio.nrw/444z7rk
+#EXTINF:-1,Radio Lippe
+https://radiolippe-live.cast.addradio.de/radiolippe/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio Lippe Welle Hamm
+https://stream.lokalradio.nrw/4454253
+#EXTINF:-1,Radio MK Nord
+https://stream.lokalradio.nrw/44542bb
+#EXTINF:-1,Radio MK Süd
+https://stream.lokalradio.nrw/44542hk
+#EXTINF:-1,Radio Mülheim
+https://stream.lokalradio.nrw/444zcrk
+#EXTINF:-1,Radio Neandertal
+https://stream.lokalradio.nrw/444z66t
+#EXTINF:-1,Radio Niederrhein
+https://stream.lokalradio.nrw/444z5pt
+#EXTINF:-1,Radio Oberhausen
+https://stream.lokalradio.nrw/444zcw3
+#EXTINF:-1,Radio RSG
+https://stream.lokalradio.nrw/444zdd3
+#EXTINF:-1,Radio RST
+https://mms.hoerradar.de/rst128k
+#EXTINF:-1,Radio RUR
+https://stream.lokalradio.nrw/444z7xt
+#EXTINF:-1,Radio Sauerland
+https://stream.lokalradio.nrw/444zczk
+#EXTINF:-1,Radio Siegen
+https://stream.lokalradio.nrw/444z553
+#EXTINF:-1,Radio Vest
+https://stream.lokalradio.nrw/444zd53
+#EXTINF:-1,Radio WAF
+https://radiowaf-live.cast.addradio.de/radiowaf/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio Westfalica
+https://radiowestfalica-live.cast.addradio.de/radiowestfalica/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio WMW
+https://mms.hoerradar.de/wmw128k
+#EXTINF:-1,Welle Niederrhein
+https://stream.lokalradio.nrw/444z6rk
+#EXTINF:-1,Dein 80er Radio
+https://rnrw.cast.addradio.de/rnrw-017F/dein80er/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein 90er Radio
+https://rnrw.cast.addradio.de/rnrw-017F/dein90er/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein 2000er Radio
+https://stream.lokalradio.nrw/4456ym6
+#EXTINF:-1,Dein Dance Radio
+https://stream.lokalradio.nrw/4456mmj
+#EXTINF:-1,Dein Deutschpop Radio
+https://rnrw.cast.addradio.de/rnrw-017f/deindeutschpop/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein FM
+https://deinfmowl-live.cast.addradio.de/deinfmowl/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Dein HipHop Radio
+https://stream.lokalradio.nrw/4458dx4
+#EXTINF:-1,Dein Karnevals Radio
+https://rnrw.cast.addradio.de/rnrw-017f/deinkarnevalsradio/mp3/high/stream.mp3?ar-distributor=f0b7?sid=017f&kombi=owlplus
+#EXTINF:-1,Dein Lounge Radio
+https://rnrw.cast.addradio.de/rnrw-017F/deinlounge/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein Love Radio
+https://rnrw.cast.addradio.de/rnrw-017f/deinlove/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein New Country Radio
+https://stream.lokalradio.nrw/44582xg
+#EXTINF:-1,Dein Rock Classic Radio
+https://stream.lokalradio.nrw/4457bkt
+#EXTINF:-1,Dein Rock Radio
+https://rnrw.cast.addradio.de/rnrw-017F/deinrock/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein Schlager Radio
+https://rnrw.cast.addradio.de/rnrw-017f/deinschlager/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein Singer/Songwriter
+https://stream.lokalradio.nrw/44568mw
+#EXTINF:-1,Dein Top 40 Radio
+https://rnrw.cast.addradio.de/rnrw-017F/deintop40/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein Urban Radio
+https://rnrw.cast.addradio.de/rnrw-017F/deinurban/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein Weihnachts-Radio
+https://rnrw.cast.addradio.de/rnrw-017f/deinevent/high/stream.mp3?ar-distributor=f0b7?ar-purpose=web
+#NAME sunshine live (Internet-Radio | aac | 64 kbps)
+#EXTM3U
+#EXTINF:-1,SSL - Livestream
+https://stream.sunshine-live.de/live/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 80er
+https://stream.sunshine-live.de/80er/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 90er
+https://stream.sunshine-live.de/90er/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 90s Anthems
+https://stream.sunshine-live.de/sp5/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 2000er
+https://stream.sunshine-live.de/2000er/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Afterhour
+https://stream.sunshine-live.de/sp7/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Avicii
+https://stream.sunshine-live.de/avicii/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Best of 20 years
+https://stream.sunshine-live.de/twenty/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Bunker
+https://stream.sunshine-live.de/amsterdam/aac-64/stream.sunshine-live.de
+#EXTINF:-1,SSL - Charts
+https://stream.sunshine-live.de/sp6/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Chillout
+https://stream.sunshine-live.de/sp8/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Classic & Vocal House
+https://stream.sunshine-live.de/vocalhouse/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Classics
+https://stream.sunshine-live.de/classics/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Club
+https://stream.sunshine-live.de/club/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Clubsound Berlin
+https://stream.sunshine-live.de/playlist1/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Drum 'n' Bass
+https://stream.sunshine-live.de/dnb/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - EDM
+https://stream.sunshine-live.de/edm/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Eurodance
+https://stream.sunshine-live.de/eurodance/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Festival
+https://stream.sunshine-live.de/festival/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - focus
+https://stream.sunshine-live.de/focus/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Future Bass
+https://stream.sunshine-live.de/futurebass/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Gaming
+https://stream.sunshine-live.de/gaming/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - German Techno
+https://stream.sunshine-live.de/germante/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Hands Up
+https://stream.sunshine-live.de/handsup/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Hard
+https://stream.sunshine-live.de/hard/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - House
+https://stream.sunshine-live.de/house/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - I AM RAVING
+https://stream.sunshine-live.de/iamraving/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Ibiza
+https://stream.sunshine-live.de/ibiza/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Karotte
+https://stream.sunshine-live.de/karotte50/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Lounge
+https://stream.sunshine-live.de/lounge/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Mayday
+https://stream.sunshine-live.de/mayday/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Melodic Techno
+https://stream.sunshine-live.de/melodic-techno/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Mix Mission
+https://stream.sunshine-live.de/mixmission/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Nature One
+https://stream.sunshine-live.de/natureone/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - New Hits
+https://stream.sunshine-live.de/newhits/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Nighttime Chill
+https://stream.sunshine-live.de/prodigy/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Party
+https://stream.sunshine-live.de/party/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Peaceful Beats
+https://stream.sunshine-live.de/winterchill/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Pop
+https://stream.sunshine-live.de/pop/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Psytrance
+https://stream.sunshine-live.de/xmas/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Quarantäne
+https://stream.sunshine-live.de/quarantaene/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Relax
+https://stream.sunshine-live.de/relax/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Remix
+https://stream.sunshine-live.de/remix/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Summer Beats
+https://stream.sunshine-live.de/sp2/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Tech House
+https://stream.sunshine-live.de/sp4/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Techno
+https://stream.sunshine-live.de/techno/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Techno Queens
+https://stream.sunshine-live.de/technoqueens/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Time Warp
+https://stream.sunshine-live.de/timewarp/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Trance
+https://stream.sunshine-live.de/trance/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Tropical House
+https://stream.sunshine-live.de/tropicalhouse/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Vocal Trance
+https://stream.sunshine-live.de/vocaltrance/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Workout
+https://stream.sunshine-live.de/workout/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL and pride
+https://stream.sunshine-live.de/pride/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL Corona
+https://stream.sunshine-live.de/coronasos/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,Amsterdam Dance Event - Dance
+https://stream.sunshine-live.de/ade18dance/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,Gamescom FM
+https://stream.sunshine-live.de/gamescom/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,Kraftwerk
+https://stream.sunshine-live.de/kraftwerk/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,notband
+https://stream.sunshine-live.de/notband/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,Rave On Snow 2018
+https://stream.sunshine-live.de/raveonsnow/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,Sunshine Live Plus
+https://stream.sunshine-live.de/plus/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Livestream (Backup)
+https://stream.sunshine-live.de/live-backup/aac-64/stream.sunshine-live.de/
+
+#NAME sunshine live (Internet-Radio | mp3 | 128 kbps)
+#EXTM3U
+#EXTINF:-1,SSL - Livestream
+https://stream.sunshine-live.de/live/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 80er
+https://stream.sunshine-live.de/80er/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 90er
+https://stream.sunshine-live.de/90er/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 90s Anthems
+https://stream.sunshine-live.de/sp5/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 2000er
+https://stream.sunshine-live.de/2000er/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Afterhour
+https://stream.sunshine-live.de/sp7/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Avicii
+https://stream.sunshine-live.de/avicii/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Best of 20 years
+https://stream.sunshine-live.de/twenty/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Bunker
+https://stream.sunshine-live.de/amsterdam/mp3-128/stream.sunshine-live.de
+#EXTINF:-1,SSL - Charts
+https://stream.sunshine-live.de/sp6/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Chillout
+https://stream.sunshine-live.de/sp8/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Classic & Vocal House
+https://stream.sunshine-live.de/vocalhouse/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Classics
+https://stream.sunshine-live.de/classics/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Club
+https://stream.sunshine-live.de/club/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Clubsound Berlin
+https://stream.sunshine-live.de/playlist1/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Drum 'n' Bass
+https://stream.sunshine-live.de/dnb/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - EDM
+https://stream.sunshine-live.de/edm/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Eurodance
+https://stream.sunshine-live.de/eurodance/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Festival
+https://stream.sunshine-live.de/festival/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - focus
+https://stream.sunshine-live.de/focus/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Future Bass
+https://stream.sunshine-live.de/futurebass/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Gaming
+https://stream.sunshine-live.de/gaming/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - German Techno
+https://stream.sunshine-live.de/germante/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Hands Up
+https://stream.sunshine-live.de/handsup/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Hard
+https://stream.sunshine-live.de/hard/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - House
+https://stream.sunshine-live.de/house/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - I AM RAVING
+https://stream.sunshine-live.de/iamraving/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Ibiza
+https://stream.sunshine-live.de/ibiza/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Karotte
+https://stream.sunshine-live.de/karotte50/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Lounge
+https://stream.sunshine-live.de/lounge/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Mayday
+https://stream.sunshine-live.de/mayday/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Melodic Techno
+https://stream.sunshine-live.de/melodic-techno/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Mix Mission
+https://stream.sunshine-live.de/mixmission/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Nature One
+https://stream.sunshine-live.de/natureone/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - New Hits
+https://stream.sunshine-live.de/newhits/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Nighttime Chill
+https://stream.sunshine-live.de/prodigy/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Party
+https://stream.sunshine-live.de/party/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Peaceful Beats
+https://stream.sunshine-live.de/winterchill/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Pop
+https://stream.sunshine-live.de/pop/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Psytrance
+https://stream.sunshine-live.de/xmas/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Quarantäne
+https://stream.sunshine-live.de/quarantaene/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Relax
+https://stream.sunshine-live.de/relax/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Remix
+https://stream.sunshine-live.de/remix/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Summer Beats
+https://stream.sunshine-live.de/sp2/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Tech House
+https://stream.sunshine-live.de/sp4/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Techno
+https://stream.sunshine-live.de/techno/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Techno Queens
+https://stream.sunshine-live.de/technoqueens/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Time Warp
+https://stream.sunshine-live.de/timewarp/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Trance
+https://stream.sunshine-live.de/trance/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Tropical House
+https://stream.sunshine-live.de/tropicalhouse/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Vocal Trance
+https://stream.sunshine-live.de/vocaltrance/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Workout
+https://stream.sunshine-live.de/workout/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL and pride
+https://stream.sunshine-live.de/pride/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL Corona
+https://stream.sunshine-live.de/coronasos/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,Amsterdam Dance Event - Dance
+https://stream.sunshine-live.de/ade18dance/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,Gamescom FM
+https://stream.sunshine-live.de/gamescom/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,Kraftwerk
+https://stream.sunshine-live.de/kraftwerk/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,notband
+https://stream.sunshine-live.de/notband/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,Rave On Snow 2018
+https://stream.sunshine-live.de/raveonsnow/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,Sunshine Live Plus
+https://stream.sunshine-live.de/plus/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Livestream (Backup)
+https://stream.sunshine-live.de/live-backup/mp3-128/stream.sunshine-live.de/
+
+#NAME sunshine live (Internet-Radio | mp3 | 128 kbps)
+#EXTM3U
+#EXTINF:-1,SSL - Livestream
+https://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 80er
+https://stream.sunshine-live.de/80er/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 90er
+https://stream.sunshine-live.de/90er/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 90s Anthems
+https://stream.sunshine-live.de/sp5/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 2000er
+https://stream.sunshine-live.de/2000er/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Afterhour
+https://stream.sunshine-live.de/sp7/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Avicii
+https://stream.sunshine-live.de/avicii/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Best of 20 years
+https://stream.sunshine-live.de/twenty/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Bunker
+https://stream.sunshine-live.de/amsterdam/mp3-192/stream.sunshine-live.de
+#EXTINF:-1,SSL - Charts
+https://stream.sunshine-live.de/sp6/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Chillout
+https://stream.sunshine-live.de/sp8/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Classic & Vocal House
+https://stream.sunshine-live.de/vocalhouse/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Classics
+https://stream.sunshine-live.de/classics/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Club
+https://stream.sunshine-live.de/club/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Clubsound Berlin
+https://stream.sunshine-live.de/playlist1/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Drum 'n' Bass
+https://stream.sunshine-live.de/dnb/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - EDM
+https://stream.sunshine-live.de/edm/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Eurodance
+https://stream.sunshine-live.de/eurodance/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Festival
+https://stream.sunshine-live.de/festival/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - focus
+https://stream.sunshine-live.de/focus/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Future Bass
+https://stream.sunshine-live.de/futurebass/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Gaming
+https://stream.sunshine-live.de/gaming/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - German Techno
+https://stream.sunshine-live.de/germante/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Hands Up
+https://stream.sunshine-live.de/handsup/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Hard
+https://stream.sunshine-live.de/hard/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - House
+https://stream.sunshine-live.de/house/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - I AM RAVING
+https://stream.sunshine-live.de/iamraving/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Ibiza
+https://stream.sunshine-live.de/ibiza/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Karotte
+https://stream.sunshine-live.de/karotte50/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Lounge
+https://stream.sunshine-live.de/lounge/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Mayday
+https://stream.sunshine-live.de/mayday/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Melodic Techno
+https://stream.sunshine-live.de/melodic-techno/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Mix Mission
+https://stream.sunshine-live.de/mixmission/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Nature One
+https://stream.sunshine-live.de/natureone/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - New Hits
+https://stream.sunshine-live.de/newhits/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Nighttime Chill
+https://stream.sunshine-live.de/prodigy/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Party
+https://stream.sunshine-live.de/party/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Peaceful Beats
+https://stream.sunshine-live.de/winterchill/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Pop
+https://stream.sunshine-live.de/pop/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Psytrance
+https://stream.sunshine-live.de/xmas/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Quarantäne
+https://stream.sunshine-live.de/quarantaene/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Relax
+https://stream.sunshine-live.de/relax/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Remix
+https://stream.sunshine-live.de/remix/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Summer Beats
+https://stream.sunshine-live.de/sp2/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Tech House
+https://stream.sunshine-live.de/sp4/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Techno
+https://stream.sunshine-live.de/techno/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Techno Queens
+https://stream.sunshine-live.de/technoqueens/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Time Warp
+https://stream.sunshine-live.de/timewarp/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Trance
+https://stream.sunshine-live.de/trance/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Tropical House
+https://stream.sunshine-live.de/tropicalhouse/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Vocal Trance
+https://stream.sunshine-live.de/vocaltrance/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Workout
+https://stream.sunshine-live.de/workout/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL and pride
+https://stream.sunshine-live.de/pride/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL Corona
+https://stream.sunshine-live.de/coronasos/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,Amsterdam Dance Event - Dance
+https://stream.sunshine-live.de/ade18dance/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,Gamescom FM
+https://stream.sunshine-live.de/gamescom/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,Kraftwerk
+https://stream.sunshine-live.de/kraftwerk/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,notband
+https://stream.sunshine-live.de/notband/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,Rave On Snow 2018
+https://stream.sunshine-live.de/raveonsnow/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,Sunshine Live Plus
+https://stream.sunshine-live.de/plus/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Livestream (Backup)
+https://stream.sunshine-live.de/live-backup/mp3-192/stream.sunshine-live.de/
+
+#EXTM3U
+# 1LIVE Streams des WDR-Radios
+#EXTINF:0,1LIVE (AAC; 48 ― 96 kbps)
+https://1liveuni-lh.akamaihd.net/i/1LIVE_HDS@179577/master.m3u8
+#EXTINF:0,1LIVE DIGGI (AAC; 48 ― 96 kbps)
+https://1livediggiuni-lh.akamaihd.net/i/1LIVEdiggi_HDS@179579/master.m3u8
+# WDR 2 Streams des WDR-Radios
+#EXTINF:0,WDR 2 (AAchen und Region) (AAC; 48 ― 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_aachen@384666/master.m3u8
+#EXTINF:0,WDR 2 (Bergisches Land) (AAC; 48 ― 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_bergischesl@384667/master.m3u8
+#EXTINF:0,WDR 2 (Münsterland) (AAC; 48 ― 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_muenster@384671/master.m3u8
+#EXTINF:0,WDR 2 (Ostwestaflen-Lippe) (AAC; 48 ― 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_ostwestf@384690/master.m3u8
+#EXTINF:0,WDR 2 (Rhein und Ruhr) (AAC; 48 ― 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_rheinruhr@384691/master.m3u8
+#EXTINF:0,WDR 2 (Rheinland) (AAC; 48 ― 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_rheinland@349349/master.m3u8
+#EXTINF:0,WDR 2 (Ruhrgebiet) (AAC; 48 ― 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_ruhrgebiet@384692/master.m3u8
+#EXTINF:0,WDR 2 (Südwestfalen) (AAC; 48 ― 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_suedwestf@384693/master.m3u8
+# WDR 3 Streams des WDR-Radios
+#EXTINF:0,WDR 3 (AAC; 48 ― 256 kbps)
+https://wdr3-lh.akamaihd.net/i/wdr_wdr3@384694/master.m3u8
+# WDR 4 Streams des WDR-Radios
+#EXTINF:0,WDR 4 (AAC; 48 ― 96 kbps)
+https://wdr4-lh.akamaihd.net/i/wdr_wdr4@384697/master.m3u8
+# WDR 5 Streams des WDR-Radios
+#EXTINF:0,WDR 5 (AAC; 48 ― 96 kbps)
+https://wdr5-lh.akamaihd.net/i/wdr_wdr5@384698/master.m3u8
+# WDR COSMO Streams des WDR-Radios
+#EXTINF:0,WDR COSMO (AAC; 48 ― 96 kbps)
+https://fhe-lh.akamaihd.net/i/wdr_fhe@384699/master.m3u8
+# WDR EVENT Streams des WDR-Radios
+#EXTINF:0,WDR EVENT (AAC; 48 ― 96 kbps)
+https://radioevent-lh.akamaihd.net/i/wdr_radioevent@384708/master.m3u8
+# Die Maus Streams des WDR-Radios
+#EXTINF:0,WDR MAUS (AAC; 48 ― 96 kbps)
+https://wdrdiemaus-lh.akamaihd.net/i/wdr_diemaus@374300/master.m3u8
+# WDR VERA
+#EXTINF:0,WDR VERA (Verkehrsinfos) (AAC; 48 ― 96 kbps)
+https://vera-lh.akamaihd.net/i/wdr_vera@384709/master.m3u8
+#EXTM3U
+# 1LIVE Streams des WDR-Radios
+#EXTINF:0,1LIVE (AAC; 96 kbps)
+https://1liveuni-lh.akamaihd.net/i/1LIVE_HDS@179577/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,1LIVE DIGGI (AAC; 96 kbps)
+https://1livediggiuni-lh.akamaihd.net/i/1LIVEdiggi_HDS@179579/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR 2 Streams des WDR-Radios
+#EXTINF:0,WDR 2 (AAchen und Region) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_aachen@384666/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Bergisches Land) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_bergischesl@384667/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Münsterland) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_muenster@384671/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Ostwestaflen-Lippe) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_ostwestf@384690/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Rhein und Ruhr) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_rheinruhr@384691/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Rheinland) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_rheinland@349349/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Ruhrgebiet) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_ruhrgebiet@384692/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Südwestfalen) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_suedwestf@384693/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR 3 Streams des WDR-Radios
+#EXTINF:0,WDR 3 (AAC; 256 kbps)
+https://wdr3-lh.akamaihd.net/i/wdr_wdr3@384694/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR 4 Streams des WDR-Radios
+#EXTINF:0,WDR 4 (AAC; 96 kbps)
+https://wdr4-lh.akamaihd.net/i/wdr_wdr4@384697/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR 5 Streams des WDR-Radios
+#EXTINF:0,WDR 5 (AAC; 96 kbps)
+https://wdr5-lh.akamaihd.net/i/wdr_wdr5@384698/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR COSMO Streams des WDR-Radios
+#EXTINF:0,WDR COSMO (AAC; 96 kbps)
+https://fhe-lh.akamaihd.net/i/wdr_fhe@384699/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR EVENT Streams des WDR-Radios
+#EXTINF:0,WDR EVENT (AAC; 96 kbps)
+https://radioevent-lh.akamaihd.net/i/wdr_radioevent@384708/index_1_a-b.m3u8?sd=10&rebase=on
+# Die Maus Streams des WDR-Radios
+#EXTINF:0,WDR MAUS (AAC; 96 kbps)
+https://wdrdiemaus-lh.akamaihd.net/i/wdr_diemaus@374300/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR VERA (Verkehrsinfos)
+#EXTINF:0,WDR VERA (Verkehrsinfos) (AAC; 96 kbps)
+https://vera-lh.akamaihd.net/i/wdr_vera@384709/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTM3U
+# 1LIVE Streams des WDR-Radios
+#EXTINF:0,1LIVE (mp3 / 128 kBit/s)
+https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+#EXTINF:0,1LIVE DIGGI (mp3 / 128 kBit/s)
+https://wdr-1live-diggi.icecastssl.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
+#EXTINF:0,1LIVE Fiehe (Loop) (mp3 / 128 kBit/s)
+https://wdr-1live-fiehe.icecastssl.wdr.de/wdr/1live/fiehe/mp3/128/stream.mp3
+#EXTINF:0,1LIVE HipHop (Loop) (mp3 / 128 kBit/s)
+https://wdr-1live-hiphop.icecastssl.wdr.de/wdr/1live/hiphop/mp3/128/stream.mp3
+#EXTINF:0,1LIVE Plan B (Loop) (mp3 / 128 kBit/s)
+https://wdr-1live-planb.icecastssl.wdr.de/wdr/1live/planb/mp3/128/stream.mp3
+#EXTINF:0,1LIVE DJ Session (Loop) (mp3 / 128 kBit/s)
+https://wdr-1live-djsession.icecastssl.wdr.de/wdr/1live/djsession/mp3/128/stream.mp3
+#EXTINF:0,1LIVE Special (Loop) (mp3 / 128 kBit/s)
+https://wdr-1live-specials.icecastssl.wdr.de/wdr/1live/specials/mp3/128/stream.mp3
+# WDR 2 Streams des WDR-Radios
+#EXTINF:0,WDR 2 (Bergisches Land) (mp3 / 128 kBit/s)
+https://wdr-wdr2-bergischesland.icecastssl.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3
+#EXTINF:0,WDR 2 (Münsterland) (mp3 / 128 kBit/s)
+https://wdr-wdr2-muensterland.icecastssl.wdr.de/wdr/wdr2/muensterland/mp3/128/stream.mp3
+#EXTINF:0,WDR 2 (Ostwestaflen-Lippe) (mp3 / 128 kBit/s)
+https://wdr-wdr2-ostwestfalenlippe.icecastssl.wdr.de/wdr/wdr2/ostwestfalenlippe/mp3/128/stream.mp3
+#EXTINF:0,WDR 2 (Rhein und Ruhr) (mp3 / 128 kBit/s)
+https://wdr-wdr2-rheinruhr.icecastssl.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3
+#EXTINF:0,WDR 2 (Rheinland) (mp3 / 128 kBit/s)
+https://wdr-wdr2-rheinland.icecastssl.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
+#EXTINF:0,WDR 2 (Ruhrgebiet) (mp3 / 128 kBit/s)
+https://wdr-wdr2-ruhrgebiet.icecastssl.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3
+# WDR 3 Streams des WDR-Radios
+#EXTINF:0,WDR 3 (mp3 / 128 kBit/s)
+https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
+#EXTINF:0,WDR 3 (mp3 / 256 kBit/s)
+https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3
+# WDR 4 Streams des WDR-Radios
+#EXTINF:0,WDR 4 (mp3 / 128 kBit/s)
+https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
+# WDR 5 Streams des WDR-Radios
+#EXTINF:0,WDR 5 (mp3 / 128 kBit/s)
+https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
+# WDR COSMO Streams des WDR-Radios
+#EXTINF:0,WDR COSMO (mp3 / 128 kBit/s)
+https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Al-Saut Al-Arabi [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-alsautalarabi.icecastssl.wdr.de/wdr/cosmo/alsautalarabi/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Bernama Kurdi [So 18-19 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-bernamakurdikoelnradyosu.icecastssl.wdr.de/wdr/cosmo/bernamakurdikoelnradyosu/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Elliniko Randevou [So 18-19 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-ellinikorandevouradioforum.icecastssl.wdr.de/wdr/cosmo/ellinikorandevouradioforum/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Estación Sur [So 18-19 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-estacionsurradiocolonia.icecastssl.wdr.de/wdr/cosmo/estacionsurradiocolonia/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Köln Radyosu [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-bernamakurdikoelnradyosu.icecastssl.wdr.de/wdr/cosmo/bernamakurdikoelnradyosu/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Radio Colonia [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-estacionsurradiocolonia.icecastssl.wdr.de/wdr/cosmo/estacionsurradiocolonia/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Radio Forum [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-ellinikorandevouradioforum.icecastssl.wdr.de/wdr/cosmo/ellinikorandevouradioforum/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Radio po polsku [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-popolskuevent.icecastssl.wdr.de/wdr/cosmo/popolskuevent/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Radio po-russki [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-porusskievent.icecastssl.wdr.de/wdr/cosmo/porusskievent/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Afrobeats (mp3 / 128 kBit/s)
+https://wdr-cosmo-afrobeat.icecastssl.wdr.de/wdr/cosmo/afrobeat/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Chill (mp3 / 128 kBit/s)
+https://wdr-cosmo-chillout.icecastssl.wdr.de/wdr/cosmo/chillout/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Dance (mp3 / 128 kBit/s)
+https://wdr-cosmo-dance.icecastssl.wdr.de/wdr/cosmo/dance/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Konzerte (mp3 / 128 kBit/s)
+https://wdr-cosmo-coslive.icecastssl.wdr.de/wdr/cosmo/coslive/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Selektor (mp3 / 128 kBit/s)
+https://wdr-cosmo-selektor.icecastssl.wdr.de/wdr/cosmo/selektor/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Trap (mp3 / 128 kBit/s)
+https://wdr-cosmo-trap.icecastssl.wdr.de/wdr/cosmo/trap/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Vintage (mp3 / 128 kBit/s)
+https://wdr-cosmo-special.icecastssl.wdr.de/wdr/cosmo/special/mp3/128/stream.mp3
+#EXTINF:0,WDR Neu in COSMO (mp3 / 128 kBit/s)
+https://wdr-cosmo-neuincosmo.icecastssl.wdr.de/wdr/cosmo/neuincosmo/mp3/128/stream.mp3
+# WDR EVENT Streams des WDR-Radios
+#EXTINF:0,WDR EVENT (mp3 / 128 kBit/s)
+https://wdr-wdr-event.icecastssl.wdr.de/wdr/wdr/event/mp3/128/stream.mp3
+# Die Maus Streams des WDR-Radios
+#EXTINF:0,WDR MAUS (mp3 / 56 kBit/s)
+https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/56/stream.mp3
+#EXTINF:0,WDR MAUS (mp3 / 128 kBit/s)
+https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3
+# WDR VERA (Verkehrsinfos)
+#EXTINF:0,WDR VERA (Verkehrsinfos) (mp3 / 128 kBit/s)
+https://wdr-vera-live.icecastssl.wdr.de/wdr/vera/live/mp3/128/stream.mp3
+#EXTM3U
+## These are the BBC’s new high quality 320kb/s audio streams, using Apple’s proprietary HLS (hypertext transfer protocol live streaming) format. Basically this chops the stream into tiny files, and stitches them together again once they have got through various firewalls etc. These are particularly appropriate for mobile devices. ##
+#EXTINF:0,BBC Radio 1
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8
+#EXTINF:0,BBC Radio 1Xtra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_1xtra.m3u8
+#EXTINF:0,BBC Radio 2
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8
+#EXTINF:0,BBC Radio 3
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8
+#EXTINF:0,BBC Radio 4
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8
+#EXTINF:0,BBC Radio 4LW
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourlw.m3u8
+#EXTINF:0,BBC Radio 4 Extra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_four_extra.m3u8
+#EXTINF:0,BBC Radio 5 Live
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live.m3u8
+#EXTINF:0,BBC Radio 5 Live Sports Extra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8
+#EXTINF:0,BBC Radio 6 Music
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8
+#EXTINF:0,BBC Asian Network
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_asian_network.m3u8
+#EXTM3U
+## These internet radio URLs replace the ones used in the former GarfNet Internet Radio player. They should all work directly in your browser and they should open in a new browser tab. Alternatively, you may copy them and use them in an internet radio application of your choice. ##
+#EXTINF:0,BBC Radio 1 FM
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+#EXTINF:0,BBC Radio 2 FM
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+#EXTINF:0,BBC Radio 3 FM
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+#EXTINF:0,BBC Radio 4 FM
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+#EXTINF:0,BBC Radio 4 LW 198 kHz
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4lw_mf_p
+#EXTINF:0,BBC Radio 4 Extra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
+#EXTINF:0,BBC Radio 5 Live
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+#EXTINF:0,BBC Radio 6 Music
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+#EXTINF:0,BBC 1Xtra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
+#EXTINF:0,BBC Asian Network
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p
+#EXTINF:0,BBC World Service English (backup)
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk_backup
+#EXTINF:0,BBC World Service English (UK Schedule)
+http://wsdownload.bbc.co.uk/worldservice/meta/live/shoutcast/mp3/eieuk.pls
+#EXTINF:0,(ILR) Classic FM
+http://media-ice.musicradio.com:80/ClassicFMMP3
+#EXTINF:0,(pirate) Radio Caroline
+http://sc3.radiocaroline.net:8030/listen.m3u
+#EXTINF:0,(pirate) Radio North Sea International (128kb/s AAC)
+http://109.169.54.86:8044/listen.pls
+#EXTINF:0,(pirate) Radio North Sea International (192 kb/s MP3)
+http://188.40.135.197:8388/listen.pls
+#EXTM3U
+#EXTINF:0,BFBS Aldershot
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs13.aac
+#EXTINF:0,BFBS Beats
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs20.aac
+#EXTINF:0,BFBS Blandford
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs14.aac
+#EXTINF:0,BFBS Brize Norton
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs25.aac
+#EXTINF:0,BFBS Brunei
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs10.aac
+#EXTINF:0,BFBS Canada
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs12.aac
+#EXTINF:0,BFBS Catterick
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs15.aac
+#EXTINF:0,BFBS Colchester
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs16.aac
+#EXTINF:0,BFBS Cyprus
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.aac
+#EXTINF:0,BFBS Dirt
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs22.aac
+#EXTINF:0,BFBS Falklands
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac
+#EXTINF:0,BFBS Germany
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs5.aac
+#EXTINF:0,BFBS Gibraltar
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs7.aac
+#EXTINF:0,BFBS Gurkha Network
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac
+#EXTINF:0,BFBS Northern Ireland
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs4.aac
+#EXTINF:0,BFBS OPS
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.aac
+#EXTINF:0,BFBS Radio 2
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs2.aac
+#EXTINF:0,BFBS Rewind
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs21.aac
+#EXTINF:0,BFBS Salisbury Plain
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs17.aac
+#EXTINF:0,BFBS Samishran
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs23.aac
+#EXTINF:0,BFBS Scotland
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs18.aac
+#EXTINF:0,BFBS UK
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
+#EXTINF:0,BFBS Unwind
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs24.aac
+#EXTM3U
+#EXTINF:0,BFBS Aldershot 📻
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs13.aac
+#EXTINF:0,BFBS Beats 📻
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs20.aac
+#EXTINF:0,BFBS Blandford 📻
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs14.aac
+#EXTINF:0,BFBS Brize Norton 📻
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs25.aac
+#EXTINF:0,BFBS Brunei 🇧🇳
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs10.aac
+#EXTINF:0,BFBS Canada 🇨🇦
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs12.aac
+#EXTINF:0,BFBS Catterick 📻
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs15.aac
+#EXTINF:0,BFBS Colchester 📻
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs16.aac
+#EXTINF:0,BFBS Cyprus 🇨🇾
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.aac
+#EXTINF:0,BFBS Dirt 📻
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs22.aac
+#EXTINF:0,BFBS Falklands 🇫🇰
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac
+#EXTINF:0,BFBS Germany 🇩🇪
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs5.aac
+#EXTINF:0,BFBS Gibraltar 🇬🇮
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs7.aac
+#EXTINF:0,BFBS Gurkha Network 📻
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac
+#EXTINF:0,BFBS Northern Ireland 🇮🇪
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs4.aac
+#EXTINF:0,BFBS OPS 📻
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.aac
+#EXTINF:0,BFBS Radio 2 📻
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs2.aac
+#EXTINF:0,BFBS Rewind 📻
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs21.aac
+#EXTINF:0,BFBS Salisbury Plain 📻
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs17.aac
+#EXTINF:0,BFBS Samishran 📻
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs23.aac
+#EXTINF:0,BFBS Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs18.aac
+#EXTINF:0,BFBS UK 🇬🇧
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
+#EXTINF:0,BFBS Unwind 📻
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs24.aac
+#EXTM3U
+#EXTINF:-1,AFN|Aviano
+https://20873.live.streamtheworld.com/AFNE_AVN.mp3
+#EXTINF:-1,AFN|Bahrain
+https://20423.live.streamtheworld.com/AFNE_BHN.mp3
+#EXTINF:-1,AFN|Bavaria
+https://20133.live.streamtheworld.com/AFNE_BAV.mp3
+#EXTINF:-1,AFN|Benelux
+https://20133.live.streamtheworld.com/AFNE_BLX.mp3
+#EXTINF:-1,AFN|Country
+https://17963.live.streamtheworld.com/AFN_CTY.mp3
+#EXTINF:-1,AFN|Fans
+https://17533.live.streamtheworld.com/AFN_FAN.mp3
+#EXTINF:-1,AFN|Freedom
+https://20813.live.streamtheworld.com/AFN_FRE.mp3
+#EXTINF:-1,AFN|GITMO
+https://22713.live.streamtheworld.com/AFNE_GMO.mp3
+#EXTINF:-1,AFN|Gravity
+https://14103.live.streamtheworld.com/AFN_GRV.mp3
+#EXTINF:-1,AFN|Holiday
+https://23603.live.streamtheworld.com/AFN_SEA.mp3
+#EXTINF:-1,AFN|Hot AC
+https://20813.live.streamtheworld.com/AFN_HOT.mp3
+#EXTINF:-1,AFN|Incirlik
+https://20423.live.streamtheworld.com/AFNE_ICK.mp3
+#EXTINF:-1,AFN|Joe Radio
+https://18443.live.streamtheworld.com/AFN_JOE.mp3
+#EXTINF:-1,AFN|Kaiserslautern
+https://20133.live.streamtheworld.com/AFNE_KTN.mp3
+#EXTINF:-1,AFN|Lajes
+https://22613.live.streamtheworld.com/AFNE_LJS.mp3
+#EXTINF:-1,AFN|Legacy
+https://14543.live.streamtheworld.com/AFN_LGY.mp3
+#EXTINF:-1,AFN|Naples
+https://20873.live.streamtheworld.com/AFNE_NAP.mp3
+#EXTINF:-1,AFN|PowerTalk
+https://20813.live.streamtheworld.com/AFN_PTK.mp3
+#EXTINF:-1,AFN|Rota
+https://20423.live.streamtheworld.com/AFNE_RTA.mp3
+#EXTINF:-1,AFN|Sigonella
+https://20423.live.streamtheworld.com/AFNE_SIG.mp3
+#EXTINF:-1,AFN|Souda Bay
+https://22323.live.streamtheworld.com/AFNE_SDB.mp3
+#EXTINF:-1,AFN|Spangdahlem
+https://22713.live.streamtheworld.com/AFNE_SPG.mp3
+#EXTINF:-1,AFN|Stuttgart
+https://23603.live.streamtheworld.com/AFNE_STU.mp3
+#EXTINF:-1,AFN|The Voice
+https://23113.live.streamtheworld.com/AFN_VCE.mp3
+#EXTINF:-1,AFN|Vicenza
+https://23603.live.streamtheworld.com/AFNE_VIC.mp3
+#EXTINF:-1,AFN|Wiesbaden
+https://20873.live.streamtheworld.com/AFNE_WBN.mp3
+#NAME Absolut relax (Internet-Radio | mp3; aac)
+# absolutradio.de
+#EXTM3U
+#EXTINF:0,Absolut relax [MP3; 160 kbps]
+https://stream.absolutradio.de/relax/mp3-160/
+#EXTINF:0,Absolut Bella [MP3; 128 kbps]
+https://absolutradio.stream24.net/absolut-bella.mp3
+#EXTINF:0,Absolut HOT [MP3; 128 kbps]
+https://stream.absolutradio.de/hot/mp3-128/
+#EXTINF:0,Absolut musicXL [MP3; 128 kbps]
+https://stream.absolutradio.de/lq/mp3/
+#EXTINF:0,Absolut Oldie Classics [MP3; 128 kbps]
+https://absolutradio.stream24.net/absolut-oldie-classics.mp3
+#EXTINF:0,Absolut TOP [AAC; SBR]
+https://edge04.streamonkey.net/absolut-top?aggregator=radioplayer
+#NAME JAM FM (Internet-Radio | mp3 | 128 kbps)
+#EXTM3U
+#EXTINF:-1,logo="https://webradio.jam.fm/resources/10357518/img/110x110_Livestream_JAM.jpg",JAM FM Live
+https://stream.jam.fm/jamfm-live/mp3-128/konsole
+#EXTINF:-1,JAM FM 90er
+https://stream.jam.fm/90er/mp3-128/konsole/
+#EXTINF:-1,JAM FM 2000er
+https://stream.jam.fm/2000er/mp3-128/konsole/
+#EXTINF:-1,JAM FM 2010er
+https://stream.jam.fm/2010er/mp3-128/konsole
+#EXTINF:-1,JAM FM Black Label
+https://stream.jam.fm/jamfm-bl/mp3-128/konsole/
+#EXTINF:-1,JAM FM Charts
+https://stream.jam.fm/charts/mp3-128/konsole/
+#EXTINF:-1,JAM FM Chill
+https://stream.jam.fm/chill/mp3-128/konsole/
+#EXTINF:-1,JAM FM Chill the Virus
+https://stream.jam.fm/chill-the-virus/mp3-128/konsole/
+#EXTINF:-1,JAM FM DJ Cooper
+https://stream.jam.fm/djcooper/mp3-128/konsole
+#EXTINF:-1,JAM FM Elektro
+https://stream.jam.fm/elektro/mp3-128/konsole/
+#EXTINF:-1,JAM FM Generation Deutschrap
+https://stream.jam.fm/deutschrap/mp3-128/konsole/
+#EXTINF:-1,JAM FM K-Pop
+https://rtlberlin.streamabc.net/rtlb-jamfmkpop-mp3-128-8582229
+#EXTINF:-1,JAM FM New Music Radio
+https://stream.jam.fm/jamfm-nmr/mp3-128/konsole/
+#EXTINF:-1,JAM FM Party
+https://stream.jam.fm/party/mp3-128/konsole/
+#EXTINF:-1,JAM FM Rap
+https://stream.jam.fm/rap/mp3-128/konsole/
+#EXTINF:-1,JAM FM Russkiye Khity (Русские Хити)
+https://stream.jam.fm/russkiye/mp3-128/konsole/
+#EXTINF:-1,JAM FM Study
+https://stream.jam.fm/study/mp3-128/konsole/
+#EXTINF:-1,JAM FM The Wave
+https://stream.thewaveradio.de/wave-live/mp3-128/konsole/
+#EXTINF:-1,JAM FM Workout
+https://stream.jam.fm/workout/mp3-128/konsole
+#NAME Radio Hochstift (Internet-Radio | mp3 | 128 kbps)
+#EXTM3U
+#EXTINF:-1,Antenne AC
+https://stream.lokalradio.nrw/444z5bb
+#EXTINF:-1,Antenne Düsseldorf
+https://stream.lokalradio.nrw/444z5n3
+#EXTINF:-1,Antenne Münster
+https://mms.hoerradar.de/am128k
+#EXTINF:-1,Antenne Unna
+https://stream.lokalradio.nrw/4453yzk
+#EXTINF:-1,Hellweg Radio Ost
+https://stream.lokalradio.nrw/4453zkb
+#EXTINF:-1,Hellweg Radio West
+https://stream.lokalradio.nrw/4453zd3
+#EXTINF:-1,NE-WS 89.4
+https://stream.lokalradio.nrw/444z5zk
+#EXTINF:-1,Radio 90.1
+https://stream.lokalradio.nrw/444z6ft
+#EXTINF:-1,Radio 91.2 (Dortmund)
+https://stream.lokalradio.nrw/4453z6t
+#EXTINF:-1,Radio Berg
+https://stream.lokalradio.nrw/444z6tb
+#EXTINF:-1,Radio Bielefeld
+https://radiobielefeld-live.cast.addradio.de/radiobielefeld/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio Bochum
+https://stream.lokalradio.nrw/444zbrk
+#EXTINF:-1,Radio Bonn/Rhein-Sieg
+https://stream.lokalradio.nrw/444z6zk
+#EXTINF:-1,Radio Duisburg
+https://stream.lokalradio.nrw/444zbw3
+#EXTINF:-1,Radio Emscher Lippe
+https://stream.lokalradio.nrw/444zbzk
+#EXTINF:-1,Radio Ennepe Ruhr
+https://stream.lokalradio.nrw/444zc53
+#EXTINF:-1,Radio Erft
+https://stream.lokalradio.nrw/444z76t
+#EXTINF:-1,Radio Euskirchen
+https://stream.lokalradio.nrw/444z7d3
+#EXTINF:-1,Radio Gütersloh
+https://radioguetersloh-live.cast.addradio.de/radioguetersloh/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio Herford
+https://radioherford-live.cast.addradio.de/radioherford/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio Herne
+https://stream.lokalradio.nrw/444zchk
+#EXTINF:-1,Radio Hochstift
+https://radiohochstift-live.cast.addradio.de/radiohochstift/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio k.w.
+https://stream.lokalradio.nrw/444zcn3
+#EXTINF:-1,Radio Kiepenkerl Nord
+https://stream.lokalradio.nrw/4453zrk
+#EXTINF:-1,Radio Kiepenkerl Süd
+https://stream.lokalradio.nrw/4453zxt
+#EXTINF:-1,Radio Köln
+https://stream.lokalradio.nrw/444z7kb
+#EXTINF:-1,Radio Leverkusen
+https://stream.lokalradio.nrw/444z7rk
+#EXTINF:-1,Radio Lippe
+https://radiolippe-live.cast.addradio.de/radiolippe/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio Lippe Welle Hamm
+https://stream.lokalradio.nrw/4454253
+#EXTINF:-1,Radio MK Nord
+https://stream.lokalradio.nrw/44542bb
+#EXTINF:-1,Radio MK Süd
+https://stream.lokalradio.nrw/44542hk
+#EXTINF:-1,Radio Mülheim
+https://stream.lokalradio.nrw/444zcrk
+#EXTINF:-1,Radio Neandertal
+https://stream.lokalradio.nrw/444z66t
+#EXTINF:-1,Radio Niederrhein
+https://stream.lokalradio.nrw/444z5pt
+#EXTINF:-1,Radio Oberhausen
+https://stream.lokalradio.nrw/444zcw3
+#EXTINF:-1,Radio RSG
+https://stream.lokalradio.nrw/444zdd3
+#EXTINF:-1,Radio RST
+https://mms.hoerradar.de/rst128k
+#EXTINF:-1,Radio RUR
+https://stream.lokalradio.nrw/444z7xt
+#EXTINF:-1,Radio Sauerland
+https://stream.lokalradio.nrw/444zczk
+#EXTINF:-1,Radio Siegen
+https://stream.lokalradio.nrw/444z553
+#EXTINF:-1,Radio Vest
+https://stream.lokalradio.nrw/444zd53
+#EXTINF:-1,Radio WAF
+https://radiowaf-live.cast.addradio.de/radiowaf/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio Westfalica
+https://radiowestfalica-live.cast.addradio.de/radiowestfalica/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Radio WMW
+https://mms.hoerradar.de/wmw128k
+#EXTINF:-1,Welle Niederrhein
+https://stream.lokalradio.nrw/444z6rk
+#EXTINF:-1,Dein 80er Radio
+https://rnrw.cast.addradio.de/rnrw-017F/dein80er/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein 90er Radio
+https://rnrw.cast.addradio.de/rnrw-017F/dein90er/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein 2000er Radio
+https://stream.lokalradio.nrw/4456ym6
+#EXTINF:-1,Dein Dance Radio
+https://stream.lokalradio.nrw/4456mmj
+#EXTINF:-1,Dein Deutschpop Radio
+https://rnrw.cast.addradio.de/rnrw-017f/deindeutschpop/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein FM
+https://deinfmowl-live.cast.addradio.de/deinfmowl/live/mp3/high?ar-distributor=f0b7
+#EXTINF:-1,Dein HipHop Radio
+https://stream.lokalradio.nrw/4458dx4
+#EXTINF:-1,Dein Karnevals Radio
+https://rnrw.cast.addradio.de/rnrw-017f/deinkarnevalsradio/mp3/high/stream.mp3?ar-distributor=f0b7?sid=017f&kombi=owlplus
+#EXTINF:-1,Dein Lounge Radio
+https://rnrw.cast.addradio.de/rnrw-017F/deinlounge/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein Love Radio
+https://rnrw.cast.addradio.de/rnrw-017f/deinlove/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein New Country Radio
+https://stream.lokalradio.nrw/44582xg
+#EXTINF:-1,Dein Rock Classic Radio
+https://stream.lokalradio.nrw/4457bkt
+#EXTINF:-1,Dein Rock Radio
+https://rnrw.cast.addradio.de/rnrw-017F/deinrock/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein Schlager Radio
+https://rnrw.cast.addradio.de/rnrw-017f/deinschlager/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein Singer/Songwriter
+https://stream.lokalradio.nrw/44568mw
+#EXTINF:-1,Dein Top 40 Radio
+https://rnrw.cast.addradio.de/rnrw-017F/deintop40/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein Urban Radio
+https://rnrw.cast.addradio.de/rnrw-017F/deinurban/high/stream.mp3?ar-distributor=f0b7
+#EXTINF:-1,Dein Weihnachts-Radio
+https://rnrw.cast.addradio.de/rnrw-017f/deinevent/high/stream.mp3?ar-distributor=f0b7?ar-purpose=web
+#NAME sunshine live (Internet-Radio | aac | 64 kbps)
+#EXTM3U
+#EXTINF:-1,SSL - Livestream
+https://stream.sunshine-live.de/live/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 80er
+https://stream.sunshine-live.de/80er/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 90er
+https://stream.sunshine-live.de/90er/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 90s Anthems
+https://stream.sunshine-live.de/sp5/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 2000er
+https://stream.sunshine-live.de/2000er/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Afterhour
+https://stream.sunshine-live.de/sp7/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Avicii
+https://stream.sunshine-live.de/avicii/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Best of 20 years
+https://stream.sunshine-live.de/twenty/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Bunker
+https://stream.sunshine-live.de/amsterdam/aac-64/stream.sunshine-live.de
+#EXTINF:-1,SSL - Charts
+https://stream.sunshine-live.de/sp6/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Chillout
+https://stream.sunshine-live.de/sp8/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Classic & Vocal House
+https://stream.sunshine-live.de/vocalhouse/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Classics
+https://stream.sunshine-live.de/classics/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Club
+https://stream.sunshine-live.de/club/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Clubsound Berlin
+https://stream.sunshine-live.de/playlist1/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Drum 'n' Bass
+https://stream.sunshine-live.de/dnb/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - EDM
+https://stream.sunshine-live.de/edm/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Eurodance
+https://stream.sunshine-live.de/eurodance/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Festival
+https://stream.sunshine-live.de/festival/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - focus
+https://stream.sunshine-live.de/focus/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Future Bass
+https://stream.sunshine-live.de/futurebass/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Gaming
+https://stream.sunshine-live.de/gaming/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - German Techno
+https://stream.sunshine-live.de/germante/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Hands Up
+https://stream.sunshine-live.de/handsup/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Hard
+https://stream.sunshine-live.de/hard/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - House
+https://stream.sunshine-live.de/house/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - I AM RAVING
+https://stream.sunshine-live.de/iamraving/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Ibiza
+https://stream.sunshine-live.de/ibiza/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Karotte
+https://stream.sunshine-live.de/karotte50/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Lounge
+https://stream.sunshine-live.de/lounge/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Mayday
+https://stream.sunshine-live.de/mayday/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Melodic Techno
+https://stream.sunshine-live.de/melodic-techno/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Mix Mission
+https://stream.sunshine-live.de/mixmission/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Nature One
+https://stream.sunshine-live.de/natureone/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - New Hits
+https://stream.sunshine-live.de/newhits/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Nighttime Chill
+https://stream.sunshine-live.de/prodigy/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Party
+https://stream.sunshine-live.de/party/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Peaceful Beats
+https://stream.sunshine-live.de/winterchill/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Pop
+https://stream.sunshine-live.de/pop/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Psytrance
+https://stream.sunshine-live.de/xmas/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Quarantäne
+https://stream.sunshine-live.de/quarantaene/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Relax
+https://stream.sunshine-live.de/relax/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Remix
+https://stream.sunshine-live.de/remix/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Summer Beats
+https://stream.sunshine-live.de/sp2/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Tech House
+https://stream.sunshine-live.de/sp4/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Techno
+https://stream.sunshine-live.de/techno/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Techno Queens
+https://stream.sunshine-live.de/technoqueens/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Time Warp
+https://stream.sunshine-live.de/timewarp/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Trance
+https://stream.sunshine-live.de/trance/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Tropical House
+https://stream.sunshine-live.de/tropicalhouse/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Vocal Trance
+https://stream.sunshine-live.de/vocaltrance/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Workout
+https://stream.sunshine-live.de/workout/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL and pride
+https://stream.sunshine-live.de/pride/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL Corona
+https://stream.sunshine-live.de/coronasos/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,Amsterdam Dance Event - Dance
+https://stream.sunshine-live.de/ade18dance/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,Gamescom FM
+https://stream.sunshine-live.de/gamescom/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,Kraftwerk
+https://stream.sunshine-live.de/kraftwerk/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,notband
+https://stream.sunshine-live.de/notband/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,Rave On Snow 2018
+https://stream.sunshine-live.de/raveonsnow/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,Sunshine Live Plus
+https://stream.sunshine-live.de/plus/aac-64/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Livestream (Backup)
+https://stream.sunshine-live.de/live-backup/aac-64/stream.sunshine-live.de/
+
+#NAME sunshine live (Internet-Radio | mp3 | 128 kbps)
+#EXTM3U
+#EXTINF:-1,SSL - Livestream
+https://stream.sunshine-live.de/live/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 80er
+https://stream.sunshine-live.de/80er/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 90er
+https://stream.sunshine-live.de/90er/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 90s Anthems
+https://stream.sunshine-live.de/sp5/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 2000er
+https://stream.sunshine-live.de/2000er/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Afterhour
+https://stream.sunshine-live.de/sp7/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Avicii
+https://stream.sunshine-live.de/avicii/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Best of 20 years
+https://stream.sunshine-live.de/twenty/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Bunker
+https://stream.sunshine-live.de/amsterdam/mp3-128/stream.sunshine-live.de
+#EXTINF:-1,SSL - Charts
+https://stream.sunshine-live.de/sp6/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Chillout
+https://stream.sunshine-live.de/sp8/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Classic & Vocal House
+https://stream.sunshine-live.de/vocalhouse/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Classics
+https://stream.sunshine-live.de/classics/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Club
+https://stream.sunshine-live.de/club/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Clubsound Berlin
+https://stream.sunshine-live.de/playlist1/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Drum 'n' Bass
+https://stream.sunshine-live.de/dnb/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - EDM
+https://stream.sunshine-live.de/edm/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Eurodance
+https://stream.sunshine-live.de/eurodance/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Festival
+https://stream.sunshine-live.de/festival/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - focus
+https://stream.sunshine-live.de/focus/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Future Bass
+https://stream.sunshine-live.de/futurebass/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Gaming
+https://stream.sunshine-live.de/gaming/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - German Techno
+https://stream.sunshine-live.de/germante/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Hands Up
+https://stream.sunshine-live.de/handsup/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Hard
+https://stream.sunshine-live.de/hard/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - House
+https://stream.sunshine-live.de/house/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - I AM RAVING
+https://stream.sunshine-live.de/iamraving/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Ibiza
+https://stream.sunshine-live.de/ibiza/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Karotte
+https://stream.sunshine-live.de/karotte50/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Lounge
+https://stream.sunshine-live.de/lounge/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Mayday
+https://stream.sunshine-live.de/mayday/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Melodic Techno
+https://stream.sunshine-live.de/melodic-techno/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Mix Mission
+https://stream.sunshine-live.de/mixmission/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Nature One
+https://stream.sunshine-live.de/natureone/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - New Hits
+https://stream.sunshine-live.de/newhits/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Nighttime Chill
+https://stream.sunshine-live.de/prodigy/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Party
+https://stream.sunshine-live.de/party/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Peaceful Beats
+https://stream.sunshine-live.de/winterchill/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Pop
+https://stream.sunshine-live.de/pop/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Psytrance
+https://stream.sunshine-live.de/xmas/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Quarantäne
+https://stream.sunshine-live.de/quarantaene/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Relax
+https://stream.sunshine-live.de/relax/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Remix
+https://stream.sunshine-live.de/remix/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Summer Beats
+https://stream.sunshine-live.de/sp2/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Tech House
+https://stream.sunshine-live.de/sp4/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Techno
+https://stream.sunshine-live.de/techno/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Techno Queens
+https://stream.sunshine-live.de/technoqueens/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Time Warp
+https://stream.sunshine-live.de/timewarp/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Trance
+https://stream.sunshine-live.de/trance/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Tropical House
+https://stream.sunshine-live.de/tropicalhouse/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Vocal Trance
+https://stream.sunshine-live.de/vocaltrance/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Workout
+https://stream.sunshine-live.de/workout/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL and pride
+https://stream.sunshine-live.de/pride/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL Corona
+https://stream.sunshine-live.de/coronasos/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,Amsterdam Dance Event - Dance
+https://stream.sunshine-live.de/ade18dance/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,Gamescom FM
+https://stream.sunshine-live.de/gamescom/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,Kraftwerk
+https://stream.sunshine-live.de/kraftwerk/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,notband
+https://stream.sunshine-live.de/notband/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,Rave On Snow 2018
+https://stream.sunshine-live.de/raveonsnow/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,Sunshine Live Plus
+https://stream.sunshine-live.de/plus/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Livestream (Backup)
+https://stream.sunshine-live.de/live-backup/mp3-128/stream.sunshine-live.de/
+
+#NAME sunshine live (Internet-Radio | mp3 | 128 kbps)
+#EXTM3U
+#EXTINF:-1,SSL - Livestream
+https://stream.sunshine-live.de/live/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 80er
+https://stream.sunshine-live.de/80er/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 90er
+https://stream.sunshine-live.de/90er/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 90s Anthems
+https://stream.sunshine-live.de/sp5/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - 2000er
+https://stream.sunshine-live.de/2000er/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Afterhour
+https://stream.sunshine-live.de/sp7/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Avicii
+https://stream.sunshine-live.de/avicii/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Best of 20 years
+https://stream.sunshine-live.de/twenty/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Bunker
+https://stream.sunshine-live.de/amsterdam/mp3-192/stream.sunshine-live.de
+#EXTINF:-1,SSL - Charts
+https://stream.sunshine-live.de/sp6/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Chillout
+https://stream.sunshine-live.de/sp8/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Classic & Vocal House
+https://stream.sunshine-live.de/vocalhouse/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Classics
+https://stream.sunshine-live.de/classics/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Club
+https://stream.sunshine-live.de/club/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Clubsound Berlin
+https://stream.sunshine-live.de/playlist1/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Drum 'n' Bass
+https://stream.sunshine-live.de/dnb/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - EDM
+https://stream.sunshine-live.de/edm/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Eurodance
+https://stream.sunshine-live.de/eurodance/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Festival
+https://stream.sunshine-live.de/festival/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - focus
+https://stream.sunshine-live.de/focus/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Future Bass
+https://stream.sunshine-live.de/futurebass/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Gaming
+https://stream.sunshine-live.de/gaming/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - German Techno
+https://stream.sunshine-live.de/germante/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Hands Up
+https://stream.sunshine-live.de/handsup/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Hard
+https://stream.sunshine-live.de/hard/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - House
+https://stream.sunshine-live.de/house/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - I AM RAVING
+https://stream.sunshine-live.de/iamraving/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Ibiza
+https://stream.sunshine-live.de/ibiza/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Karotte
+https://stream.sunshine-live.de/karotte50/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Lounge
+https://stream.sunshine-live.de/lounge/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Mayday
+https://stream.sunshine-live.de/mayday/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Melodic Techno
+https://stream.sunshine-live.de/melodic-techno/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Mix Mission
+https://stream.sunshine-live.de/mixmission/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Nature One
+https://stream.sunshine-live.de/natureone/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - New Hits
+https://stream.sunshine-live.de/newhits/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Nighttime Chill
+https://stream.sunshine-live.de/prodigy/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Party
+https://stream.sunshine-live.de/party/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Peaceful Beats
+https://stream.sunshine-live.de/winterchill/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Pop
+https://stream.sunshine-live.de/pop/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Psytrance
+https://stream.sunshine-live.de/xmas/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Quarantäne
+https://stream.sunshine-live.de/quarantaene/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Relax
+https://stream.sunshine-live.de/relax/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Remix
+https://stream.sunshine-live.de/remix/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Summer Beats
+https://stream.sunshine-live.de/sp2/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Tech House
+https://stream.sunshine-live.de/sp4/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Techno
+https://stream.sunshine-live.de/techno/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Techno Queens
+https://stream.sunshine-live.de/technoqueens/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Time Warp
+https://stream.sunshine-live.de/timewarp/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Trance
+https://stream.sunshine-live.de/trance/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Tropical House
+https://stream.sunshine-live.de/tropicalhouse/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Vocal Trance
+https://stream.sunshine-live.de/vocaltrance/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Workout
+https://stream.sunshine-live.de/workout/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL and pride
+https://stream.sunshine-live.de/pride/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL Corona
+https://stream.sunshine-live.de/coronasos/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,Amsterdam Dance Event - Dance
+https://stream.sunshine-live.de/ade18dance/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,Gamescom FM
+https://stream.sunshine-live.de/gamescom/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,Kraftwerk
+https://stream.sunshine-live.de/kraftwerk/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,notband
+https://stream.sunshine-live.de/notband/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,Rave On Snow 2018
+https://stream.sunshine-live.de/raveonsnow/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,Sunshine Live Plus
+https://stream.sunshine-live.de/plus/mp3-192/stream.sunshine-live.de/
+#EXTINF:-1,SSL - Livestream (Backup)
+https://stream.sunshine-live.de/live-backup/mp3-192/stream.sunshine-live.de/
+
+#EXTM3U
+# 1LIVE Streams des WDR-Radios
+#EXTINF:0,1LIVE (AAC; 48 ― 96 kbps)
+https://1liveuni-lh.akamaihd.net/i/1LIVE_HDS@179577/master.m3u8
+#EXTINF:0,1LIVE DIGGI (AAC; 48 ― 96 kbps)
+https://1livediggiuni-lh.akamaihd.net/i/1LIVEdiggi_HDS@179579/master.m3u8
+# WDR 2 Streams des WDR-Radios
+#EXTINF:0,WDR 2 (AAchen und Region) (AAC; 48 ― 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_aachen@384666/master.m3u8
+#EXTINF:0,WDR 2 (Bergisches Land) (AAC; 48 ― 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_bergischesl@384667/master.m3u8
+#EXTINF:0,WDR 2 (Münsterland) (AAC; 48 ― 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_muenster@384671/master.m3u8
+#EXTINF:0,WDR 2 (Ostwestaflen-Lippe) (AAC; 48 ― 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_ostwestf@384690/master.m3u8
+#EXTINF:0,WDR 2 (Rhein und Ruhr) (AAC; 48 ― 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_rheinruhr@384691/master.m3u8
+#EXTINF:0,WDR 2 (Rheinland) (AAC; 48 ― 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_rheinland@349349/master.m3u8
+#EXTINF:0,WDR 2 (Ruhrgebiet) (AAC; 48 ― 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_ruhrgebiet@384692/master.m3u8
+#EXTINF:0,WDR 2 (Südwestfalen) (AAC; 48 ― 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_suedwestf@384693/master.m3u8
+# WDR 3 Streams des WDR-Radios
+#EXTINF:0,WDR 3 (AAC; 48 ― 256 kbps)
+https://wdr3-lh.akamaihd.net/i/wdr_wdr3@384694/master.m3u8
+# WDR 4 Streams des WDR-Radios
+#EXTINF:0,WDR 4 (AAC; 48 ― 96 kbps)
+https://wdr4-lh.akamaihd.net/i/wdr_wdr4@384697/master.m3u8
+# WDR 5 Streams des WDR-Radios
+#EXTINF:0,WDR 5 (AAC; 48 ― 96 kbps)
+https://wdr5-lh.akamaihd.net/i/wdr_wdr5@384698/master.m3u8
+# WDR COSMO Streams des WDR-Radios
+#EXTINF:0,WDR COSMO (AAC; 48 ― 96 kbps)
+https://fhe-lh.akamaihd.net/i/wdr_fhe@384699/master.m3u8
+# WDR EVENT Streams des WDR-Radios
+#EXTINF:0,WDR EVENT (AAC; 48 ― 96 kbps)
+https://radioevent-lh.akamaihd.net/i/wdr_radioevent@384708/master.m3u8
+# Die Maus Streams des WDR-Radios
+#EXTINF:0,WDR MAUS (AAC; 48 ― 96 kbps)
+https://wdrdiemaus-lh.akamaihd.net/i/wdr_diemaus@374300/master.m3u8
+# WDR VERA
+#EXTINF:0,WDR VERA (Verkehrsinfos) (AAC; 48 ― 96 kbps)
+https://vera-lh.akamaihd.net/i/wdr_vera@384709/master.m3u8
+#EXTM3U
+# 1LIVE Streams des WDR-Radios
+#EXTINF:0,1LIVE (AAC; 96 kbps)
+https://1liveuni-lh.akamaihd.net/i/1LIVE_HDS@179577/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,1LIVE DIGGI (AAC; 96 kbps)
+https://1livediggiuni-lh.akamaihd.net/i/1LIVEdiggi_HDS@179579/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR 2 Streams des WDR-Radios
+#EXTINF:0,WDR 2 (AAchen und Region) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_aachen@384666/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Bergisches Land) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_bergischesl@384667/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Münsterland) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_muenster@384671/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Ostwestaflen-Lippe) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_ostwestf@384690/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Rhein und Ruhr) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_rheinruhr@384691/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Rheinland) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_rheinland@349349/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Ruhrgebiet) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_ruhrgebiet@384692/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTINF:0,WDR 2 (Südwestfalen) (AAC; 96 kbps)
+https://wdr2-lh.akamaihd.net/i/wdr2_suedwestf@384693/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR 3 Streams des WDR-Radios
+#EXTINF:0,WDR 3 (AAC; 256 kbps)
+https://wdr3-lh.akamaihd.net/i/wdr_wdr3@384694/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR 4 Streams des WDR-Radios
+#EXTINF:0,WDR 4 (AAC; 96 kbps)
+https://wdr4-lh.akamaihd.net/i/wdr_wdr4@384697/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR 5 Streams des WDR-Radios
+#EXTINF:0,WDR 5 (AAC; 96 kbps)
+https://wdr5-lh.akamaihd.net/i/wdr_wdr5@384698/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR COSMO Streams des WDR-Radios
+#EXTINF:0,WDR COSMO (AAC; 96 kbps)
+https://fhe-lh.akamaihd.net/i/wdr_fhe@384699/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR EVENT Streams des WDR-Radios
+#EXTINF:0,WDR EVENT (AAC; 96 kbps)
+https://radioevent-lh.akamaihd.net/i/wdr_radioevent@384708/index_1_a-b.m3u8?sd=10&rebase=on
+# Die Maus Streams des WDR-Radios
+#EXTINF:0,WDR MAUS (AAC; 96 kbps)
+https://wdrdiemaus-lh.akamaihd.net/i/wdr_diemaus@374300/index_1_a-b.m3u8?sd=10&rebase=on
+# WDR VERA (Verkehrsinfos)
+#EXTINF:0,WDR VERA (Verkehrsinfos) (AAC; 96 kbps)
+https://vera-lh.akamaihd.net/i/wdr_vera@384709/index_1_a-b.m3u8?sd=10&rebase=on
+#EXTM3U
+# 1LIVE Streams des WDR-Radios
+#EXTINF:0,1LIVE (mp3 / 128 kBit/s)
+https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+#EXTINF:0,1LIVE DIGGI (mp3 / 128 kBit/s)
+https://wdr-1live-diggi.icecastssl.wdr.de/wdr/1live/diggi/mp3/128/stream.mp3
+#EXTINF:0,1LIVE Fiehe (Loop) (mp3 / 128 kBit/s)
+https://wdr-1live-fiehe.icecastssl.wdr.de/wdr/1live/fiehe/mp3/128/stream.mp3
+#EXTINF:0,1LIVE HipHop (Loop) (mp3 / 128 kBit/s)
+https://wdr-1live-hiphop.icecastssl.wdr.de/wdr/1live/hiphop/mp3/128/stream.mp3
+#EXTINF:0,1LIVE Plan B (Loop) (mp3 / 128 kBit/s)
+https://wdr-1live-planb.icecastssl.wdr.de/wdr/1live/planb/mp3/128/stream.mp3
+#EXTINF:0,1LIVE DJ Session (Loop) (mp3 / 128 kBit/s)
+https://wdr-1live-djsession.icecastssl.wdr.de/wdr/1live/djsession/mp3/128/stream.mp3
+#EXTINF:0,1LIVE Special (Loop) (mp3 / 128 kBit/s)
+https://wdr-1live-specials.icecastssl.wdr.de/wdr/1live/specials/mp3/128/stream.mp3
+# WDR 2 Streams des WDR-Radios
+#EXTINF:0,WDR 2 (Bergisches Land) (mp3 / 128 kBit/s)
+https://wdr-wdr2-bergischesland.icecastssl.wdr.de/wdr/wdr2/bergischesland/mp3/128/stream.mp3
+#EXTINF:0,WDR 2 (Münsterland) (mp3 / 128 kBit/s)
+https://wdr-wdr2-muensterland.icecastssl.wdr.de/wdr/wdr2/muensterland/mp3/128/stream.mp3
+#EXTINF:0,WDR 2 (Ostwestaflen-Lippe) (mp3 / 128 kBit/s)
+https://wdr-wdr2-ostwestfalenlippe.icecastssl.wdr.de/wdr/wdr2/ostwestfalenlippe/mp3/128/stream.mp3
+#EXTINF:0,WDR 2 (Rhein und Ruhr) (mp3 / 128 kBit/s)
+https://wdr-wdr2-rheinruhr.icecastssl.wdr.de/wdr/wdr2/rheinruhr/mp3/128/stream.mp3
+#EXTINF:0,WDR 2 (Rheinland) (mp3 / 128 kBit/s)
+https://wdr-wdr2-rheinland.icecastssl.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
+#EXTINF:0,WDR 2 (Ruhrgebiet) (mp3 / 128 kBit/s)
+https://wdr-wdr2-ruhrgebiet.icecastssl.wdr.de/wdr/wdr2/ruhrgebiet/mp3/128/stream.mp3
+# WDR 3 Streams des WDR-Radios
+#EXTINF:0,WDR 3 (mp3 / 128 kBit/s)
+https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
+#EXTINF:0,WDR 3 (mp3 / 256 kBit/s)
+https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/256/stream.mp3
+# WDR 4 Streams des WDR-Radios
+#EXTINF:0,WDR 4 (mp3 / 128 kBit/s)
+https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
+# WDR 5 Streams des WDR-Radios
+#EXTINF:0,WDR 5 (mp3 / 128 kBit/s)
+https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3
+# WDR COSMO Streams des WDR-Radios
+#EXTINF:0,WDR COSMO (mp3 / 128 kBit/s)
+https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Al-Saut Al-Arabi [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-alsautalarabi.icecastssl.wdr.de/wdr/cosmo/alsautalarabi/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Bernama Kurdi [So 18-19 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-bernamakurdikoelnradyosu.icecastssl.wdr.de/wdr/cosmo/bernamakurdikoelnradyosu/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Elliniko Randevou [So 18-19 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-ellinikorandevouradioforum.icecastssl.wdr.de/wdr/cosmo/ellinikorandevouradioforum/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Estación Sur [So 18-19 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-estacionsurradiocolonia.icecastssl.wdr.de/wdr/cosmo/estacionsurradiocolonia/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Köln Radyosu [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-bernamakurdikoelnradyosu.icecastssl.wdr.de/wdr/cosmo/bernamakurdikoelnradyosu/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Radio Colonia [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-estacionsurradiocolonia.icecastssl.wdr.de/wdr/cosmo/estacionsurradiocolonia/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Radio Forum [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-ellinikorandevouradioforum.icecastssl.wdr.de/wdr/cosmo/ellinikorandevouradioforum/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Radio po polsku [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-popolskuevent.icecastssl.wdr.de/wdr/cosmo/popolskuevent/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO Radio po-russki [Mo-Fr 18-18.30 Uhr] (mp3 / 128 kBit/s)
+https://wdr-cosmo-porusskievent.icecastssl.wdr.de/wdr/cosmo/porusskievent/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Afrobeats (mp3 / 128 kBit/s)
+https://wdr-cosmo-afrobeat.icecastssl.wdr.de/wdr/cosmo/afrobeat/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Chill (mp3 / 128 kBit/s)
+https://wdr-cosmo-chillout.icecastssl.wdr.de/wdr/cosmo/chillout/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Dance (mp3 / 128 kBit/s)
+https://wdr-cosmo-dance.icecastssl.wdr.de/wdr/cosmo/dance/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Konzerte (mp3 / 128 kBit/s)
+https://wdr-cosmo-coslive.icecastssl.wdr.de/wdr/cosmo/coslive/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Selektor (mp3 / 128 kBit/s)
+https://wdr-cosmo-selektor.icecastssl.wdr.de/wdr/cosmo/selektor/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Trap (mp3 / 128 kBit/s)
+https://wdr-cosmo-trap.icecastssl.wdr.de/wdr/cosmo/trap/mp3/128/stream.mp3
+#EXTINF:0,WDR COSMO ― Vintage (mp3 / 128 kBit/s)
+https://wdr-cosmo-special.icecastssl.wdr.de/wdr/cosmo/special/mp3/128/stream.mp3
+#EXTINF:0,WDR Neu in COSMO (mp3 / 128 kBit/s)
+https://wdr-cosmo-neuincosmo.icecastssl.wdr.de/wdr/cosmo/neuincosmo/mp3/128/stream.mp3
+# WDR EVENT Streams des WDR-Radios
+#EXTINF:0,WDR EVENT (mp3 / 128 kBit/s)
+https://wdr-wdr-event.icecastssl.wdr.de/wdr/wdr/event/mp3/128/stream.mp3
+# Die Maus Streams des WDR-Radios
+#EXTINF:0,WDR MAUS (mp3 / 56 kBit/s)
+https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/56/stream.mp3
+#EXTINF:0,WDR MAUS (mp3 / 128 kBit/s)
+https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3
+# WDR VERA (Verkehrsinfos)
+#EXTINF:0,WDR VERA (Verkehrsinfos) (mp3 / 128 kBit/s)
+https://wdr-vera-live.icecastssl.wdr.de/wdr/vera/live/mp3/128/stream.mp3
+#EXTM3U
+## These are the BBC’s new high quality 320kb/s audio streams, using Apple’s proprietary HLS (hypertext transfer protocol live streaming) format. Basically this chops the stream into tiny files, and stitches them together again once they have got through various firewalls etc. These are particularly appropriate for mobile devices. ##
+#EXTINF:0,BBC Radio 1
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8
+#EXTINF:0,BBC Radio 1Xtra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_1xtra.m3u8
+#EXTINF:0,BBC Radio 2
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_two.m3u8
+#EXTINF:0,BBC Radio 3
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_three.m3u8
+#EXTINF:0,BBC Radio 4
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourfm.m3u8
+#EXTINF:0,BBC Radio 4LW
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_fourlw.m3u8
+#EXTINF:0,BBC Radio 4 Extra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_four_extra.m3u8
+#EXTINF:0,BBC Radio 5 Live
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live.m3u8
+#EXTINF:0,BBC Radio 5 Live Sports Extra
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8
+#EXTINF:0,BBC Radio 6 Music
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_6music.m3u8
+#EXTINF:0,BBC Asian Network
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_asian_network.m3u8
+#EXTM3U
+## These internet radio URLs replace the ones used in the former GarfNet Internet Radio player. They should all work directly in your browser and they should open in a new browser tab. Alternatively, you may copy them and use them in an internet radio application of your choice. ##
+#EXTINF:0,BBC Radio 1 FM
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1_mf_p
+#EXTINF:0,BBC Radio 2 FM
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio2_mf_p
+#EXTINF:0,BBC Radio 3 FM
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio3_mf_p
+#EXTINF:0,BBC Radio 4 FM
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4fm_mf_p
+#EXTINF:0,BBC Radio 4 LW 198 kHz
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4lw_mf_p
+#EXTINF:0,BBC Radio 4 Extra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p
+#EXTINF:0,BBC Radio 5 Live
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio5live_mf_p
+#EXTINF:0,BBC Radio 6 Music
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_6music_mf_p
+#EXTINF:0,BBC 1Xtra
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio1xtra_mf_p
+#EXTINF:0,BBC Asian Network
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_asianet_mf_p
+#EXTINF:0,BBC World Service English (backup)
+http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk_backup
+#EXTINF:0,BBC World Service English (UK Schedule)
+http://wsdownload.bbc.co.uk/worldservice/meta/live/shoutcast/mp3/eieuk.pls
+#EXTINF:0,(ILR) Classic FM
+http://media-ice.musicradio.com:80/ClassicFMMP3
+#EXTINF:0,(pirate) Radio Caroline
+http://sc3.radiocaroline.net:8030/listen.m3u
+#EXTINF:0,(pirate) Radio North Sea International (128kb/s AAC)
+http://109.169.54.86:8044/listen.pls
+#EXTINF:0,(pirate) Radio North Sea International (192 kb/s MP3)
+http://188.40.135.197:8388/listen.pls
+#EXTM3U
+#EXTINF:0,BFBS Aldershot
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs13.aac
+#EXTINF:0,BFBS Beats
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs20.aac
+#EXTINF:0,BFBS Blandford
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs14.aac
+#EXTINF:0,BFBS Brize Norton
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs25.aac
+#EXTINF:0,BFBS Brunei
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs10.aac
+#EXTINF:0,BFBS Canada
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs12.aac
+#EXTINF:0,BFBS Catterick
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs15.aac
+#EXTINF:0,BFBS Colchester
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs16.aac
+#EXTINF:0,BFBS Cyprus
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.aac
+#EXTINF:0,BFBS Dirt
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs22.aac
+#EXTINF:0,BFBS Falklands
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac
+#EXTINF:0,BFBS Germany
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs5.aac
+#EXTINF:0,BFBS Gibraltar
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs7.aac
+#EXTINF:0,BFBS Gurkha Network
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac
+#EXTINF:0,BFBS Northern Ireland
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs4.aac
+#EXTINF:0,BFBS OPS
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs9.aac
+#EXTINF:0,BFBS Radio 2
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs2.aac
+#EXTINF:0,BFBS Rewind
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs21.aac
+#EXTINF:0,BFBS Salisbury Plain
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs17.aac
+#EXTINF:0,BFBS Samishran
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs23.aac
+#EXTINF:0,BFBS Scotland
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs18.aac
+#EXTINF:0,BFBS UK
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs1.aac
+#EXTINF:0,BFBS Unwind
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs24.aac
+#EXTM3U
+#EXTINF:-1,AFN|Aviano
+https://20873.live.streamtheworld.com/AFNE_AVN.mp3
+#EXTINF:-1,AFN|Bahrain
+https://20423.live.streamtheworld.com/AFNE_BHN.mp3
+#EXTINF:-1,AFN|Bavaria
+https://20133.live.streamtheworld.com/AFNE_BAV.mp3
+#EXTINF:-1,AFN|Benelux
+https://20133.live.streamtheworld.com/AFNE_BLX.mp3
+#EXTINF:-1,AFN|Country
+https://17963.live.streamtheworld.com/AFN_CTY.mp3
+#EXTINF:-1,AFN|Fans
+https://17533.live.streamtheworld.com/AFN_FAN.mp3
+#EXTINF:-1,AFN|Freedom
+https://20813.live.streamtheworld.com/AFN_FRE.mp3
+#EXTINF:-1,AFN|GITMO
+https://22713.live.streamtheworld.com/AFNE_GMO.mp3
+#EXTINF:-1,AFN|Gravity
+https://14103.live.streamtheworld.com/AFN_GRV.mp3
+#EXTINF:-1,AFN|Holiday
+https://23603.live.streamtheworld.com/AFN_SEA.mp3
+#EXTINF:-1,AFN|Hot AC
+https://20813.live.streamtheworld.com/AFN_HOT.mp3
+#EXTINF:-1,AFN|Incirlik
+https://20423.live.streamtheworld.com/AFNE_ICK.mp3
+#EXTINF:-1,AFN|Joe Radio
+https://18443.live.streamtheworld.com/AFN_JOE.mp3
+#EXTINF:-1,AFN|Kaiserslautern
+https://20133.live.streamtheworld.com/AFNE_KTN.mp3
+#EXTINF:-1,AFN|Lajes
+https://22613.live.streamtheworld.com/AFNE_LJS.mp3
+#EXTINF:-1,AFN|Legacy
+https://14543.live.streamtheworld.com/AFN_LGY.mp3
+#EXTINF:-1,AFN|Naples
+https://20873.live.streamtheworld.com/AFNE_NAP.mp3
+#EXTINF:-1,AFN|PowerTalk
+https://20813.live.streamtheworld.com/AFN_PTK.mp3
+#EXTINF:-1,AFN|Rota
+https://20423.live.streamtheworld.com/AFNE_RTA.mp3
+#EXTINF:-1,AFN|Sigonella
+https://20423.live.streamtheworld.com/AFNE_SIG.mp3
+#EXTINF:-1,AFN|Souda Bay
+https://22323.live.streamtheworld.com/AFNE_SDB.mp3
+#EXTINF:-1,AFN|Spangdahlem
+https://22713.live.streamtheworld.com/AFNE_SPG.mp3
+#EXTINF:-1,AFN|Stuttgart
+https://23603.live.streamtheworld.com/AFNE_STU.mp3
+#EXTINF:-1,AFN|The Voice
+https://23113.live.streamtheworld.com/AFN_VCE.mp3
+#EXTINF:-1,AFN|Vicenza
+https://23603.live.streamtheworld.com/AFNE_VIC.mp3
+#EXTINF:-1,AFN|Wiesbaden
+https://20873.live.streamtheworld.com/AFNE_WBN.mp3
